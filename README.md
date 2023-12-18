@@ -31,6 +31,12 @@ or
 # Example command to run the code for filtering
 cd filter
 python main.py
+
+or 
+
+# Example command to run the code for generating wordcloud
+cd wordcloud 
+python main.py
 ```
 
 ## Authors and Acknowledgement
