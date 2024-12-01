@@ -1,0 +1,1280 @@
+# Format: CategoryFrom > CategoryTo
+# Below each heading, the transitions are detailed as: Subcategory [Weight] LinkedCategorySubtype
+
+evaluation > papertype
+Algorithm Performance [12] Application
+Environment and Practices [9] Application
+User Performance [6] Application
+User Experience [6] Application
+Algorithm Performance [5] Evaluation
+Environment and Practices [25] Evaluation
+User Performance [9] Evaluation
+User Experience [11] Evaluation
+Algorithm Performance [3] Model
+Environment and Practices [1] Model
+Algorithm Performance [2] System
+Environment and Practices [2] System
+Algorithm Performance [28] Technique
+Environment and Practices [4] Technique
+User Performance [5] Technique
+User Experience [5] Technique
+
+evaluation > venue
+Algorithm Performance [1] CHI
+Environment and Practices [9] CHI
+User Performance [4] CHI
+User Experience [3] CHI
+Algorithm Performance [18] Other Venues
+Environment and Practices [16] Other Venues
+User Performance [9] Other Venues
+User Experience [10] Other Venues
+Algorithm Performance [4] SP
+Environment and Practices [3] SP
+User Performance [2] SP
+Algorithm Performance [4] TVCG
+Environment and Practices [1] TVCG
+User Performance [1] TVCG
+User Experience [2] TVCG
+Algorithm Performance [2] UIST
+Environment and Practices [3] UIST
+User Experience [2] UIST
+Algorithm Performance [12] USS
+Environment and Practices [4] USS
+User Performance [2] USS
+User Experience [1] USS
+Algorithm Performance [9] VR
+Environment and Practices [5] VR
+User Performance [2] VR
+User Experience [4] VR
+
+evaluation > strategy
+Algorithm Performance [50] Benchmarking
+Environment and Practices [7] Benchmarking
+User Performance [6] Benchmarking
+User Experience [5] Benchmarking
+Algorithm Performance [13] Human Experimentation
+Environment and Practices [33] Human Experimentation
+User Performance [20] Human Experimentation
+User Experience [22] Human Experimentation
+Algorithm Performance [3] Interview
+Environment and Practices [23] Interview
+User Performance [6] Interview
+User Experience [9] Interview
+Algorithm Performance [4] Questionnaire
+Environment and Practices [21] Questionnaire
+User Performance [14] Questionnaire
+User Experience [14] Questionnaire
+Algorithm Performance [18] Data Science
+User Performance [2] Data Science
+User Experience [2] Data Science
+Algorithm Performance [1] Engineering Research
+Environment and Practices [1] Engineering Research
+Algorithm Performance [1] Meta Science
+Environment and Practices [1] Meta Science
+
+evaluation > reality
+Algorithm Performance [27] Virtual Reality
+Environment and Practices [21] Virtual Reality
+User Performance [13] Virtual Reality
+User Experience [12] Virtual Reality
+Algorithm Performance [23] Augmented Reality
+Environment and Practices [20] Augmented Reality
+User Performance [7] Augmented Reality
+User Experience [11] Augmented Reality
+Algorithm Performance [7] Mixed Reality
+Environment and Practices [6] Mixed Reality
+User Performance [2] Mixed Reality
+User Experience [4] Mixed Reality
+Algorithm Performance [5] Extended Reality
+Environment and Practices [1] Extended Reality
+
+evaluation > metaverse
+Algorithm Performance [32] Virtual World
+Environment and Practices [22] Virtual World
+User Performance [13] Virtual World
+User Experience [12] Virtual World
+Algorithm Performance [37] Lifelogging
+Environment and Practices [15] Lifelogging
+User Performance [9] Lifelogging
+User Experience [10] Lifelogging
+Algorithm Performance [23] Augmented Reality
+Environment and Practices [20] Augmented Reality
+User Performance [7] Augmented Reality
+User Experience [11] Augmented Reality
+Algorithm Performance [17] Mirror World
+Environment and Practices [9] Mirror World
+User Performance [3] Mirror World
+User Experience [5] Mirror World
+
+evaluation > properties
+Algorithm Performance [8] Authentication
+Environment and Practices [7] Authentication
+User Performance [5] Authentication
+User Experience [5] Authentication
+Algorithm Performance [5] Confidentiality
+Environment and Practices [6] Confidentiality
+User Performance [2] Confidentiality
+User Experience [3] Confidentiality
+Algorithm Performance [4] Authorization
+Environment and Practices [4] Authorization
+User Performance [1] Authorization
+User Experience [1] Authorization
+Algorithm Performance [5] Integrity
+Environment and Practices [4] Integrity
+User Performance [3] Integrity
+User Experience [2] Integrity
+Algorithm Performance [4] Identification
+Environment and Practices [4] Identification
+User Performance [2] Identification
+User Experience [1] Identification
+Algorithm Performance [2] Availability
+Algorithm Performance [1] Non-repudiation
+User Experience [1] Non-repudiation
+Algorithm Performance [9] Unobservability
+Environment and Practices [3] Unobservability
+User Experience [4] Unobservability
+Environment and Practices [9] Awareness
+User Performance [3] Awareness
+User Experience [4] Awareness
+Algorithm Performance [6] Anonymity
+User Performance [1] Anonymity
+Algorithm Performance [2] Policy
+Environment and Practices [2] Policy
+User Performance [2] Policy
+User Experience [1] Policy
+Algorithm Performance [3] Unlinkability
+Environment and Practices [1] Unlinkability
+Algorithm Performance [1] Deniability
+Environment and Practices [1] Deniability
+User Performance [1] Deniability
+
+papertype > evaluation
+Application [12] Algorithm Performance
+Application [9] Environment and Practices
+Application [6] User Performance
+Application [6] User Experience
+Evaluation [5] Algorithm Performance
+Evaluation [25] Environment and Practices
+Evaluation [9] User Performance
+Evaluation [11] User Experience
+Model [3] Algorithm Performance
+Model [1] Environment and Practices
+System [2] Algorithm Performance
+System [2] Environment and Practices
+Technique [28] Algorithm Performance
+Technique [4] Environment and Practices
+Technique [5] User Performance
+Technique [5] User Experience
+
+papertype > venue
+Application [2] CHI
+Evaluation [7] CHI
+System [1] CHI
+Application [6] Other Venues
+Evaluation [11] Other Venues
+Model [4] Other Venues
+System [3] Other Venues
+Technique [10] Other Venues
+Application [3] SP
+Evaluation [2] SP
+Technique [2] SP
+Application [1] TVCG
+Evaluation [1] TVCG
+Technique [3] TVCG
+Application [1] UIST
+Evaluation [2] UIST
+Technique [2] UIST
+Application [6] USS
+Evaluation [4] USS
+Technique [3] USS
+Application [2] VR
+Evaluation [3] VR
+Technique [8] VR
+
+papertype > strategy
+Application [12] Benchmarking
+Evaluation [5] Benchmarking
+Model [3] Benchmarking
+System [3] Benchmarking
+Technique [28] Benchmarking
+Application [12] Human Experimentation
+Evaluation [21] Human Experimentation
+Technique [9] Human Experimentation
+Application [2] Interview
+Evaluation [19] Interview
+System [1] Interview
+Technique [2] Interview
+Application [8] Questionnaire
+Evaluation [9] Questionnaire
+Model [1] Questionnaire
+Technique [3] Questionnaire
+Application [3] Data Science
+Evaluation [2] Data Science
+Model [2] Data Science
+Technique [12] Data Science
+Evaluation [1] Engineering Research
+System [1] Engineering Research
+Model [2] Meta Science
+
+papertype > reality
+Application [9] Virtual Reality
+Evaluation [18] Virtual Reality
+Model [1] Virtual Reality
+Technique [18] Virtual Reality
+Application [13] Augmented Reality
+Evaluation [11] Augmented Reality
+Model [2] Augmented Reality
+System [3] Augmented Reality
+Technique [12] Augmented Reality
+Application [4] Mixed Reality
+Evaluation [1] Mixed Reality
+Model [1] Mixed Reality
+System [1] Mixed Reality
+Technique [4] Mixed Reality
+Application [1] Extended Reality
+Evaluation [2] Extended Reality
+Model [1] Extended Reality
+System [1] Extended Reality
+Technique [1] Extended Reality
+
+papertype > metaverse
+Application [10] Virtual World
+Evaluation [20] Virtual World
+Model [2] Virtual World
+System [1] Virtual World
+Technique [19] Virtual World
+Application [8] Lifelogging
+Evaluation [11] Lifelogging
+Model [2] Lifelogging
+System [2] Lifelogging
+Technique [24] Lifelogging
+Application [13] Augmented Reality
+Evaluation [11] Augmented Reality
+Model [2] Augmented Reality
+System [3] Augmented Reality
+Technique [12] Augmented Reality
+Application [5] Mirror World
+Evaluation [5] Mirror World
+Model [2] Mirror World
+System [2] Mirror World
+Technique [9] Mirror World
+
+papertype > properties
+Application [2] Authentication
+Evaluation [5] Authentication
+Model [1] Authentication
+Technique [7] Authentication
+Application [3] Confidentiality
+Evaluation [4] Confidentiality
+System [1] Confidentiality
+Technique [2] Confidentiality
+Application [3] Authorization
+Evaluation [2] Authorization
+System [2] Authorization
+Technique [1] Authorization
+Application [3] Integrity
+Evaluation [1] Integrity
+Model [1] Integrity
+Technique [2] Integrity
+Evaluation [4] Identification
+Model [1] Identification
+Technique [2] Identification
+Application [1] Availability
+Technique [1] Availability
+Application [2] Non-repudiation
+Evaluation [4] Unobservability
+Model [1] Unobservability
+Technique [6] Unobservability
+Application [2] Awareness
+Evaluation [7] Awareness
+Application [1] Anonymity
+Technique [5] Anonymity
+Application [2] Policy
+Evaluation [2] Policy
+Application [1] Unlinkability
+Evaluation [1] Unlinkability
+System [1] Unlinkability
+Technique [1] Unlinkability
+Application [1] Deniability
+Technique [1] Deniability
+
+venue > evaluation
+CHI [1] Algorithm Performance
+Other Venues [18] Algorithm Performance
+SP [4] Algorithm Performance
+TVCG [4] Algorithm Performance
+UIST [2] Algorithm Performance
+USS [12] Algorithm Performance
+VR [9] Algorithm Performance
+CHI [9] Environment and Practices
+Other Venues [16] Environment and Practices
+SP [3] Environment and Practices
+TVCG [1] Environment and Practices
+UIST [3] Environment and Practices
+USS [4] Environment and Practices
+VR [5] Environment and Practices
+CHI [4] User Performance
+Other Venues [9] User Performance
+SP [2] User Performance
+TVCG [1] User Performance
+USS [2] User Performance
+VR [2] User Performance
+CHI [3] User Experience
+Other Venues [10] User Experience
+TVCG [2] User Experience
+UIST [2] User Experience
+USS [1] User Experience
+VR [4] User Experience
+
+venue > papertype
+CHI [2] Application
+CHI [7] Evaluation
+CHI [1] System
+Other Venues [6] Application
+Other Venues [11] Evaluation
+Other Venues [4] Model
+Other Venues [3] System
+Other Venues [10] Technique
+SP [3] Application
+SP [2] Evaluation
+SP [2] Technique
+TVCG [1] Application
+TVCG [1] Evaluation
+TVCG [3] Technique
+UIST [1] Application
+UIST [2] Evaluation
+UIST [2] Technique
+USS [6] Application
+USS [4] Evaluation
+USS [3] Technique
+VR [2] Application
+VR [3] Evaluation
+VR [8] Technique
+
+venue > strategy
+CHI [1] Benchmarking
+CHI [8] Human Experimentation
+CHI [6] Interview
+CHI [4] Questionnaire
+Other Venues [19] Benchmarking
+Other Venues [16] Human Experimentation
+Other Venues [7] Interview
+Other Venues [9] Questionnaire
+Other Venues [8] Data Science
+Other Venues [1] Engineering Research
+Other Venues [2] Meta Science
+SP [4] Benchmarking
+SP [3] Human Experimentation
+SP [2] Interview
+SP [1] Questionnaire
+SP [1] Data Science
+TVCG [4] Benchmarking
+TVCG [2] Human Experimentation
+TVCG [2] Interview
+TVCG [1] Questionnaire
+TVCG [1] Data Science
+UIST [2] Benchmarking
+UIST [3] Human Experimentation
+UIST [3] Interview
+UIST [2] Data Science
+USS [12] Benchmarking
+USS [4] Human Experimentation
+USS [2] Interview
+USS [2] Questionnaire
+USS [2] Data Science
+USS [1] Engineering Research
+VR [9] Benchmarking
+VR [6] Human Experimentation
+VR [2] Interview
+VR [4] Questionnaire
+VR [5] Data Science
+
+venue > reality
+CHI [6] Virtual Reality
+CHI [3] Augmented Reality
+CHI [1] Extended Reality
+Other Venues [16] Virtual Reality
+Other Venues [20] Augmented Reality
+Other Venues [5] Mixed Reality
+Other Venues [4] Extended Reality
+SP [3] Virtual Reality
+SP [5] Augmented Reality
+TVCG [3] Virtual Reality
+TVCG [2] Augmented Reality
+TVCG [1] Mixed Reality
+UIST [1] Virtual Reality
+UIST [4] Augmented Reality
+USS [6] Virtual Reality
+USS [5] Augmented Reality
+USS [3] Mixed Reality
+USS [1] Extended Reality
+VR [11] Virtual Reality
+VR [2] Augmented Reality
+VR [2] Mixed Reality
+
+venue > metaverse
+CHI [7] Virtual World
+CHI [5] Lifelogging
+CHI [3] Augmented Reality
+CHI [1] Mirror World
+Other Venues [20] Virtual World
+Other Venues [18] Lifelogging
+Other Venues [20] Augmented Reality
+Other Venues [12] Mirror World
+SP [3] Virtual World
+SP [2] Lifelogging
+SP [5] Augmented Reality
+SP [1] Mirror World
+TVCG [3] Virtual World
+TVCG [3] Lifelogging
+TVCG [2] Augmented Reality
+TVCG [1] Mirror World
+UIST [1] Virtual World
+UIST [3] Lifelogging
+UIST [4] Augmented Reality
+USS [7] Virtual World
+USS [7] Lifelogging
+USS [5] Augmented Reality
+USS [6] Mirror World
+VR [11] Virtual World
+VR [9] Lifelogging
+VR [2] Augmented Reality
+VR [2] Mirror World
+
+venue > properties
+CHI [1] Authentication
+Other Venues [8] Authentication
+SP [2] Authentication
+VR [4] Authentication
+CHI [2] Confidentiality
+Other Venues [3] Confidentiality
+TVCG [1] Confidentiality
+UIST [1] Confidentiality
+USS [2] Confidentiality
+VR [1] Confidentiality
+CHI [1] Authorization
+Other Venues [4] Authorization
+SP [1] Authorization
+USS [2] Authorization
+Other Venues [3] Integrity
+TVCG [1] Integrity
+UIST [1] Integrity
+USS [1] Integrity
+VR [1] Integrity
+CHI [2] Identification
+Other Venues [3] Identification
+SP [1] Identification
+VR [1] Identification
+Other Venues [2] Availability
+Other Venues [1] Non-repudiation
+USS [1] Non-repudiation
+CHI [1] Unobservability
+Other Venues [2] Unobservability
+TVCG [1] Unobservability
+USS [4] Unobservability
+VR [3] Unobservability
+CHI [2] Awareness
+Other Venues [4] Awareness
+SP [1] Awareness
+UIST [2] Awareness
+Other Venues [1] Anonymity
+SP [2] Anonymity
+TVCG [2] Anonymity
+VR [1] Anonymity
+Other Venues [2] Policy
+USS [2] Policy
+Other Venues [1] Unlinkability
+UIST [1] Unlinkability
+USS [1] Unlinkability
+VR [1] Unlinkability
+CHI [1] Deniability
+VR [1] Deniability
+
+strategy > evaluation
+Benchmarking [50] Algorithm Performance
+Human Experimentation [13] Algorithm Performance
+Interview [3] Algorithm Performance
+Questionnaire [4] Algorithm Performance
+Data Science [18] Algorithm Performance
+Engineering Research [1] Algorithm Performance
+Meta Science [1] Algorithm Performance
+Benchmarking [7] Environment and Practices
+Human Experimentation [33] Environment and Practices
+Interview [23] Environment and Practices
+Questionnaire [21] Environment and Practices
+Engineering Research [1] Environment and Practices
+Meta Science [1] Environment and Practices
+Benchmarking [6] User Performance
+Human Experimentation [20] User Performance
+Interview [6] User Performance
+Questionnaire [14] User Performance
+Data Science [2] User Performance
+Benchmarking [5] User Experience
+Human Experimentation [22] User Experience
+Interview [9] User Experience
+Questionnaire [14] User Experience
+Data Science [2] User Experience
+
+strategy > venue
+Benchmarking [1] CHI
+Human Experimentation [8] CHI
+Interview [6] CHI
+Questionnaire [4] CHI
+Benchmarking [19] Other Venues
+Human Experimentation [16] Other Venues
+Interview [7] Other Venues
+Questionnaire [9] Other Venues
+Data Science [8] Other Venues
+Engineering Research [1] Other Venues
+Meta Science [2] Other Venues
+Benchmarking [4] SP
+Human Experimentation [3] SP
+Interview [2] SP
+Questionnaire [1] SP
+Data Science [1] SP
+Benchmarking [4] TVCG
+Human Experimentation [2] TVCG
+Interview [2] TVCG
+Questionnaire [1] TVCG
+Data Science [1] TVCG
+Benchmarking [2] UIST
+Human Experimentation [3] UIST
+Interview [3] UIST
+Data Science [2] UIST
+Benchmarking [12] USS
+Human Experimentation [4] USS
+Interview [2] USS
+Questionnaire [2] USS
+Data Science [2] USS
+Engineering Research [1] USS
+Benchmarking [9] VR
+Human Experimentation [6] VR
+Interview [2] VR
+Questionnaire [4] VR
+Data Science [5] VR
+
+strategy > papertype
+Benchmarking [12] Application
+Human Experimentation [12] Application
+Interview [2] Application
+Questionnaire [8] Application
+Data Science [3] Application
+Benchmarking [5] Evaluation
+Human Experimentation [21] Evaluation
+Interview [19] Evaluation
+Questionnaire [9] Evaluation
+Data Science [2] Evaluation
+Engineering Research [1] Evaluation
+Benchmarking [3] Model
+Questionnaire [1] Model
+Data Science [2] Model
+Meta Science [2] Model
+Benchmarking [3] System
+Interview [1] System
+Engineering Research [1] System
+Benchmarking [28] Technique
+Human Experimentation [9] Technique
+Interview [2] Technique
+Questionnaire [3] Technique
+Data Science [12] Technique
+
+strategy > reality
+Benchmarking [27] Virtual Reality
+Human Experimentation [26] Virtual Reality
+Interview [13] Virtual Reality
+Questionnaire [12] Virtual Reality
+Data Science [15] Virtual Reality
+Meta Science [1] Virtual Reality
+Benchmarking [24] Augmented Reality
+Human Experimentation [15] Augmented Reality
+Interview [9] Augmented Reality
+Questionnaire [11] Augmented Reality
+Data Science [6] Augmented Reality
+Engineering Research [1] Augmented Reality
+Meta Science [1] Augmented Reality
+Benchmarking [8] Mixed Reality
+Human Experimentation [5] Mixed Reality
+Interview [2] Mixed Reality
+Questionnaire [3] Mixed Reality
+Data Science [2] Mixed Reality
+Engineering Research [1] Mixed Reality
+Benchmarking [5] Extended Reality
+Human Experimentation [1] Extended Reality
+Interview [1] Extended Reality
+Data Science [1] Extended Reality
+Engineering Research [1] Extended Reality
+
+strategy > metaverse
+Benchmarking [32] Virtual World
+Human Experimentation [27] Virtual World
+Interview [14] Virtual World
+Questionnaire [12] Virtual World
+Data Science [16] Virtual World
+Engineering Research [1] Virtual World
+Meta Science [1] Virtual World
+Benchmarking [37] Lifelogging
+Human Experimentation [20] Lifelogging
+Interview [9] Lifelogging
+Questionnaire [8] Lifelogging
+Data Science [17] Lifelogging
+Engineering Research [1] Lifelogging
+Benchmarking [24] Augmented Reality
+Human Experimentation [15] Augmented Reality
+Interview [9] Augmented Reality
+Questionnaire [11] Augmented Reality
+Data Science [6] Augmented Reality
+Engineering Research [1] Augmented Reality
+Meta Science [1] Augmented Reality
+Benchmarking [18] Mirror World
+Human Experimentation [7] Mirror World
+Interview [4] Mirror World
+Questionnaire [4] Mirror World
+Data Science [6] Mirror World
+Engineering Research [2] Mirror World
+
+strategy > properties
+Benchmarking [8] Authentication
+Human Experimentation [8] Authentication
+Interview [4] Authentication
+Questionnaire [5] Authentication
+Data Science [7] Authentication
+Meta Science [1] Authentication
+Benchmarking [5] Confidentiality
+Human Experimentation [5] Confidentiality
+Interview [2] Confidentiality
+Questionnaire [4] Confidentiality
+Data Science [1] Confidentiality
+Benchmarking [5] Authorization
+Human Experimentation [1] Authorization
+Interview [3] Authorization
+Questionnaire [1] Authorization
+Engineering Research [1] Authorization
+Benchmarking [5] Integrity
+Human Experimentation [5] Integrity
+Interview [1] Integrity
+Questionnaire [4] Integrity
+Data Science [2] Integrity
+Meta Science [1] Integrity
+Benchmarking [4] Identification
+Human Experimentation [4] Identification
+Interview [3] Identification
+Questionnaire [1] Identification
+Data Science [1] Identification
+Benchmarking [2] Availability
+Benchmarking [1] Non-repudiation
+Human Experimentation [1] Non-repudiation
+Data Science [1] Non-repudiation
+Benchmarking [9] Unobservability
+Human Experimentation [5] Unobservability
+Interview [3] Unobservability
+Questionnaire [1] Unobservability
+Data Science [3] Unobservability
+Engineering Research [1] Unobservability
+Human Experimentation [8] Awareness
+Interview [6] Awareness
+Questionnaire [3] Awareness
+Benchmarking [6] Anonymity
+Human Experimentation [1] Anonymity
+Data Science [2] Anonymity
+Benchmarking [2] Policy
+Human Experimentation [2] Policy
+Interview [1] Policy
+Questionnaire [1] Policy
+Benchmarking [3] Unlinkability
+Human Experimentation [1] Unlinkability
+Interview [1] Unlinkability
+Data Science [2] Unlinkability
+Benchmarking [1] Deniability
+Human Experimentation [1] Deniability
+Questionnaire [1] Deniability
+
+reality > evaluation
+Virtual Reality [27] Algorithm Performance
+Augmented Reality [23] Algorithm Performance
+Mixed Reality [7] Algorithm Performance
+Extended Reality [5] Algorithm Performance
+Virtual Reality [21] Environment and Practices
+Augmented Reality [20] Environment and Practices
+Mixed Reality [6] Environment and Practices
+Extended Reality [1] Environment and Practices
+Virtual Reality [13] User Performance
+Augmented Reality [7] User Performance
+Mixed Reality [2] User Performance
+Virtual Reality [12] User Experience
+Augmented Reality [11] User Experience
+Mixed Reality [4] User Experience
+
+reality > venue
+Virtual Reality [6] CHI
+Augmented Reality [3] CHI
+Extended Reality [1] CHI
+Virtual Reality [16] Other Venues
+Augmented Reality [20] Other Venues
+Mixed Reality [5] Other Venues
+Extended Reality [4] Other Venues
+Virtual Reality [3] SP
+Augmented Reality [5] SP
+Virtual Reality [3] TVCG
+Augmented Reality [2] TVCG
+Mixed Reality [1] TVCG
+Virtual Reality [1] UIST
+Augmented Reality [4] UIST
+Virtual Reality [6] USS
+Augmented Reality [5] USS
+Mixed Reality [3] USS
+Extended Reality [1] USS
+Virtual Reality [11] VR
+Augmented Reality [2] VR
+Mixed Reality [2] VR
+
+reality > papertype
+Virtual Reality [9] Application
+Augmented Reality [13] Application
+Mixed Reality [4] Application
+Extended Reality [1] Application
+Virtual Reality [18] Evaluation
+Augmented Reality [11] Evaluation
+Mixed Reality [1] Evaluation
+Extended Reality [2] Evaluation
+Virtual Reality [1] Model
+Augmented Reality [2] Model
+Mixed Reality [1] Model
+Extended Reality [1] Model
+Augmented Reality [3] System
+Mixed Reality [1] System
+Extended Reality [1] System
+Virtual Reality [18] Technique
+Augmented Reality [12] Technique
+Mixed Reality [4] Technique
+Extended Reality [1] Technique
+
+reality > strategy
+Virtual Reality [27] Benchmarking
+Augmented Reality [24] Benchmarking
+Mixed Reality [8] Benchmarking
+Extended Reality [5] Benchmarking
+Virtual Reality [26] Human Experimentation
+Augmented Reality [15] Human Experimentation
+Mixed Reality [5] Human Experimentation
+Extended Reality [1] Human Experimentation
+Virtual Reality [13] Interview
+Augmented Reality [9] Interview
+Mixed Reality [2] Interview
+Extended Reality [1] Interview
+Virtual Reality [12] Questionnaire
+Augmented Reality [11] Questionnaire
+Mixed Reality [3] Questionnaire
+Virtual Reality [15] Data Science
+Augmented Reality [6] Data Science
+Mixed Reality [2] Data Science
+Extended Reality [1] Data Science
+Augmented Reality [1] Engineering Research
+Mixed Reality [1] Engineering Research
+Extended Reality [1] Engineering Research
+Virtual Reality [1] Meta Science
+Augmented Reality [1] Meta Science
+
+reality > metaverse
+Virtual Reality [46] Virtual World
+Augmented Reality [9] Virtual World
+Mixed Reality [3] Virtual World
+Extended Reality [6] Virtual World
+Virtual Reality [26] Lifelogging
+Augmented Reality [22] Lifelogging
+Mixed Reality [7] Lifelogging
+Extended Reality [6] Lifelogging
+Virtual Reality [8] Augmented Reality
+Augmented Reality [41] Augmented Reality
+Mixed Reality [7] Augmented Reality
+Extended Reality [1] Augmented Reality
+Virtual Reality [9] Mirror World
+Augmented Reality [14] Mirror World
+Mixed Reality [11] Mirror World
+Extended Reality [6] Mirror World
+
+reality > properties
+Virtual Reality [12] Authentication
+Augmented Reality [5] Authentication
+Extended Reality [1] Authentication
+Virtual Reality [3] Confidentiality
+Augmented Reality [8] Confidentiality
+Mixed Reality [2] Confidentiality
+Virtual Reality [1] Authorization
+Augmented Reality [6] Authorization
+Mixed Reality [2] Authorization
+Virtual Reality [7] Integrity
+Augmented Reality [1] Integrity
+Virtual Reality [4] Identification
+Augmented Reality [2] Identification
+Extended Reality [1] Identification
+Augmented Reality [2] Availability
+Mixed Reality [1] Availability
+Extended Reality [1] Availability
+Virtual Reality [1] Non-repudiation
+Augmented Reality [2] Non-repudiation
+Virtual Reality [7] Unobservability
+Augmented Reality [2] Unobservability
+Mixed Reality [3] Unobservability
+Extended Reality [1] Unobservability
+Virtual Reality [3] Awareness
+Augmented Reality [5] Awareness
+Extended Reality [1] Awareness
+Virtual Reality [4] Anonymity
+Augmented Reality [3] Anonymity
+Mixed Reality [1] Anonymity
+Virtual Reality [1] Policy
+Augmented Reality [2] Policy
+Mixed Reality [1] Policy
+Virtual Reality [2] Unlinkability
+Augmented Reality [2] Unlinkability
+Extended Reality [1] Unlinkability
+Virtual Reality [1] Deniability
+Augmented Reality [1] Deniability
+Mixed Reality [1] Deniability
+
+metaverse > evaluation
+Virtual World [32] Algorithm Performance
+Lifelogging [37] Algorithm Performance
+Augmented Reality [23] Algorithm Performance
+Mirror World [17] Algorithm Performance
+Virtual World [22] Environment and Practices
+Lifelogging [15] Environment and Practices
+Augmented Reality [20] Environment and Practices
+Mirror World [9] Environment and Practices
+Virtual World [13] User Performance
+Lifelogging [9] User Performance
+Augmented Reality [7] User Performance
+Mirror World [3] User Performance
+Virtual World [12] User Experience
+Lifelogging [10] User Experience
+Augmented Reality [11] User Experience
+Mirror World [5] User Experience
+
+metaverse > venue
+Virtual World [7] CHI
+Lifelogging [5] CHI
+Augmented Reality [3] CHI
+Mirror World [1] CHI
+Virtual World [20] Other Venues
+Lifelogging [18] Other Venues
+Augmented Reality [20] Other Venues
+Mirror World [12] Other Venues
+Virtual World [3] SP
+Lifelogging [2] SP
+Augmented Reality [5] SP
+Mirror World [1] SP
+Virtual World [3] TVCG
+Lifelogging [3] TVCG
+Augmented Reality [2] TVCG
+Mirror World [1] TVCG
+Virtual World [1] UIST
+Lifelogging [3] UIST
+Augmented Reality [4] UIST
+Virtual World [7] USS
+Lifelogging [7] USS
+Augmented Reality [5] USS
+Mirror World [6] USS
+Virtual World [11] VR
+Lifelogging [9] VR
+Augmented Reality [2] VR
+Mirror World [2] VR
+
+metaverse > papertype
+Virtual World [10] Application
+Lifelogging [8] Application
+Augmented Reality [13] Application
+Mirror World [5] Application
+Virtual World [20] Evaluation
+Lifelogging [11] Evaluation
+Augmented Reality [11] Evaluation
+Mirror World [5] Evaluation
+Virtual World [2] Model
+Lifelogging [2] Model
+Augmented Reality [2] Model
+Mirror World [2] Model
+Virtual World [1] System
+Lifelogging [2] System
+Augmented Reality [3] System
+Mirror World [2] System
+Virtual World [19] Technique
+Lifelogging [24] Technique
+Augmented Reality [12] Technique
+Mirror World [9] Technique
+
+metaverse > strategy
+Virtual World [32] Benchmarking
+Lifelogging [37] Benchmarking
+Augmented Reality [24] Benchmarking
+Mirror World [18] Benchmarking
+Virtual World [27] Human Experimentation
+Lifelogging [20] Human Experimentation
+Augmented Reality [15] Human Experimentation
+Mirror World [7] Human Experimentation
+Virtual World [14] Interview
+Lifelogging [9] Interview
+Augmented Reality [9] Interview
+Mirror World [4] Interview
+Virtual World [12] Questionnaire
+Lifelogging [8] Questionnaire
+Augmented Reality [11] Questionnaire
+Mirror World [4] Questionnaire
+Virtual World [16] Data Science
+Lifelogging [17] Data Science
+Augmented Reality [6] Data Science
+Mirror World [6] Data Science
+Virtual World [1] Engineering Research
+Lifelogging [1] Engineering Research
+Augmented Reality [1] Engineering Research
+Mirror World [2] Engineering Research
+Virtual World [1] Meta Science
+Augmented Reality [1] Meta Science
+
+metaverse > reality
+Virtual World [46] Virtual Reality
+Lifelogging [26] Virtual Reality
+Augmented Reality [8] Virtual Reality
+Mirror World [9] Virtual Reality
+Virtual World [9] Augmented Reality
+Lifelogging [22] Augmented Reality
+Augmented Reality [41] Augmented Reality
+Mirror World [14] Augmented Reality
+Virtual World [3] Mixed Reality
+Lifelogging [7] Mixed Reality
+Augmented Reality [7] Mixed Reality
+Mirror World [11] Mixed Reality
+Virtual World [6] Extended Reality
+Lifelogging [6] Extended Reality
+Augmented Reality [1] Extended Reality
+Mirror World [6] Extended Reality
+
+metaverse > properties
+Virtual World [13] Authentication
+Lifelogging [9] Authentication
+Augmented Reality [5] Authentication
+Mirror World [4] Authentication
+Virtual World [3] Confidentiality
+Lifelogging [6] Confidentiality
+Augmented Reality [8] Confidentiality
+Mirror World [2] Confidentiality
+Virtual World [1] Authorization
+Lifelogging [2] Authorization
+Augmented Reality [6] Authorization
+Mirror World [2] Authorization
+Virtual World [7] Integrity
+Lifelogging [2] Integrity
+Augmented Reality [1] Integrity
+Mirror World [1] Integrity
+Virtual World [5] Identification
+Lifelogging [5] Identification
+Augmented Reality [2] Identification
+Mirror World [1] Identification
+Virtual World [1] Availability
+Lifelogging [1] Availability
+Augmented Reality [2] Availability
+Mirror World [1] Availability
+Virtual World [1] Non-repudiation
+Lifelogging [1] Non-repudiation
+Augmented Reality [2] Non-repudiation
+Mirror World [1] Non-repudiation
+Virtual World [8] Unobservability
+Lifelogging [9] Unobservability
+Augmented Reality [2] Unobservability
+Mirror World [4] Unobservability
+Virtual World [4] Awareness
+Lifelogging [3] Awareness
+Augmented Reality [5] Awareness
+Mirror World [1] Awareness
+Virtual World [4] Anonymity
+Lifelogging [5] Anonymity
+Augmented Reality [3] Anonymity
+Mirror World [2] Anonymity
+Virtual World [1] Policy
+Augmented Reality [2] Policy
+Mirror World [1] Policy
+Virtual World [3] Unlinkability
+Lifelogging [3] Unlinkability
+Augmented Reality [2] Unlinkability
+Mirror World [2] Unlinkability
+Virtual World [1] Deniability
+Lifelogging [1] Deniability
+Augmented Reality [1] Deniability
+Mirror World [1] Deniability
+
+properties > evaluation
+Authentication [8] Algorithm Performance
+Confidentiality [5] Algorithm Performance
+Authorization [4] Algorithm Performance
+Integrity [5] Algorithm Performance
+Identification [4] Algorithm Performance
+Availability [2] Algorithm Performance
+Non-repudiation [1] Algorithm Performance
+Unobservability [9] Algorithm Performance
+Anonymity [6] Algorithm Performance
+Policy [2] Algorithm Performance
+Unlinkability [3] Algorithm Performance
+Deniability [1] Algorithm Performance
+Authentication [7] Environment and Practices
+Confidentiality [6] Environment and Practices
+Authorization [4] Environment and Practices
+Integrity [4] Environment and Practices
+Identification [4] Environment and Practices
+Unobservability [3] Environment and Practices
+Awareness [9] Environment and Practices
+Policy [2] Environment and Practices
+Unlinkability [1] Environment and Practices
+Deniability [1] Environment and Practices
+Authentication [5] User Performance
+Confidentiality [2] User Performance
+Authorization [1] User Performance
+Integrity [3] User Performance
+Identification [2] User Performance
+Awareness [3] User Performance
+Anonymity [1] User Performance
+Policy [2] User Performance
+Deniability [1] User Performance
+Authentication [5] User Experience
+Confidentiality [3] User Experience
+Authorization [1] User Experience
+Integrity [2] User Experience
+Identification [1] User Experience
+Non-repudiation [1] User Experience
+Unobservability [4] User Experience
+Awareness [4] User Experience
+Policy [1] User Experience
+
+properties > venue
+Authentication [1] CHI
+Confidentiality [2] CHI
+Authorization [1] CHI
+Identification [2] CHI
+Unobservability [1] CHI
+Awareness [2] CHI
+Deniability [1] CHI
+Authentication [8] Other Venues
+Confidentiality [3] Other Venues
+Authorization [4] Other Venues
+Integrity [3] Other Venues
+Identification [3] Other Venues
+Availability [2] Other Venues
+Non-repudiation [1] Other Venues
+Unobservability [2] Other Venues
+Awareness [4] Other Venues
+Anonymity [1] Other Venues
+Policy [2] Other Venues
+Unlinkability [1] Other Venues
+Authentication [2] SP
+Authorization [1] SP
+Identification [1] SP
+Awareness [1] SP
+Anonymity [2] SP
+Confidentiality [1] TVCG
+Integrity [1] TVCG
+Unobservability [1] TVCG
+Anonymity [2] TVCG
+Confidentiality [1] UIST
+Integrity [1] UIST
+Awareness [2] UIST
+Unlinkability [1] UIST
+Confidentiality [2] USS
+Authorization [2] USS
+Integrity [1] USS
+Non-repudiation [1] USS
+Unobservability [4] USS
+Policy [2] USS
+Unlinkability [1] USS
+Authentication [4] VR
+Confidentiality [1] VR
+Integrity [1] VR
+Identification [1] VR
+Unobservability [3] VR
+Anonymity [1] VR
+Unlinkability [1] VR
+Deniability [1] VR
+
+properties > papertype
+Authentication [2] Application
+Confidentiality [3] Application
+Authorization [3] Application
+Integrity [3] Application
+Availability [1] Application
+Non-repudiation [2] Application
+Awareness [2] Application
+Anonymity [1] Application
+Policy [2] Application
+Unlinkability [1] Application
+Deniability [1] Application
+Authentication [5] Evaluation
+Confidentiality [4] Evaluation
+Authorization [2] Evaluation
+Integrity [1] Evaluation
+Identification [4] Evaluation
+Unobservability [4] Evaluation
+Awareness [7] Evaluation
+Policy [2] Evaluation
+Unlinkability [1] Evaluation
+Authentication [1] Model
+Integrity [1] Model
+Identification [1] Model
+Unobservability [1] Model
+Confidentiality [1] System
+Authorization [2] System
+Unlinkability [1] System
+Authentication [7] Technique
+Confidentiality [2] Technique
+Authorization [1] Technique
+Integrity [2] Technique
+Identification [2] Technique
+Availability [1] Technique
+Unobservability [6] Technique
+Anonymity [5] Technique
+Unlinkability [1] Technique
+Deniability [1] Technique
+
+properties > strategy
+Authentication [8] Benchmarking
+Confidentiality [5] Benchmarking
+Authorization [5] Benchmarking
+Integrity [5] Benchmarking
+Identification [4] Benchmarking
+Availability [2] Benchmarking
+Non-repudiation [1] Benchmarking
+Unobservability [9] Benchmarking
+Anonymity [6] Benchmarking
+Policy [2] Benchmarking
+Unlinkability [3] Benchmarking
+Deniability [1] Benchmarking
+Authentication [8] Human Experimentation
+Confidentiality [5] Human Experimentation
+Authorization [1] Human Experimentation
+Integrity [5] Human Experimentation
+Identification [4] Human Experimentation
+Non-repudiation [1] Human Experimentation
+Unobservability [5] Human Experimentation
+Awareness [8] Human Experimentation
+Anonymity [1] Human Experimentation
+Policy [2] Human Experimentation
+Unlinkability [1] Human Experimentation
+Deniability [1] Human Experimentation
+Authentication [4] Interview
+Confidentiality [2] Interview
+Authorization [3] Interview
+Integrity [1] Interview
+Identification [3] Interview
+Unobservability [3] Interview
+Awareness [6] Interview
+Policy [1] Interview
+Unlinkability [1] Interview
+Authentication [5] Questionnaire
+Confidentiality [4] Questionnaire
+Authorization [1] Questionnaire
+Integrity [4] Questionnaire
+Identification [1] Questionnaire
+Unobservability [1] Questionnaire
+Awareness [3] Questionnaire
+Policy [1] Questionnaire
+Deniability [1] Questionnaire
+Authentication [7] Data Science
+Confidentiality [1] Data Science
+Integrity [2] Data Science
+Identification [1] Data Science
+Non-repudiation [1] Data Science
+Unobservability [3] Data Science
+Anonymity [2] Data Science
+Unlinkability [2] Data Science
+Authorization [1] Engineering Research
+Unobservability [1] Engineering Research
+Authentication [1] Meta Science
+Integrity [1] Meta Science
+
+properties > reality
+Authentication [12] Virtual Reality
+Confidentiality [3] Virtual Reality
+Authorization [1] Virtual Reality
+Integrity [7] Virtual Reality
+Identification [4] Virtual Reality
+Non-repudiation [1] Virtual Reality
+Unobservability [7] Virtual Reality
+Awareness [3] Virtual Reality
+Anonymity [4] Virtual Reality
+Policy [1] Virtual Reality
+Unlinkability [2] Virtual Reality
+Deniability [1] Virtual Reality
+Authentication [5] Augmented Reality
+Confidentiality [8] Augmented Reality
+Authorization [6] Augmented Reality
+Integrity [1] Augmented Reality
+Identification [2] Augmented Reality
+Availability [2] Augmented Reality
+Non-repudiation [2] Augmented Reality
+Unobservability [2] Augmented Reality
+Awareness [5] Augmented Reality
+Anonymity [3] Augmented Reality
+Policy [2] Augmented Reality
+Unlinkability [2] Augmented Reality
+Deniability [1] Augmented Reality
+Confidentiality [2] Mixed Reality
+Authorization [2] Mixed Reality
+Availability [1] Mixed Reality
+Unobservability [3] Mixed Reality
+Anonymity [1] Mixed Reality
+Policy [1] Mixed Reality
+Deniability [1] Mixed Reality
+Authentication [1] Extended Reality
+Identification [1] Extended Reality
+Availability [1] Extended Reality
+Unobservability [1] Extended Reality
+Awareness [1] Extended Reality
+Unlinkability [1] Extended Reality
+
+properties > metaverse
+Authentication [13] Virtual World
+Confidentiality [3] Virtual World
+Authorization [1] Virtual World
+Integrity [7] Virtual World
+Identification [5] Virtual World
+Availability [1] Virtual World
+Non-repudiation [1] Virtual World
+Unobservability [8] Virtual World
+Awareness [4] Virtual World
+Anonymity [4] Virtual World
+Policy [1] Virtual World
+Unlinkability [3] Virtual World
+Deniability [1] Virtual World
+Authentication [9] Lifelogging
+Confidentiality [6] Lifelogging
+Authorization [2] Lifelogging
+Integrity [2] Lifelogging
+Identification [5] Lifelogging
+Availability [1] Lifelogging
+Non-repudiation [1] Lifelogging
+Unobservability [9] Lifelogging
+Awareness [3] Lifelogging
+Anonymity [5] Lifelogging
+Unlinkability [3] Lifelogging
+Deniability [1] Lifelogging
+Authentication [5] Augmented Reality
+Confidentiality [8] Augmented Reality
+Authorization [6] Augmented Reality
+Integrity [1] Augmented Reality
+Identification [2] Augmented Reality
+Availability [2] Augmented Reality
+Non-repudiation [2] Augmented Reality
+Unobservability [2] Augmented Reality
+Awareness [5] Augmented Reality
+Anonymity [3] Augmented Reality
+Policy [2] Augmented Reality
+Unlinkability [2] Augmented Reality
+Deniability [1] Augmented Reality
+Authentication [4] Mirror World
+Confidentiality [2] Mirror World
+Authorization [2] Mirror World
+Integrity [1] Mirror World
+Identification [1] Mirror World
+Availability [1] Mirror World
+Non-repudiation [1] Mirror World
+Unobservability [4] Mirror World
+Awareness [1] Mirror World
+Anonymity [2] Mirror World
+Policy [1] Mirror World
+Unlinkability [2] Mirror World
+Deniability [1] Mirror World

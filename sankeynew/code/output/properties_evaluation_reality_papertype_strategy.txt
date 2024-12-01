@@ -1,0 +1,96 @@
+Authentication [8] Algorithm Performance
+Confidentiality [5] Algorithm Performance
+Authorization [4] Algorithm Performance
+Integrity [5] Algorithm Performance
+Identification [4] Algorithm Performance
+Availability [2] Algorithm Performance
+Non-repudiation [1] Algorithm Performance
+Unobservability [9] Algorithm Performance
+Anonymity [6] Algorithm Performance
+Policy [2] Algorithm Performance
+Unlinkability [3] Algorithm Performance
+Deniability [1] Algorithm Performance
+Authentication [7] Environment and Practices
+Confidentiality [6] Environment and Practices
+Authorization [4] Environment and Practices
+Integrity [4] Environment and Practices
+Identification [4] Environment and Practices
+Unobservability [3] Environment and Practices
+Awareness [9] Environment and Practices
+Policy [2] Environment and Practices
+Unlinkability [1] Environment and Practices
+Deniability [1] Environment and Practices
+Authentication [5] User Performance
+Confidentiality [2] User Performance
+Authorization [1] User Performance
+Integrity [3] User Performance
+Identification [2] User Performance
+Awareness [3] User Performance
+Anonymity [1] User Performance
+Policy [2] User Performance
+Deniability [1] User Performance
+Authentication [5] User Experience
+Confidentiality [3] User Experience
+Authorization [1] User Experience
+Integrity [2] User Experience
+Identification [1] User Experience
+Non-repudiation [1] User Experience
+Unobservability [4] User Experience
+Awareness [4] User Experience
+Policy [1] User Experience
+Algorithm Performance [27] Virtual Reality
+Environment and Practices [21] Virtual Reality
+User Performance [13] Virtual Reality
+User Experience [12] Virtual Reality
+Algorithm Performance [23] Augmented Reality
+Environment and Practices [20] Augmented Reality
+User Performance [7] Augmented Reality
+User Experience [11] Augmented Reality
+Algorithm Performance [7] Mixed Reality
+Environment and Practices [6] Mixed Reality
+User Performance [2] Mixed Reality
+User Experience [4] Mixed Reality
+Algorithm Performance [5] Extended Reality
+Environment and Practices [1] Extended Reality
+Virtual Reality [9] Application
+Augmented Reality [13] Application
+Mixed Reality [4] Application
+Extended Reality [1] Application
+Virtual Reality [18] Evaluation
+Augmented Reality [11] Evaluation
+Mixed Reality [1] Evaluation
+Extended Reality [2] Evaluation
+Virtual Reality [1] Model
+Augmented Reality [2] Model
+Mixed Reality [1] Model
+Extended Reality [1] Model
+Augmented Reality [3] System
+Mixed Reality [1] System
+Extended Reality [1] System
+Virtual Reality [18] Technique
+Augmented Reality [12] Technique
+Mixed Reality [4] Technique
+Extended Reality [1] Technique
+Application [12] Benchmarking
+Evaluation [5] Benchmarking
+Model [3] Benchmarking
+System [3] Benchmarking
+Technique [28] Benchmarking
+Application [12] Human Experimentation
+Evaluation [21] Human Experimentation
+Technique [9] Human Experimentation
+Application [2] Interview
+Evaluation [19] Interview
+System [1] Interview
+Technique [2] Interview
+Application [8] Questionnaire
+Evaluation [9] Questionnaire
+Model [1] Questionnaire
+Technique [3] Questionnaire
+Application [3] Data Science
+Evaluation [2] Data Science
+Model [2] Data Science
+Technique [12] Data Science
+Evaluation [1] Engineering Research
+System [1] Engineering Research
+Model [2] Meta Science

@@ -1,0 +1,54 @@
+//Associations between Evaluation and Paper Type:
+AP [14] Application
+AP [6] Evaluation
+AP [3] Model
+AP [2] System
+AP [28] Technique
+UE [6] Application
+UE [20] Evaluation
+UE [1] Model
+UE [4] Technique
+UP [2] Application
+UP [6] Evaluation
+UP [1] Technique
+UWP [3] Application
+UWP [9] Evaluation
+UWP [2] System
+UWP [1] Technique
+
+//Associations between Paper Type and Venue:
+Application [21] Other Venues
+Evaluation [31] Other Venues
+Model [4] Other Venues
+System [4] Other Venues
+Technique [28] Other Venues
+
+//Associations between Venue and Topic:
+Other Venues [15] New Attacks
+Other Venues [25] Awareness
+Other Venues [13] Authentication
+Other Venues [6] Challenges
+Other Venues [29] Lesson Learned
+
+//Associations between Topic and Metaverse:
+New Attacks [9] MW
+New Attacks [8] AR
+New Attacks [4] VW
+New Attacks [6] LL
+Awareness [14] MW
+Awareness [16] AR
+Awareness [8] VW
+Awareness [5] LL
+Authentication [4] AR
+Authentication [10] MW
+Authentication [4] VW
+Authentication [3] LL
+Challenges [3] MW
+Challenges [4] AR
+Challenges [2] LL
+Challenges [1] VW
+Lesson Learned [12] AR
+Lesson Learned [11] VW
+Lesson Learned [13] MW
+Lesson Learned [5] LL
+

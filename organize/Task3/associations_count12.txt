@@ -1,0 +1,89 @@
+//Associations between Evaluation and Reality:
+AP [5] MR
+AP [23] AR
+AP [30] VR
+AP [1] XR
+AP [8] metaverse
+UE [16] AR
+UE [17] VR
+UE [3] MR
+UE [2] metaverse
+UE [1] XR
+UP [2] MR
+UP [1] AR
+UP [7] VR
+UP [1] metaverse
+UWP [2] MR
+UWP [7] AR
+UWP [9] VR
+UWP [2] metaverse
+
+//Associations between Reality and Topic:
+MR [2] New Attacks
+MR [4] Awareness
+MR [1] Lesson Learned
+MR [1] Authentication
+AR [14] Awareness
+AR [6] New Attacks
+AR [5] Authentication
+AR [12] Lesson Learned
+AR [3] Challenges
+VR [11] New Attacks
+VR [11] Awareness
+VR [4] Challenges
+VR [7] Authentication
+VR [15] Lesson Learned
+XR [1] Awareness
+XR [1] Lesson Learned
+metaverse [2] Authentication
+metaverse [5] Lesson Learned
+metaverse [2] Challenges
+metaverse [2] Awareness
+
+//Associations between Topic and Paper Type:
+New Attacks [3] Application
+New Attacks [1] Evaluation
+New Attacks [11] Technique
+Awareness [9] Application
+Awareness [5] Evaluation
+Awareness [1] Model
+Awareness [4] System
+Awareness [6] Technique
+Authentication [4] Application
+Authentication [2] Evaluation
+Authentication [1] Model
+Authentication [6] Technique
+Challenges [2] Application
+Challenges [2] Evaluation
+Challenges [1] Model
+Challenges [1] Technique
+Lesson Learned [3] Application
+Lesson Learned [21] Evaluation
+Lesson Learned [1] Model
+Lesson Learned [4] Technique
+
+//Associations between Paper Type and Venue:
+Application [6] USS
+Application [1] UIST
+Application [1] TVCG
+Application [6] Other Venues
+Application [2] CHI
+Application [2] VR
+Application [3] SP
+Evaluation [4] USS
+Evaluation [11] Other Venues
+Evaluation [7] CHI
+Evaluation [2] SP
+Evaluation [4] VR
+Evaluation [2] UIST
+Evaluation [1] TVCG
+Model [4] Other Venues
+System [1] CHI
+System [3] Other Venues
+Technique [2] SP
+Technique [10] Other Venues
+Technique [3] USS
+Technique [2] UIST
+Technique [3] TVCG
+Technique [8] VR
+

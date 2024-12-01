@@ -1,0 +1,99 @@
+Authentication [8] Algorithm Performance
+Confidentiality [5] Algorithm Performance
+Authorization [4] Algorithm Performance
+Integrity [5] Algorithm Performance
+Identification [4] Algorithm Performance
+Availability [2] Algorithm Performance
+Non-repudiation [1] Algorithm Performance
+Unobservability [9] Algorithm Performance
+Anonymity [6] Algorithm Performance
+Policy [2] Algorithm Performance
+Unlinkability [3] Algorithm Performance
+Deniability [1] Algorithm Performance
+Authentication [7] Environment and Practices
+Confidentiality [6] Environment and Practices
+Authorization [4] Environment and Practices
+Integrity [4] Environment and Practices
+Identification [4] Environment and Practices
+Unobservability [3] Environment and Practices
+Awareness [9] Environment and Practices
+Policy [2] Environment and Practices
+Unlinkability [1] Environment and Practices
+Deniability [1] Environment and Practices
+Authentication [5] User Performance
+Confidentiality [2] User Performance
+Authorization [1] User Performance
+Integrity [3] User Performance
+Identification [2] User Performance
+Awareness [3] User Performance
+Anonymity [1] User Performance
+Policy [2] User Performance
+Deniability [1] User Performance
+Authentication [5] User Experience
+Confidentiality [3] User Experience
+Authorization [1] User Experience
+Integrity [2] User Experience
+Identification [1] User Experience
+Non-repudiation [1] User Experience
+Unobservability [4] User Experience
+Awareness [4] User Experience
+Policy [1] User Experience
+Algorithm Performance [32] Virtual World
+Environment and Practices [22] Virtual World
+User Performance [13] Virtual World
+User Experience [12] Virtual World
+Algorithm Performance [37] Lifelogging
+Environment and Practices [15] Lifelogging
+User Performance [9] Lifelogging
+User Experience [10] Lifelogging
+Algorithm Performance [23] Augmented Reality
+Environment and Practices [20] Augmented Reality
+User Performance [7] Augmented Reality
+User Experience [11] Augmented Reality
+Algorithm Performance [17] Mirror World
+Environment and Practices [9] Mirror World
+User Performance [3] Mirror World
+User Experience [5] Mirror World
+Virtual World [10] Application
+Lifelogging [8] Application
+Augmented Reality [13] Application
+Mirror World [5] Application
+Virtual World [20] Evaluation
+Lifelogging [11] Evaluation
+Augmented Reality [11] Evaluation
+Mirror World [5] Evaluation
+Virtual World [2] Model
+Lifelogging [2] Model
+Augmented Reality [2] Model
+Mirror World [2] Model
+Virtual World [1] System
+Lifelogging [2] System
+Augmented Reality [3] System
+Mirror World [2] System
+Virtual World [19] Technique
+Lifelogging [24] Technique
+Augmented Reality [12] Technique
+Mirror World [9] Technique
+Application [2] CHI
+Evaluation [7] CHI
+System [1] CHI
+Application [6] Other Venues
+Evaluation [11] Other Venues
+Model [4] Other Venues
+System [3] Other Venues
+Technique [10] Other Venues
+Application [3] SP
+Evaluation [2] SP
+Technique [2] SP
+Application [1] TVCG
+Evaluation [1] TVCG
+Technique [3] TVCG
+Application [1] UIST
+Evaluation [2] UIST
+Technique [2] UIST
+Application [6] USS
+Evaluation [4] USS
+Technique [3] USS
+Application [2] VR
+Evaluation [3] VR
+Technique [8] VR

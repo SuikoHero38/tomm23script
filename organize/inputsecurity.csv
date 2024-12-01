@@ -1,0 +1,52 @@
+﻿Item Type,Venue Long,Venue2,Venue,Year,Rank,Domain,Paper Type,Topic,Topic2,Metaverse,Strategy,Evaluation,Reality
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2023,A*,S&P,Application,Authorization,Security,MW,Benchmarking,AP,MR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2023,A*,S&P,Application,Confidentiality,Security,AR,Benchmarking,AP,AR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2023,A*,S&P,Application,Non-repudiation,Security,"VW,MW,AR,LL",Experiment with Human participants,AP,"AR,VR"
+journalPaper,TVCG - Transactions on Visualization and Computer Graphics,TVCG,TVCG,2023,A,HCI,Application,Integrity,Security,VW,"Experiment with Human participants,Qualitative Survey (Interviews),Questionnaire Surveys",UE,VR
+conferencePaper,ISMAR - International Symposium on Mixed and Augmented Reality,ISMAR,Other Venues,2022,A*,HCI,Application,Confidentiality,Security,"MW,AR,LL",Experiment with Human participants,"UP,UE,UWP","MR,AR"
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2021,A*,S&P,Application,Integrity,Security,VW,"Benchmarking,Experiment with Human participants",AP,VR
+conferencePaper,ISMAR - International Symposium on Mixed and Augmented Reality,ISMAR,Other Venues,2021,A*,HCI,Application,Availability,Security,"VW,MW,AR,LL",Benchmarking,AP,"XR,MR,AR"
+conferencePaper,NDSS - Usenix Network and Distributed System Security Symposium,NDSS,Other Venues,2020,A*,S&P,Application,Authentication,Security,"VW,LL","Benchmarking,Data Science,Experiment with Human participants","AP,UE",VR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2019,A*,S&P,Application,Authorization,Security,AR,Benchmarking,AP,AR
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2019,A*,HCI,Application,Authentication,Security,VW,"Experiment with Human participants,Questionnaire Surveys",UP,VR
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2019,A*,HCI,Application,Integrity,Security,"VW,LL","Data Science,Experiment with Human participants",AP,VR
+conferencePaper,SP - IEEE Symposium on Security and Privacy,SP,SP,2017,A*,S&P,Application,Authorization,Security,AR,Benchmarking,AP,AR
+conferencePaper,ACSAC - Annual Computer Security Applications Conference,ACSAC,Other Venues,2017,A,S&P,Application,Confidentiality,Security,"VW,MW,AR,LL","Experiment with Human participants,Questionnaire Surveys","UE,UWP","MR, AR, VR"
+conferencePaper,"TrustCom - International Conference on Trust,Security and Privacy in Computing and Communications",TrustCom,Other Venues,2017,B,S&P,Application,Non-repudiation,Security,AR,Experiment with Human participants,UWP,AR
+conferencePaper,ACSAC - Annual Computer Security Applications Conference,ACSAC,Other Venues,2023,A,S&P,Evaluation,Identification,Security,VW,"Experiment with Human participants,Qualitative Survey (Interviews)",UE,VR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2022,A*,HCI,Evaluation,Confidentiality,Security,VW,"Experiment with Human participants,Qualitative Survey (Interviews)",UWP,VR
+conferencePaper,SP - IEEE Symposium on Security and Privacy,SP,SP,2022,A*,S&P,Evaluation,Authentication,Security,"VW,MW,AR",Questionnaire Surveys,UE,"AR,VR"
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2022,A*,HCI,Evaluation,Authentication,Security,"VW,LL","Experiment with Human participants,Qualitative Survey (Interviews)","UE,UWP",VR
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2022,A*,HCI,Evaluation,Authentication,Security,VW,"Experiment with Human participants,Qualitative Survey (Interviews),Questionnaire Surveys","UE,UWP",VR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2021,A*,HCI,Evaluation,Identification,Security,"VW,LL",Experiment with Human participants,AP,VR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2021,A*,HCI,Evaluation,Authentication,Security,VW,"Experiment with Human participants,Qualitative Survey (Interviews)","UE,UP",VR
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2021,A*,HCI,Evaluation,Confidentiality,Security,VW,"Experiment with Human participants,Questionnaire Surveys","UE,UWP",VR
+journalPaper,TODSC -Transactions on Dependable and Secure Computing,TODSC,Other Venues,2021,A,S&P,Evaluation,Integrity,Security,VW,Experiment with Human participants,UP,VR
+conferencePaper,PACIFICVIS - Pacific Visualization Symposium,PACIFICVIS,Other Venues,2019,B,HCI,Evaluation,Authorization,Security,"AR,LL","Experiment with Human participants,Questionnaire Surveys",UE,AR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2019,A*,HCI,Evaluation,Identification,Security,"VW,LL","Experiment with Human participants,Questionnaire Surveys",UP,VR
+conferencePaper,SP - IEEE Symposium on Security and Privacy,SP,SP,2018,A*,S&P,Evaluation,Identification,Security,AR,Qualitative Survey (Interviews),UE,AR
+journalPaper,TVCG - Transactions on Visualization and Computer Graphics,TVCG,TVCG,2016,A,HCI,Evaluation,Confidentiality,Security,AR,"Experiment with Human participants,Qualitative Survey (Interviews),Questionnaire Surveys",AP,AR
+conferencePaper,FC - Financial Cryptography and Data Security,FC,Other Venues,2015,A,S&P,Evaluation,Authentication,Security,AR,"Experiment with Human participants,Questionnaire Surveys","UE,UWP",AR
+conferencePaper,SOUPS - Symposium On Usable Privacy and Security,SOUPS,Other Venues,2015,B,S&P,Evaluation,Authorization,Security,VW,Qualitative Survey (Interviews),UE,VR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2014,A*,HCI,Evaluation,Confidentiality,Security,"AR,LL",Qualitative Survey (Interviews),UE,AR
+conferencePaper,PETS - International Symposium on Privacy Enhancing Technologies,PETS,Other Venues,2023,A,S&P,Model,Identification,Security,"VW,MW,LL",Data Science,AP,XR
+journalPaper,CS - Computers and Security,CS,Other Venues,2023,B,S&P,Model,Integrity,Security,VW,Meta Science,AP,VR
+conferencePaper,"ARES - International Conference on Availability,Reliability and Security",ARES,Other Venues,2022,B,S&P,Model,Authentication,Security,AR,Meta Science,UE,AR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2023,A*,HCI,System,Authorization,Security,AR,"Experiment with Human participants,Questionnaire Surveys",UWP,AR
+conferencePaper,ISMAR - International Symposium on Mixed and Augmented Reality,ISMAR,Other Venues,2022,A*,HCI,System,Authorization,Security,"MW,AR",Engineering Research,UWP,"MR,AR"
+conferencePaper,CCS - ACM Conference on Computer and Communications Security,CCS,Other Venues,2014,A*,S&P,System,Confidentiality,Security,"AR,LL",Benchmarking,AP,AR
+conferencePaper,SP - IEEE Symposium on Security and Privacy,SP,SP,2023,A*,S&P,Technique,Authentication,Security,"VW,LL","Data Science,Experiment with Human participants","AP,UP",VR
+conferencePaper,NDSS - Usenix Network and Distributed System Security Symposium,NDSS,Other Venues,2023,A*,S&P,Technique,Authentication,Security,"VW,LL","Benchmarking,Data Science,Experiment with Human participants","AP,UE",VR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2023,A*,S&P,Technique,Confidentiality,Security,"AR,LL",Experiment with Human participants,"AP,UWP",AR
+conferencePaper,CCS - ACM Conference on Computer and Communications Security,CCS,Other Venues,2023,A*,S&P,Technique,Authentication,Security,"VW,MW,AR,LL","Benchmarking,Data Science",AP,"AR,VR"
+conferencePaper,UIST - Symposium on User Interface Software and Technology,UIST,UIST,2023,A*,HCI,Technique,Integrity,Security,VW,Data Science,AP,VR
+conferencePaper,UIST - Symposium on User Interface Software and Technology,UIST,UIST,2023,A*,HCI,Technique,Confidentiality,Security,"AR,LL",Data Science,AP,AR
+journalPaper,TOIFS - Transactions on Information Forensics and Security,TOIFS,Other Venues,2023,A,S&P,Technique,Authentication,Security,"VW,MW,LL",Benchmarking,AP,XR
+conferencePaper,"RAID - The International Symposium on Research in Attacks,Intrusions and Defenses",RAID,Other Venues,2023,A,S&P,Technique,Authentication,Security,"VW,LL","Benchmarking,Data Science",AP,VR
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2022,A*,HCI,Technique,Identification,Security,"VW,LL",Benchmarking,AP,VR
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2021,A*,HCI,Technique,Authentication,Security,"VW,LL","Data Science,Experiment with Human participants",AP,VR
+conferencePaper,WiSec - Security and Privacy in Wireless and Mobile Networks,WiSec,Other Venues,2021,B,S&P,Technique,Availability,Security,AR,Benchmarking,AP,AR
+journalPaper,TOIFS - Transactions on Information Forensics and Security,TOIFS,Other Venues,2021,A,S&P,Technique,Integrity,Security,"VW,MW,AR,LL",Experiment with Human participants,"AP,UE","AR,VR"
+conferencePaper,ACSAC - Annual Computer Security Applications Conference,ACSAC,Other Venues,2021,A,S&P,Technique,Authentication,Security,"VW,MW,AR,LL",Data Science,AP,"AR,VR"
+journalPaper,TOPS - Transactions on Privacy and Security,TOPS,Other Venues,2020,A,S&P,Technique,Identification,Security,"AR,LL","Benchmarking,Experiment with Human participants",AP,AR
+conferencePaper,FC - Financial Cryptography and Data Security,FC,Other Venues,2015,A,S&P,Technique,Authorization,Security,"AR,LL",Benchmarking,AP,AR

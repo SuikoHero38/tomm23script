@@ -1,0 +1,61 @@
+Benchmarking,Virtual Reality,Application,5
+Benchmarking,Virtual Reality,Evaluation,3
+Benchmarking,Virtual Reality,Model,1
+Benchmarking,Virtual Reality,Technique,18
+Benchmarking,Augmented Reality,Application,7
+Benchmarking,Augmented Reality,Evaluation,2
+Benchmarking,Augmented Reality,Model,1
+Benchmarking,Augmented Reality,System,2
+Benchmarking,Augmented Reality,Technique,12
+Benchmarking,Mixed Reality,Application,1
+Benchmarking,Mixed Reality,Model,1
+Benchmarking,Mixed Reality,System,1
+Benchmarking,Mixed Reality,Technique,4
+Benchmarking,Extended Reality,Application,1
+Benchmarking,Extended Reality,Evaluation,1
+Benchmarking,Extended Reality,Model,1
+Benchmarking,Extended Reality,System,1
+Benchmarking,Extended Reality,Technique,1
+Human Experimentation,Virtual Reality,Application,7
+Human Experimentation,Virtual Reality,Evaluation,14
+Human Experimentation,Virtual Reality,Technique,5
+Human Experimentation,Augmented Reality,Application,6
+Human Experimentation,Augmented Reality,Evaluation,5
+Human Experimentation,Augmented Reality,Technique,4
+Human Experimentation,Mixed Reality,Application,2
+Human Experimentation,Mixed Reality,Evaluation,1
+Human Experimentation,Mixed Reality,Technique,2
+Human Experimentation,Extended Reality,Evaluation,1
+Interview,Virtual Reality,Application,1
+Interview,Virtual Reality,Evaluation,11
+Interview,Virtual Reality,Technique,1
+Interview,Augmented Reality,Application,1
+Interview,Augmented Reality,Evaluation,7
+Interview,Augmented Reality,System,1
+Interview,Mixed Reality,Evaluation,1
+Interview,Mixed Reality,Technique,1
+Interview,Extended Reality,Evaluation,1
+Questionnaire,Virtual Reality,Application,5
+Questionnaire,Virtual Reality,Evaluation,6
+Questionnaire,Virtual Reality,Technique,1
+Questionnaire,Augmented Reality,Application,4
+Questionnaire,Augmented Reality,Evaluation,3
+Questionnaire,Augmented Reality,Model,1
+Questionnaire,Augmented Reality,Technique,3
+Questionnaire,Mixed Reality,Application,2
+Questionnaire,Mixed Reality,Technique,1
+Data Science,Virtual Reality,Application,2
+Data Science,Virtual Reality,Evaluation,2
+Data Science,Virtual Reality,Technique,11
+Data Science,Augmented Reality,Application,1
+Data Science,Augmented Reality,Evaluation,1
+Data Science,Augmented Reality,Model,1
+Data Science,Augmented Reality,Technique,3
+Data Science,Mixed Reality,Model,1
+Data Science,Mixed Reality,Technique,1
+Data Science,Extended Reality,Model,1
+Engineering Research,Augmented Reality,System,1
+Engineering Research,Mixed Reality,System,1
+Engineering Research,Extended Reality,Evaluation,1
+Meta Science,Virtual Reality,Model,1
+Meta Science,Augmented Reality,Model,1

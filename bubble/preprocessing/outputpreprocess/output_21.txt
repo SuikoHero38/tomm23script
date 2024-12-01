@@ -1,0 +1,57 @@
+VR,Algorithm Performance,Application,1
+VR,Algorithm Performance,Technique,8
+VR,Environment and Practices,Application,1
+VR,Environment and Practices,Evaluation,3
+VR,Environment and Practices,Technique,1
+VR,User Performance,Application,1
+VR,User Performance,Evaluation,1
+VR,User Experience,Application,1
+VR,User Experience,Evaluation,2
+VR,User Experience,Technique,1
+CHI,Algorithm Performance,Evaluation,1
+CHI,Environment and Practices,Application,2
+CHI,Environment and Practices,Evaluation,6
+CHI,Environment and Practices,System,1
+CHI,User Performance,Application,2
+CHI,User Performance,Evaluation,2
+CHI,User Experience,Application,1
+CHI,User Experience,Evaluation,2
+UIST,Algorithm Performance,Technique,2
+UIST,Environment and Practices,Application,1
+UIST,Environment and Practices,Evaluation,2
+UIST,User Experience,Evaluation,2
+TVCG,Algorithm Performance,Evaluation,1
+TVCG,Algorithm Performance,Technique,3
+TVCG,Environment and Practices,Application,1
+TVCG,User Performance,Application,1
+TVCG,User Experience,Application,1
+TVCG,User Experience,Technique,1
+Other Venues,Algorithm Performance,Application,3
+Other Venues,Algorithm Performance,Model,3
+Other Venues,Algorithm Performance,System,2
+Other Venues,Algorithm Performance,Technique,10
+Other Venues,Environment and Practices,Application,2
+Other Venues,Environment and Practices,Evaluation,11
+Other Venues,Environment and Practices,Model,1
+Other Venues,Environment and Practices,System,1
+Other Venues,Environment and Practices,Technique,1
+Other Venues,User Performance,Application,2
+Other Venues,User Performance,Evaluation,5
+Other Venues,User Performance,Technique,2
+Other Venues,User Experience,Application,3
+Other Venues,User Experience,Evaluation,5
+Other Venues,User Experience,Technique,2
+USS,Algorithm Performance,Application,5
+USS,Algorithm Performance,Evaluation,3
+USS,Algorithm Performance,Technique,3
+USS,Environment and Practices,Application,1
+USS,Environment and Practices,Evaluation,1
+USS,Environment and Practices,Technique,2
+USS,User Performance,Evaluation,1
+USS,User Performance,Technique,1
+USS,User Experience,Technique,1
+SP,Algorithm Performance,Application,2
+SP,Algorithm Performance,Technique,2
+SP,Environment and Practices,Application,1
+SP,Environment and Practices,Evaluation,2
+SP,User Performance,Technique,2

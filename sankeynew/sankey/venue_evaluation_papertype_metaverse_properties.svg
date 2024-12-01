@@ -1,0 +1,289 @@
+<svg height="800" width="1000" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 9/1/2024, 8:02:11 PM -->
+<g transform="translate(121.20864,18)">
+<g id="sankey_flows">
+<path id="flow38" d="M225.69784 328.86084C326.54676 328.86084 326.54676 414.6205 427.39568 414.6205" fill="none" stroke-width="66.56442" stroke="#1f77b4" opacity="0.5"><title>Algorithm Performance → Technique: 28</title></path>
+<path id="flow31" d="M225.69784 171.80729C326.54676 171.80729 326.54676 165.88917 427.39568 165.88917" fill="none" stroke-width="59.43252" stroke="#7f7f7f" opacity="0.5"><title>Environment and Practices → Evaluation: 25</title></path>
+<path id="flow51" d="M439.39568 445.52541C540.2446 445.52541 540.2446 357.62145 641.09352 357.62145" fill="none" stroke-width="57.05521" stroke="#8c564b" opacity="0.5"><title>Technique → Lifelogging: 24</title></path>
+<path id="flow43" d="M439.39568 143.30481v47.54601L641.09352 192.24734v-47.54601z" fill="#9467bd" stroke-width="0.5" stroke="#9467bd" opacity="0.5"><title>Evaluation → Virtual World: 20</title></path>
+<path id="flow46" d="M439.39568 394.41345C540.2446 394.41345 540.2446 238.6047 641.09352 238.6047" fill="none" stroke-width="45.16871" stroke="#9467bd" opacity="0.5"><title>Technique → Virtual World: 19</title></path>
+<path id="flow1" d="M12 190.37771C112.84892 190.37771 112.84892 276.56022 213.69784 276.56022" fill="none" stroke-width="42.79141" stroke="#ff7f0e" opacity="0.5"><title>Other Venues → Algorithm Performance: 18</title></path>
+<path id="flow8" d="M12 149.9636C112.84892 149.9636 112.84892 161.10943 213.69784 161.10943" fill="none" stroke-width="38.03681" stroke="#ff7f0e" opacity="0.5"><title>Other Venues → Environment and Practices: 16</title></path>
+<path id="flow52" d="M439.39568 328.88597C540.2446 328.88597 540.2446 452.86518 641.09352 452.86518" fill="none" stroke-width="30.90491" stroke="#e377c2" opacity="0.5"><title>Application → Augmented Reality: 13</title></path>
+<path id="flow62" d="M653.09352 176.79489C753.94244 176.79489 753.94244 150.83193 854.79136 150.83193" fill="none" stroke-width="30.90491" stroke="#bcbd22" opacity="0.5"><title>Virtual World → Authentication: 13</title></path>
+<path id="flow5" d="M12 296.3193C112.84892 296.3193 112.84892 312.21973 213.69784 312.21973" fill="none" stroke-width="28.52761" stroke="#8c564b" opacity="0.5"><title>USS → Algorithm Performance: 12</title></path>
+<path id="flow26" d="M225.69784 281.31483C326.54676 281.31483 326.54676 313.43352 427.39568 313.43352" fill="none" stroke-width="28.52761" stroke="#1f77b4" opacity="0.5"><title>Algorithm Performance → Application: 12</title></path>
+<path id="flow56" d="M439.39568 488.31682C540.2446 488.31682 540.2446 482.58144 641.09352 482.58144" fill="none" stroke-width="28.52761" stroke="#e377c2" opacity="0.5"><title>Technique → Augmented Reality: 12</title></path>
+<path id="flow33" d="M225.69784 465.85905C326.54676 465.85905 326.54676 241.96278 427.39568 241.96278" fill="none" stroke-width="26.15031" stroke="#bcbd22" opacity="0.5"><title>User Experience → Evaluation: 11</title></path>
+<path id="flow48" d="M439.39568 203.92598C540.2446 203.92598 540.2446 297.00028 641.09352 297.00028" fill="none" stroke-width="26.15031" stroke="#8c564b" opacity="0.5"><title>Evaluation → Lifelogging: 11</title></path>
+<path id="flow53" d="M439.39568 230.07628C540.2446 230.07628 540.2446 424.33758 641.09352 424.33758" fill="none" stroke-width="26.15031" stroke="#e377c2" opacity="0.5"><title>Evaluation → Augmented Reality: 11</title></path>
+<path id="flow21" d="M12 245.05562C112.84892 245.05562 112.84892 464.6704 213.69784 464.6704" fill="none" stroke-width="23.77301" stroke="#ff7f0e" opacity="0.5"><title>Other Venues → User Experience: 10</title></path>
+<path id="flow42" d="M439.39568 282.52861C540.2446 282.52861 540.2446 204.13384 641.09352 204.13384" fill="none" stroke-width="23.77301" stroke="#9467bd" opacity="0.5"><title>Application → Virtual World: 10</title></path>
+<path id="flow6" d="M12 448.92168C112.84892 448.92168 112.84892 349.06789 213.69784 349.06789" fill="none" stroke-width="21.39571" stroke="#e377c2" opacity="0.5"><title>VR → Algorithm Performance: 9</title></path>
+<path id="flow7" d="M12 381.0169C112.84892 381.0169 112.84892 207.46679 213.69784 207.46679" fill="none" stroke-width="21.39571" stroke="#17becf" opacity="0.5"><title>CHI → Environment and Practices: 9</title></path>
+<path id="flow15" d="M12 222.47127C112.84892 222.47127 112.84892 400.33157 213.69784 400.33157" fill="none" stroke-width="21.39571" stroke="#ff7f0e" opacity="0.5"><title>Other Venues → User Performance: 9</title></path>
+<path id="flow27" d="M225.69784 212.2214C326.54676 212.2214 326.54676 288.47186 427.39568 288.47186" fill="none" stroke-width="21.39571" stroke="#7f7f7f" opacity="0.5"><title>Environment and Practices → Application: 9</title></path>
+<path id="flow32" d="M225.69784 400.33157C326.54676 400.33157 326.54676 218.18978 427.39568 218.18978" fill="none" stroke-width="21.39571" stroke="#bcbd22" opacity="0.5"><title>User Performance → Evaluation: 9</title></path>
+<path id="flow61" d="M439.39568 513.27848C540.2446 513.27848 540.2446 558.80677 641.09352 558.80677" fill="none" stroke-width="21.39571" stroke="#7f7f7f" opacity="0.5"><title>Technique → Mirror World: 9</title></path>
+<path id="flow63" d="M653.09352 299.37758C753.94244 299.37758 753.94244 176.98223 854.79136 176.98223" fill="none" stroke-width="21.39571" stroke="#bcbd22" opacity="0.5"><title>Lifelogging → Authentication: 9</title></path>
+<path id="flow91" d="M653.09352 332.65979C753.94244 332.65979 753.94244 300.90529 854.79136 300.90529" fill="none" stroke-width="21.39571" stroke="#8c564b" opacity="0.5"><title>Lifelogging → Unobservability: 9</title></path>
+<path id="flow47" d="M439.39568 303.92431C540.2446 303.92431 540.2446 319.58464 641.09352 319.58464" fill="none" stroke-width="19.0184" stroke="#8c564b" opacity="0.5"><title>Application → Lifelogging: 8</title></path>
+<path id="flow68" d="M653.09352 463.56304C753.94244 463.56304 753.94244 467.77147 854.79136 467.77147" fill="none" stroke-width="19.0184" stroke="#17becf" opacity="0.5"><title>Augmented Reality → Confidentiality: 8</title></path>
+<path id="flow90" d="M653.09352 213.64305C753.94244 213.64305 753.94244 280.69824 854.79136 280.69824" fill="none" stroke-width="19.0184" stroke="#8c564b" opacity="0.5"><title>Virtual World → Unobservability: 8</title></path>
+<path id="flow74" d="M653.09352 153.02188C753.94244 153.02188 753.94244 101.94555 854.79136 101.94555" fill="none" stroke-width="16.6411" stroke="#ff7f0e" opacity="0.5"><title>Virtual World → Integrity: 7</title></path>
+<path id="flow28" d="M225.69784 418.16132C326.54676 418.16132 326.54676 334.82922 427.39568 334.82922" fill="none" stroke-width="14.2638" stroke="#bcbd22" opacity="0.5"><title>User Performance → Application: 6</title></path>
+<path id="flow29" d="M225.69784 486.0661C326.54676 486.0661 326.54676 349.09303 427.39568 349.09303" fill="none" stroke-width="14.2638" stroke="#bcbd22" opacity="0.5"><title>User Experience → Application: 6</title></path>
+<path id="flow67" d="M653.09352 369.50795C753.94244 369.50795 753.94244 451.13037 854.79136 451.13037" fill="none" stroke-width="14.2638" stroke="#17becf" opacity="0.5"><title>Lifelogging → Confidentiality: 6</title></path>
+<path id="flow72" d="M653.09352 496.84524C753.94244 496.84524 753.94244 631.37513 854.79136 631.37513" fill="none" stroke-width="14.2638" stroke="#1f77b4" opacity="0.5"><title>Augmented Reality → Authorization: 6</title></path>
+<path id="flow13" d="M12 432.28057C112.84892 432.28057 112.84892 224.1079 213.69784 224.1079" fill="none" stroke-width="11.8865" stroke="#e377c2" opacity="0.5"><title>VR → Environment and Practices: 5</title></path>
+<path id="flow30" d="M225.69784 261.10777C326.54676 261.10777 326.54676 201.54867 427.39568 201.54867" fill="none" stroke-width="11.8865" stroke="#1f77b4" opacity="0.5"><title>Algorithm Performance → Evaluation: 5</title></path>
+<path id="flow40" d="M225.69784 431.23648C326.54676 431.23648 326.54676 453.84596 427.39568 453.84596" fill="none" stroke-width="11.8865" stroke="#bcbd22" opacity="0.5"><title>User Performance → Technique: 5</title></path>
+<path id="flow41" d="M225.69784 499.14126C326.54676 499.14126 326.54676 465.73247 427.39568 465.73247" fill="none" stroke-width="11.8865" stroke="#bcbd22" opacity="0.5"><title>User Experience → Technique: 5</title></path>
+<path id="flow57" d="M439.39568 350.28168C540.2446 350.28168 540.2446 542.16567 641.09352 542.16567" fill="none" stroke-width="11.8865" stroke="#7f7f7f" opacity="0.5"><title>Application → Mirror World: 5</title></path>
+<path id="flow58" d="M439.39568 249.09469C540.2446 249.09469 540.2446 530.27917 641.09352 530.27917" fill="none" stroke-width="11.8865" stroke="#7f7f7f" opacity="0.5"><title>Evaluation → Mirror World: 5</title></path>
+<path id="flow64" d="M653.09352 419.58297C753.94244 419.58297 753.94244 193.62334 854.79136 193.62334" fill="none" stroke-width="11.8865" stroke="#bcbd22" opacity="0.5"><title>Augmented Reality → Authentication: 5</title></path>
+<path id="flow78" d="M653.09352 198.19059C753.94244 198.19059 753.94244 230.62321 854.79136 230.62321" fill="none" stroke-width="11.8865" stroke="#2ca02c" opacity="0.5"><title>Virtual World → Identification: 5</title></path>
+<path id="flow79" d="M653.09352 316.01869C753.94244 316.01869 753.94244 242.50971 854.79136 242.50971" fill="none" stroke-width="11.8865" stroke="#2ca02c" opacity="0.5"><title>Lifelogging → Identification: 5</title></path>
+<path id="flow96" d="M653.09352 440.97868C753.94244 440.97868 753.94244 364.05547 854.79136 364.05547" fill="none" stroke-width="11.8865" stroke="#e377c2" opacity="0.5"><title>Augmented Reality → Awareness: 5</title></path>
+<path id="flow99" d="M653.09352 356.4328C753.94244 356.4328 753.94244 403.43264 854.79136 403.43264" fill="none" stroke-width="11.8865" stroke="#7f7f7f" opacity="0.5"><title>Lifelogging → Anonymity: 5</title></path>
+<path id="flow2" d="M12 345.20567C112.84892 345.20567 112.84892 331.23814 213.69784 331.23814" fill="none" stroke-width="9.5092" stroke="#2ca02c" opacity="0.5"><title>SP → Algorithm Performance: 4</title></path>
+<path id="flow3" d="M12 528.86467C112.84892 528.86467 112.84892 369.27495 213.69784 369.27495" fill="none" stroke-width="9.5092" stroke="#d62728" opacity="0.5"><title>TVCG → Algorithm Performance: 4</title></path>
+<path id="flow12" d="M12 277.30089C112.84892 277.30089 112.84892 184.88244 213.69784 184.88244" fill="none" stroke-width="9.5092" stroke="#8c564b" opacity="0.5"><title>USS → Environment and Practices: 4</title></path>
+<path id="flow14" d="M12 398.84665C112.84892 398.84665 112.84892 425.29323 213.69784 425.29323" fill="none" stroke-width="9.5092" stroke="#17becf" opacity="0.5"><title>CHI → User Performance: 4</title></path>
+<path id="flow25" d="M12 469.12873C112.84892 469.12873 112.84892 490.82071 213.69784 490.82071" fill="none" stroke-width="9.5092" stroke="#e377c2" opacity="0.5"><title>VR → User Experience: 4</title></path>
+<path id="flow39" d="M225.69784 227.67385C326.54676 227.67385 326.54676 376.58369 427.39568 376.58369" fill="none" stroke-width="9.5092" stroke="#7f7f7f" opacity="0.5"><title>Environment and Practices → Technique: 4</title></path>
+<path id="flow65" d="M653.09352 531.46782C753.94244 531.46782 753.94244 204.32119 854.79136 204.32119" fill="none" stroke-width="9.5092" stroke="#bcbd22" opacity="0.5"><title>Mirror World → Authentication: 4</title></path>
+<path id="flow93" d="M653.09352 543.35432C753.94244 543.35432 753.94244 321.11235 854.79136 321.11235" fill="none" stroke-width="9.5092" stroke="#8c564b" opacity="0.5"><title>Mirror World → Unobservability: 4</title></path>
+<path id="flow94" d="M653.09352 227.90685C753.94244 227.90685 753.94244 346.22572 854.79136 346.22572" fill="none" stroke-width="9.5092" stroke="#e377c2" opacity="0.5"><title>Virtual World → Awareness: 4</title></path>
+<path id="flow98" d="M653.09352 237.41605C753.94244 237.41605 753.94244 392.73479 854.79136 392.73479" fill="none" stroke-width="9.5092" stroke="#7f7f7f" opacity="0.5"><title>Virtual World → Anonymity: 4</title></path>
+<path id="flow9" d="M12 336.88512C112.84892 336.88512 112.84892 193.20299 213.69784 193.20299" fill="none" stroke-width="7.1319" stroke="#2ca02c" opacity="0.5"><title>SP → Environment and Practices: 3</title></path>
+<path id="flow11" d="M12 493.05345C112.84892 493.05345 112.84892 233.6171 213.69784 233.6171" fill="none" stroke-width="7.1319" stroke="#9467bd" opacity="0.5"><title>UIST → Environment and Practices: 3</title></path>
+<path id="flow20" d="M12 407.1672C112.84892 407.1672 112.84892 482.50015 213.69784 482.50015" fill="none" stroke-width="7.1319" stroke="#17becf" opacity="0.5"><title>CHI → User Experience: 3</title></path>
+<path id="flow34" d="M225.69784 365.709C326.54676 365.709 326.54676 545.52375 427.39568 545.52375" fill="none" stroke-width="7.1319" stroke="#1f77b4" opacity="0.5"><title>Algorithm Performance → Model: 3</title></path>
+<path id="flow55" d="M439.39568 584.90092C540.2446 584.90092 540.2446 505.1658 641.09352 505.1658" fill="none" stroke-width="7.1319" stroke="#e377c2" opacity="0.5"><title>System → Augmented Reality: 3</title></path>
+<path id="flow66" d="M653.09352 245.7366C753.94244 245.7366 753.94244 440.43252 854.79136 440.43252" fill="none" stroke-width="7.1319" stroke="#17becf" opacity="0.5"><title>Virtual World → Confidentiality: 3</title></path>
+<path id="flow95" d="M653.09352 346.92359C753.94244 346.92359 753.94244 354.54627 854.79136 354.54627" fill="none" stroke-width="7.1319" stroke="#e377c2" opacity="0.5"><title>Lifelogging → Awareness: 3</title></path>
+<path id="flow100" d="M653.09352 450.48788C753.94244 450.48788 753.94244 412.94185 854.79136 412.94185" fill="none" stroke-width="7.1319" stroke="#7f7f7f" opacity="0.5"><title>Augmented Reality → Anonymity: 3</title></path>
+<path id="flow105" d="M653.09352 252.86851C753.94244 252.86851 753.94244 501.20539 854.79136 501.20539" fill="none" stroke-width="7.1319" stroke="#17becf" opacity="0.5"><title>Virtual World → Unlinkability: 3</title></path>
+<path id="flow106" d="M653.09352 380.2058C753.94244 380.2058 753.94244 508.3373 854.79136 508.3373" fill="none" stroke-width="7.1319" stroke="#17becf" opacity="0.5"><title>Lifelogging → Unlinkability: 3</title></path>
+<path id="flow4" d="M12 498.9967C112.84892 498.9967 112.84892 362.14305 213.69784 362.14305" fill="none" stroke-width="4.7546" stroke="#9467bd" opacity="0.5"><title>UIST → Algorithm Performance: 2</title></path>
+<path id="flow16" d="M12 352.33758C112.84892 352.33758 112.84892 418.16132 213.69784 418.16132" fill="none" stroke-width="4.7546" stroke="#2ca02c" opacity="0.5"><title>SP → User Performance: 2</title></path>
+<path id="flow18" d="M12 312.9604C112.84892 312.9604 112.84892 413.40672 213.69784 413.40672" fill="none" stroke-width="4.7546" stroke="#8c564b" opacity="0.5"><title>USS → User Performance: 2</title></path>
+<path id="flow19" d="M12 461.99683C112.84892 461.99683 112.84892 432.42513 213.69784 432.42513" fill="none" stroke-width="4.7546" stroke="#e377c2" opacity="0.5"><title>VR → User Performance: 2</title></path>
+<path id="flow22" d="M12 538.37388C112.84892 538.37388 112.84892 502.70721 213.69784 502.70721" fill="none" stroke-width="4.7546" stroke="#d62728" opacity="0.5"><title>TVCG → User Experience: 2</title></path>
+<path id="flow23" d="M12 503.7513C112.84892 503.7513 112.84892 497.95261 213.69784 497.95261" fill="none" stroke-width="4.7546" stroke="#9467bd" opacity="0.5"><title>UIST → User Experience: 2</title></path>
+<path id="flow36" d="M225.69784 371.65225C326.54676 371.65225 326.54676 581.33497 427.39568 581.33497" fill="none" stroke-width="4.7546" stroke="#1f77b4" opacity="0.5"><title>Algorithm Performance → System: 2</title></path>
+<path id="flow37" d="M225.69784 237.18305C326.54676 237.18305 326.54676 576.58037 427.39568 576.58037" fill="none" stroke-width="4.7546" stroke="#7f7f7f" opacity="0.5"><title>Environment and Practices → System: 2</title></path>
+<path id="flow44" d="M439.39568 541.9578C540.2446 541.9578 540.2446 263.56636 641.09352 263.56636" fill="none" stroke-width="4.7546" stroke="#9467bd" opacity="0.5"><title>Model → Virtual World: 2</title></path>
+<path id="flow49" d="M439.39568 546.7124C540.2446 546.7124 540.2446 388.52635 641.09352 388.52635" fill="none" stroke-width="4.7546" stroke="#8c564b" opacity="0.5"><title>Model → Lifelogging: 2</title></path>
+<path id="flow50" d="M439.39568 578.95767C540.2446 578.95767 540.2446 393.28096 641.09352 393.28096" fill="none" stroke-width="4.7546" stroke="#8c564b" opacity="0.5"><title>System → Lifelogging: 2</title></path>
+<path id="flow54" d="M439.39568 551.467C540.2446 551.467 540.2446 499.22255 641.09352 499.22255" fill="none" stroke-width="4.7546" stroke="#e377c2" opacity="0.5"><title>Model → Augmented Reality: 2</title></path>
+<path id="flow59" d="M439.39568 556.2216C540.2446 556.2216 540.2446 571.88193 641.09352 571.88193" fill="none" stroke-width="4.7546" stroke="#7f7f7f" opacity="0.5"><title>Model → Mirror World: 2</title></path>
+<path id="flow60" d="M439.39568 590.84418C540.2446 590.84418 540.2446 576.63653 641.09352 576.63653" fill="none" stroke-width="4.7546" stroke="#7f7f7f" opacity="0.5"><title>System → Mirror World: 2</title></path>
+<path id="flow69" d="M653.09352 557.61812C753.94244 557.61812 753.94244 479.65798 854.79136 479.65798" fill="none" stroke-width="4.7546" stroke="#17becf" opacity="0.5"><title>Mirror World → Confidentiality: 2</title></path>
+<path id="flow71" d="M653.09352 393.28096C753.94244 393.28096 753.94244 621.86593 854.79136 621.86593" fill="none" stroke-width="4.7546" stroke="#1f77b4" opacity="0.5"><title>Lifelogging → Authorization: 2</title></path>
+<path id="flow73" d="M653.09352 574.25923C753.94244 574.25923 753.94244 640.88433 854.79136 640.88433" fill="none" stroke-width="4.7546" stroke="#1f77b4" opacity="0.5"><title>Mirror World → Authorization: 2</title></path>
+<path id="flow75" d="M653.09352 286.30243C753.94244 286.30243 753.94244 112.6434 854.79136 112.6434" fill="none" stroke-width="4.7546" stroke="#ff7f0e" opacity="0.5"><title>Lifelogging → Integrity: 2</title></path>
+<path id="flow80" d="M653.09352 427.90353C753.94244 427.90353 753.94244 250.83027 854.79136 250.83027" fill="none" stroke-width="4.7546" stroke="#2ca02c" opacity="0.5"><title>Augmented Reality → Identification: 2</title></path>
+<path id="flow84" d="M653.09352 482.58144C753.94244 482.58144 753.94244 569.26189 854.79136 569.26189" fill="none" stroke-width="4.7546" stroke="#d62728" opacity="0.5"><title>Augmented Reality → Availability: 2</title></path>
+<path id="flow88" d="M653.09352 487.33604C753.94244 487.33604 753.94244 596.75256 854.79136 596.75256" fill="none" stroke-width="4.7546" stroke="#9467bd" opacity="0.5"><title>Augmented Reality → Non-repudiation: 2</title></path>
+<path id="flow92" d="M653.09352 432.65813C753.94244 432.65813 753.94244 313.98044 854.79136 313.98044" fill="none" stroke-width="4.7546" stroke="#8c564b" opacity="0.5"><title>Augmented Reality → Unobservability: 2</title></path>
+<path id="flow101" d="M653.09352 552.86352C753.94244 552.86352 753.94244 418.8851 854.79136 418.8851" fill="none" stroke-width="4.7546" stroke="#7f7f7f" opacity="0.5"><title>Mirror World → Anonymity: 2</title></path>
+<path id="flow103" d="M653.09352 506.35445C753.94244 506.35445 753.94244 663.6204 854.79136 663.6204" fill="none" stroke-width="4.7546" stroke="#bcbd22" opacity="0.5"><title>Augmented Reality → Policy: 2</title></path>
+<path id="flow107" d="M653.09352 475.44954C753.94244 475.44954 753.94244 514.28055 854.79136 514.28055" fill="none" stroke-width="4.7546" stroke="#17becf" opacity="0.5"><title>Augmented Reality → Unlinkability: 2</title></path>
+<path id="flow108" d="M653.09352 562.37272C753.94244 562.37272 753.94244 519.03515 854.79136 519.03515" fill="none" stroke-width="4.7546" stroke="#17becf" opacity="0.5"><title>Mirror World → Unlinkability: 2</title></path>
+<path id="flow0" d="M12 392.9034C112.84892 392.9034 112.84892 337.18139 213.69784 337.18139" fill="none" stroke-width="2.3773" stroke="#17becf" opacity="0.5"><title>CHI → Algorithm Performance: 1</title></path>
+<path id="flow10" d="M12 522.92142C112.84892 522.92142 112.84892 238.3717 213.69784 238.3717" fill="none" stroke-width="2.3773" stroke="#d62728" opacity="0.5"><title>TVCG → Environment and Practices: 1</title></path>
+<path id="flow17" d="M12 534.80792C112.84892 534.80792 112.84892 435.99108 213.69784 435.99108" fill="none" stroke-width="2.3773" stroke="#d62728" opacity="0.5"><title>TVCG → User Performance: 1</title></path>
+<path id="flow24" d="M12 316.52635C112.84892 316.52635 112.84892 477.74555 213.69784 477.74555" fill="none" stroke-width="2.3773" stroke="#8c564b" opacity="0.5"><title>USS → User Experience: 1</title></path>
+<path id="flow35" d="M225.69784 233.6171C326.54676 233.6171 326.54676 540.76915 427.39568 540.76915" fill="none" stroke-width="2.3773" stroke="#7f7f7f" opacity="0.5"><title>Environment and Practices → Model: 1</title></path>
+<path id="flow45" d="M439.39568 575.39172C540.2446 575.39172 540.2446 267.13231 641.09352 267.13231" fill="none" stroke-width="2.3773" stroke="#9467bd" opacity="0.5"><title>System → Virtual World: 1</title></path>
+<path id="flow70" d="M653.09352 264.75501C753.94244 264.75501 753.94244 618.29997 854.79136 618.29997" fill="none" stroke-width="2.3773" stroke="#1f77b4" opacity="0.5"><title>Virtual World → Authorization: 1</title></path>
+<path id="flow76" d="M653.09352 412.45107C753.94244 412.45107 753.94244 116.20936 854.79136 116.20936" fill="none" stroke-width="2.3773" stroke="#ff7f0e" opacity="0.5"><title>Augmented Reality → Integrity: 1</title></path>
+<path id="flow77" d="M653.09352 525.52456C753.94244 525.52456 753.94244 118.58666 854.79136 118.58666" fill="none" stroke-width="2.3773" stroke="#ff7f0e" opacity="0.5"><title>Mirror World → Integrity: 1</title></path>
+<path id="flow81" d="M653.09352 537.41107C753.94244 537.41107 753.94244 254.39622 854.79136 254.39622" fill="none" stroke-width="2.3773" stroke="#2ca02c" opacity="0.5"><title>Mirror World → Identification: 1</title></path>
+<path id="flow82" d="M653.09352 260.00041C753.94244 260.00041 753.94244 563.31863 854.79136 563.31863" fill="none" stroke-width="2.3773" stroke="#d62728" opacity="0.5"><title>Virtual World → Availability: 1</title></path>
+<path id="flow83" d="M653.09352 387.3377C753.94244 387.3377 753.94244 565.69594 854.79136 565.69594" fill="none" stroke-width="2.3773" stroke="#d62728" opacity="0.5"><title>Lifelogging → Availability: 1</title></path>
+<path id="flow85" d="M653.09352 568.31598C753.94244 568.31598 753.94244 572.82784 854.79136 572.82784" fill="none" stroke-width="2.3773" stroke="#d62728" opacity="0.5"><title>Mirror World → Availability: 1</title></path>
+<path id="flow86" d="M653.09352 262.37771C753.94244 262.37771 753.94244 590.8093 854.79136 590.8093" fill="none" stroke-width="2.3773" stroke="#9467bd" opacity="0.5"><title>Virtual World → Non-repudiation: 1</title></path>
+<path id="flow87" d="M653.09352 389.715C753.94244 389.715 753.94244 593.18661 854.79136 593.18661" fill="none" stroke-width="2.3773" stroke="#9467bd" opacity="0.5"><title>Lifelogging → Non-repudiation: 1</title></path>
+<path id="flow89" d="M653.09352 570.69328C753.94244 570.69328 753.94244 600.31851 854.79136 600.31851" fill="none" stroke-width="2.3773" stroke="#9467bd" opacity="0.5"><title>Mirror World → Non-repudiation: 1</title></path>
+<path id="flow97" d="M653.09352 549.29757C753.94244 549.29757 753.94244 371.18737 854.79136 371.18737" fill="none" stroke-width="2.3773" stroke="#e377c2" opacity="0.5"><title>Mirror World → Awareness: 1</title></path>
+<path id="flow102" d="M653.09352 267.13231C753.94244 267.13231 753.94244 660.05445 854.79136 660.05445" fill="none" stroke-width="2.3773" stroke="#bcbd22" opacity="0.5"><title>Virtual World → Policy: 1</title></path>
+<path id="flow104" d="M653.09352 577.82518C753.94244 577.82518 753.94244 667.18635 854.79136 667.18635" fill="none" stroke-width="2.3773" stroke="#bcbd22" opacity="0.5"><title>Mirror World → Policy: 1</title></path>
+<path id="flow109" d="M653.09352 257.62311C753.94244 257.62311 753.94244 538.20527 854.79136 538.20527" fill="none" stroke-width="2.3773" stroke="#1f77b4" opacity="0.5"><title>Virtual World → Deniability: 1</title></path>
+<path id="flow110" d="M653.09352 384.9604C753.94244 384.9604 753.94244 540.58257 854.79136 540.58257" fill="none" stroke-width="2.3773" stroke="#1f77b4" opacity="0.5"><title>Lifelogging → Deniability: 1</title></path>
+<path id="flow111" d="M653.09352 479.01549C753.94244 479.01549 753.94244 542.95987 854.79136 542.95987" fill="none" stroke-width="2.3773" stroke="#1f77b4" opacity="0.5"><title>Augmented Reality → Deniability: 1</title></path>
+<path id="flow112" d="M653.09352 565.93868C753.94244 565.93868 753.94244 545.33717 854.79136 545.33717" fill="none" stroke-width="2.3773" stroke="#1f77b4" opacity="0.5"><title>Mirror World → Deniability: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r0" class="for_r0" x="0" y="370.31904" height="40.41411" width="12" fill="#17becf" fill-opacity="1"><title>CHI:
+17</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r1" class="for_r1" x="213.69784" y="255.16452" height="118.86503" width="12" fill="#1f77b4" fill-opacity="1"><title>Algorithm Performance:
+50</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r2" class="for_r2" x="0" y="130.94519" height="125.99693" width="12" fill="#ff7f0e" fill-opacity="1"><title>Other Venues:
+53</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r3" class="for_r3" x="0" y="333.31917" height="21.39571" width="12" fill="#2ca02c" fill-opacity="1"><title>SP:
+9</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r4" class="for_r4" x="0" y="521.73277" height="19.0184" width="12" fill="#d62728" fill-opacity="1"><title>TVCG:
+8</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r5" class="for_r5" x="0" y="489.4875" height="16.6411" width="12" fill="#9467bd" fill-opacity="1"><title>UIST:
+7</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r6" class="for_r6" x="0" y="272.54629" height="45.16871" width="12" fill="#8c564b" fill-opacity="1"><title>USS:
+19</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r7" class="for_r7" x="0" y="426.33732" height="47.54601" width="12" fill="#e377c2" fill-opacity="1"><title>VR:
+20</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r8" class="for_r8" x="213.69784" y="142.09103" height="97.46933" width="12" fill="#7f7f7f" fill-opacity="1"><title>Environment and Practices:
+41</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r9" class="for_r9" x="213.69784" y="389.63372" height="47.54601" width="12" fill="#bcbd22" fill-opacity="1"><title>User Performance:
+20</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r10" class="for_r10" x="213.69784" y="452.7839" height="52.30061" width="12" fill="#bcbd22" fill-opacity="1"><title>User Experience:
+22</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r11" class="for_r11" x="427.39568" y="270.6421" height="85.58282" width="12" fill="#17becf" fill-opacity="1"><title>Application:
+36</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r12" class="for_r12" x="427.39568" y="136.17291" height="118.86503" width="12" fill="#1f77b4" fill-opacity="1"><title>Evaluation:
+50</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r13" class="for_r13" x="427.39568" y="539.5805" height="19.0184" width="12" fill="#ff7f0e" fill-opacity="1"><title>Model:
+8</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r14" class="for_r14" x="427.39568" y="574.20307" height="19.0184" width="12" fill="#2ca02c" fill-opacity="1"><title>System:
+8</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r15" class="for_r15" x="427.39568" y="371.82909" height="152.14724" width="12" fill="#d62728" fill-opacity="1"><title>Technique:
+64</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r16" class="for_r16" x="641.09352" y="144.70133" height="123.61963" width="12" fill="#9467bd" fill-opacity="1"><title>Virtual World:
+52</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r17" class="for_r17" x="641.09352" y="283.92513" height="111.73313" width="12" fill="#8c564b" fill-opacity="1"><title>Lifelogging:
+47</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r18" class="for_r18" x="641.09352" y="411.26242" height="97.46933" width="12" fill="#e377c2" fill-opacity="1"><title>Augmented Reality:
+41</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r19" class="for_r19" x="641.09352" y="524.33591" height="54.67791" width="12" fill="#7f7f7f" fill-opacity="1"><title>Mirror World:
+23</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r20" class="for_r20" x="854.79136" y="135.37947" height="73.69632" width="12" fill="#bcbd22" fill-opacity="1"><title>Authentication:
+31</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r21" class="for_r21" x="854.79136" y="436.86656" height="45.16871" width="12" fill="#17becf" fill-opacity="1"><title>Confidentiality:
+19</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r22" class="for_r22" x="854.79136" y="617.11132" height="26.15031" width="12" fill="#1f77b4" fill-opacity="1"><title>Authorization:
+11</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r23" class="for_r23" x="854.79136" y="93.625" height="26.15031" width="12" fill="#ff7f0e" fill-opacity="1"><title>Integrity:
+11</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r24" class="for_r24" x="854.79136" y="224.67996" height="30.90491" width="12" fill="#2ca02c" fill-opacity="1"><title>Identification:
+13</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r25" class="for_r25" x="854.79136" y="562.12998" height="11.8865" width="12" fill="#d62728" fill-opacity="1"><title>Availability:
+5</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r26" class="for_r26" x="854.79136" y="589.62065" height="11.8865" width="12" fill="#9467bd" fill-opacity="1"><title>Non-repudiation:
+5</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r27" class="for_r27" x="854.79136" y="271.18903" height="54.67791" width="12" fill="#8c564b" fill-opacity="1"><title>Unobservability:
+23</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r28" class="for_r28" x="854.79136" y="341.47111" height="30.90491" width="12" fill="#e377c2" fill-opacity="1"><title>Awareness:
+13</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r29" class="for_r29" x="854.79136" y="387.98019" height="33.28221" width="12" fill="#7f7f7f" fill-opacity="1"><title>Anonymity:
+14</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r30" class="for_r30" x="854.79136" y="658.8658" height="9.5092" width="12" fill="#bcbd22" fill-opacity="1"><title>Policy:
+4</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r31" class="for_r31" x="854.79136" y="497.63944" height="23.77301" width="12" fill="#17becf" fill-opacity="1"><title>Unlinkability:
+10</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r32" class="for_r32" x="854.79136" y="537.01662" height="9.5092" width="12" fill="#1f77b4" fill-opacity="1"><title>Deniability:
+4</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29902" y="390.5261" font-weight="400" font-size="16px" dy="-2.49601">CHI<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">17</tspan></text>
+<text id="label1" class="for_r1" text-anchor="end" x="207.39882" y="314.59703" font-weight="400" font-size="16px" dy="-2.49601">Algorithm Performance<tspan x="207.39882" dy="15.2" font-weight="400" font-size="16px">50</tspan></text>
+<text id="label2" class="for_r2" text-anchor="end" x="-6.29902" y="193.94366" font-weight="400" font-size="16px" dy="-2.49601">Other Venues<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">53</tspan></text>
+<text id="label3" class="for_r3" text-anchor="end" x="-6.29902" y="344.01702" font-weight="400" font-size="16px" dy="-2.49601">SP<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">9</tspan></text>
+<text id="label4" class="for_r4" text-anchor="end" x="-6.29902" y="531.24197" font-weight="400" font-size="16px" dy="-2.49601">TVCG<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">8</tspan></text>
+<text id="label5" class="for_r5" text-anchor="end" x="-6.29902" y="497.80805" font-weight="400" font-size="16px" dy="-2.49601">UIST<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">7</tspan></text>
+<text id="label6" class="for_r6" text-anchor="end" x="-6.29902" y="295.13065" font-weight="400" font-size="16px" dy="-2.49601">USS<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">19</tspan></text>
+<text id="label7" class="for_r7" text-anchor="end" x="-6.29902" y="450.11033" font-weight="400" font-size="16px" dy="-2.49601">VR<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">20</tspan></text>
+<text id="label8" class="for_r8" text-anchor="end" x="207.39882" y="190.82569" font-weight="400" font-size="16px" dy="-2.49601">Environment and Practices<tspan x="207.39882" dy="15.2" font-weight="400" font-size="16px">41</tspan></text>
+<text id="label9" class="for_r9" text-anchor="end" x="207.39882" y="413.40672" font-weight="400" font-size="16px" dy="-2.49601">User Performance<tspan x="207.39882" dy="15.2" font-weight="400" font-size="16px">20</tspan></text>
+<text id="label10" class="for_r10" text-anchor="end" x="207.39882" y="478.9342" font-weight="400" font-size="16px" dy="-2.49601">User Experience<tspan x="207.39882" dy="15.2" font-weight="400" font-size="16px">22</tspan></text>
+<text id="label11" class="for_r11" text-anchor="end" x="421.09666" y="313.43352" font-weight="400" font-size="16px" dy="-2.49601">Application<tspan x="421.09666" dy="15.2" font-weight="400" font-size="16px">36</tspan></text>
+<text id="label12" class="for_r12" text-anchor="end" x="421.09666" y="195.60542" font-weight="400" font-size="16px" dy="-2.49601">Evaluation<tspan x="421.09666" dy="15.2" font-weight="400" font-size="16px">50</tspan></text>
+<text id="label13" class="for_r13" text-anchor="end" x="421.09666" y="549.0897" font-weight="400" font-size="16px" dy="-2.49601">Model<tspan x="421.09666" dy="15.2" font-weight="400" font-size="16px">8</tspan></text>
+<text id="label14" class="for_r14" text-anchor="end" x="421.09666" y="583.71227" font-weight="400" font-size="16px" dy="-2.49601">System<tspan x="421.09666" dy="15.2" font-weight="400" font-size="16px">8</tspan></text>
+<text id="label15" class="for_r15" text-anchor="end" x="421.09666" y="447.90271" font-weight="400" font-size="16px" dy="-2.49601">Technique<tspan x="421.09666" dy="15.2" font-weight="400" font-size="16px">64</tspan></text>
+<text id="label16" class="for_r16" text-anchor="end" x="634.7945" y="206.51114" font-weight="400" font-size="16px" dy="-2.49601">Virtual World<tspan x="634.7945" dy="15.2" font-weight="400" font-size="16px">52</tspan></text>
+<text id="label17" class="for_r17" text-anchor="end" x="634.7945" y="339.79169" font-weight="400" font-size="16px" dy="-2.49601">Lifelogging<tspan x="634.7945" dy="15.2" font-weight="400" font-size="16px">47</tspan></text>
+<text id="label18" class="for_r18" text-anchor="end" x="634.7945" y="459.99709" font-weight="400" font-size="16px" dy="-2.49601">Augmented Reality<tspan x="634.7945" dy="15.2" font-weight="400" font-size="16px">41</tspan></text>
+<text id="label19" class="for_r19" text-anchor="end" x="634.7945" y="551.67487" font-weight="400" font-size="16px" dy="-2.49601">Mirror World<tspan x="634.7945" dy="15.2" font-weight="400" font-size="16px">23</tspan></text>
+<text id="label20" class="for_r20" text-anchor="end" x="848.49234" y="172.22763" font-weight="400" font-size="16px" dy="-2.49601">Authentication<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">31</tspan></text>
+<text id="label21" class="for_r21" text-anchor="end" x="848.49234" y="459.45092" font-weight="400" font-size="16px" dy="-2.49601">Confidentiality<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">19</tspan></text>
+<text id="label22" class="for_r22" text-anchor="end" x="848.49234" y="630.18648" font-weight="400" font-size="16px" dy="-2.49601">Authorization<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">11</tspan></text>
+<text id="label23" class="for_r23" text-anchor="end" x="848.49234" y="106.70015" font-weight="400" font-size="16px" dy="-2.49601">Integrity<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">11</tspan></text>
+<text id="label24" class="for_r24" text-anchor="end" x="848.49234" y="240.13241" font-weight="400" font-size="16px" dy="-2.49601">Identification<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">13</tspan></text>
+<text id="label25" class="for_r25" text-anchor="end" x="848.49234" y="568.07324" font-weight="400" font-size="16px" dy="-2.49601">Availability<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">5</tspan></text>
+<text id="label26" class="for_r26" text-anchor="end" x="848.49234" y="595.56391" font-weight="400" font-size="16px" dy="-2.49601">Non-repudiation<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">5</tspan></text>
+<text id="label27" class="for_r27" text-anchor="end" x="848.49234" y="298.52799" font-weight="400" font-size="16px" dy="-2.49601">Unobservability<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">23</tspan></text>
+<text id="label28" class="for_r28" text-anchor="end" x="848.49234" y="356.92357" font-weight="400" font-size="16px" dy="-2.49601">Awareness<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">13</tspan></text>
+<text id="label29" class="for_r29" text-anchor="end" x="848.49234" y="404.62129" font-weight="400" font-size="16px" dy="-2.49601">Anonymity<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">14</tspan></text>
+<text id="label30" class="for_r30" text-anchor="end" x="848.49234" y="663.6204" font-weight="400" font-size="16px" dy="-2.49601">Policy<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">4</tspan></text>
+<text id="label31" class="for_r31" text-anchor="end" x="848.49234" y="509.52595" font-weight="400" font-size="16px" dy="-2.49601">Unlinkability<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">10</tspan></text>
+<text id="label32" class="for_r32" text-anchor="end" x="848.49234" y="541.77122" font-weight="400" font-size="16px" dy="-2.49601">Deniability<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">4</tspan></text>
+</g>
+</g></svg>

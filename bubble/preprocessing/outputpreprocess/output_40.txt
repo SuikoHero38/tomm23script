@@ -1,0 +1,75 @@
+Benchmarking,VR,Virtual Reality,7
+Benchmarking,VR,Augmented Reality,2
+Benchmarking,VR,Mixed Reality,2
+Benchmarking,CHI,Virtual Reality,1
+Benchmarking,UIST,Virtual Reality,1
+Benchmarking,UIST,Augmented Reality,1
+Benchmarking,TVCG,Virtual Reality,2
+Benchmarking,TVCG,Augmented Reality,2
+Benchmarking,TVCG,Mixed Reality,1
+Benchmarking,Other Venues,Virtual Reality,8
+Benchmarking,Other Venues,Augmented Reality,12
+Benchmarking,Other Venues,Mixed Reality,3
+Benchmarking,Other Venues,Extended Reality,4
+Benchmarking,USS,Virtual Reality,6
+Benchmarking,USS,Augmented Reality,5
+Benchmarking,USS,Mixed Reality,1
+Benchmarking,USS,Extended Reality,1
+Benchmarking,SP,Virtual Reality,2
+Benchmarking,SP,Augmented Reality,2
+Human Experimentation,VR,Virtual Reality,5
+Human Experimentation,VR,Augmented Reality,1
+Human Experimentation,VR,Mixed Reality,1
+Human Experimentation,CHI,Virtual Reality,6
+Human Experimentation,CHI,Augmented Reality,1
+Human Experimentation,CHI,Extended Reality,1
+Human Experimentation,UIST,Augmented Reality,3
+Human Experimentation,TVCG,Virtual Reality,2
+Human Experimentation,Other Venues,Virtual Reality,10
+Human Experimentation,Other Venues,Augmented Reality,8
+Human Experimentation,Other Venues,Mixed Reality,2
+Human Experimentation,USS,Virtual Reality,1
+Human Experimentation,USS,Augmented Reality,1
+Human Experimentation,USS,Mixed Reality,2
+Human Experimentation,SP,Virtual Reality,2
+Human Experimentation,SP,Augmented Reality,1
+Interview,VR,Virtual Reality,2
+Interview,CHI,Virtual Reality,3
+Interview,CHI,Augmented Reality,2
+Interview,CHI,Extended Reality,1
+Interview,UIST,Augmented Reality,3
+Interview,TVCG,Virtual Reality,2
+Interview,Other Venues,Virtual Reality,5
+Interview,Other Venues,Augmented Reality,2
+Interview,USS,Mixed Reality,2
+Interview,SP,Virtual Reality,1
+Interview,SP,Augmented Reality,2
+Questionnaire,VR,Virtual Reality,3
+Questionnaire,VR,Augmented Reality,1
+Questionnaire,VR,Mixed Reality,1
+Questionnaire,CHI,Virtual Reality,3
+Questionnaire,CHI,Augmented Reality,1
+Questionnaire,TVCG,Virtual Reality,1
+Questionnaire,Other Venues,Virtual Reality,4
+Questionnaire,Other Venues,Augmented Reality,7
+Questionnaire,Other Venues,Mixed Reality,2
+Questionnaire,USS,Virtual Reality,1
+Questionnaire,USS,Augmented Reality,1
+Questionnaire,SP,Augmented Reality,1
+Data Science,VR,Virtual Reality,5
+Data Science,UIST,Virtual Reality,1
+Data Science,UIST,Augmented Reality,1
+Data Science,TVCG,Virtual Reality,1
+Data Science,TVCG,Mixed Reality,1
+Data Science,Other Venues,Virtual Reality,5
+Data Science,Other Venues,Augmented Reality,4
+Data Science,Other Venues,Mixed Reality,1
+Data Science,Other Venues,Extended Reality,1
+Data Science,USS,Virtual Reality,2
+Data Science,USS,Augmented Reality,1
+Data Science,SP,Virtual Reality,1
+Engineering Research,Other Venues,Augmented Reality,1
+Engineering Research,Other Venues,Mixed Reality,1
+Engineering Research,USS,Extended Reality,1
+Meta Science,Other Venues,Virtual Reality,1
+Meta Science,Other Venues,Augmented Reality,1

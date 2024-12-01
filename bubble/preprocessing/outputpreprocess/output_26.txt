@@ -1,0 +1,68 @@
+VR,Benchmarking,Application,1
+VR,Benchmarking,Technique,8
+VR,Human Experimentation,Application,2
+VR,Human Experimentation,Evaluation,3
+VR,Human Experimentation,Technique,1
+VR,Interview,Evaluation,2
+VR,Questionnaire,Application,1
+VR,Questionnaire,Evaluation,2
+VR,Questionnaire,Technique,1
+VR,Data Science,Application,1
+VR,Data Science,Technique,4
+CHI,Benchmarking,Evaluation,1
+CHI,Human Experimentation,Application,2
+CHI,Human Experimentation,Evaluation,6
+CHI,Interview,Evaluation,5
+CHI,Interview,System,1
+CHI,Questionnaire,Application,2
+CHI,Questionnaire,Evaluation,2
+UIST,Benchmarking,Technique,2
+UIST,Human Experimentation,Application,1
+UIST,Human Experimentation,Evaluation,2
+UIST,Interview,Application,1
+UIST,Interview,Evaluation,2
+UIST,Data Science,Technique,2
+TVCG,Benchmarking,Evaluation,1
+TVCG,Benchmarking,Technique,3
+TVCG,Human Experimentation,Application,1
+TVCG,Human Experimentation,Technique,1
+TVCG,Interview,Application,1
+TVCG,Interview,Technique,1
+TVCG,Questionnaire,Application,1
+TVCG,Data Science,Technique,1
+Other Venues,Benchmarking,Application,3
+Other Venues,Benchmarking,Model,3
+Other Venues,Benchmarking,System,3
+Other Venues,Benchmarking,Technique,10
+Other Venues,Human Experimentation,Application,4
+Other Venues,Human Experimentation,Evaluation,9
+Other Venues,Human Experimentation,Technique,3
+Other Venues,Interview,Evaluation,7
+Other Venues,Questionnaire,Application,2
+Other Venues,Questionnaire,Evaluation,5
+Other Venues,Questionnaire,Model,1
+Other Venues,Questionnaire,Technique,1
+Other Venues,Data Science,Application,2
+Other Venues,Data Science,Model,2
+Other Venues,Data Science,Technique,4
+Other Venues,Engineering Research,System,1
+Other Venues,Meta Science,Model,2
+USS,Benchmarking,Application,5
+USS,Benchmarking,Evaluation,3
+USS,Benchmarking,Technique,3
+USS,Human Experimentation,Application,1
+USS,Human Experimentation,Evaluation,1
+USS,Human Experimentation,Technique,2
+USS,Interview,Evaluation,1
+USS,Interview,Technique,1
+USS,Questionnaire,Application,1
+USS,Questionnaire,Technique,1
+USS,Data Science,Evaluation,2
+USS,Engineering Research,Evaluation,1
+SP,Benchmarking,Application,2
+SP,Benchmarking,Technique,2
+SP,Human Experimentation,Application,1
+SP,Human Experimentation,Technique,2
+SP,Interview,Evaluation,2
+SP,Questionnaire,Application,1
+SP,Data Science,Technique,1

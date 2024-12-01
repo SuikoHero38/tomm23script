@@ -1,0 +1,46 @@
+Virtual Reality,Algorithm Performance,Application,5
+Virtual Reality,Algorithm Performance,Evaluation,3
+Virtual Reality,Algorithm Performance,Model,1
+Virtual Reality,Algorithm Performance,Technique,18
+Virtual Reality,Environment and Practices,Application,5
+Virtual Reality,Environment and Practices,Evaluation,15
+Virtual Reality,Environment and Practices,Technique,1
+Virtual Reality,User Performance,Application,4
+Virtual Reality,User Performance,Evaluation,6
+Virtual Reality,User Performance,Technique,3
+Virtual Reality,User Experience,Application,3
+Virtual Reality,User Experience,Evaluation,6
+Virtual Reality,User Experience,Technique,3
+Augmented Reality,Algorithm Performance,Application,7
+Augmented Reality,Algorithm Performance,Evaluation,2
+Augmented Reality,Algorithm Performance,Model,1
+Augmented Reality,Algorithm Performance,System,1
+Augmented Reality,Algorithm Performance,Technique,12
+Augmented Reality,Environment and Practices,Application,5
+Augmented Reality,Environment and Practices,Evaluation,9
+Augmented Reality,Environment and Practices,Model,1
+Augmented Reality,Environment and Practices,System,2
+Augmented Reality,Environment and Practices,Technique,3
+Augmented Reality,User Performance,Application,2
+Augmented Reality,User Performance,Evaluation,2
+Augmented Reality,User Performance,Technique,3
+Augmented Reality,User Experience,Application,4
+Augmented Reality,User Experience,Evaluation,5
+Augmented Reality,User Experience,Technique,2
+Mixed Reality,Algorithm Performance,Application,1
+Mixed Reality,Algorithm Performance,Model,1
+Mixed Reality,Algorithm Performance,Technique,4
+Mixed Reality,Environment and Practices,Application,2
+Mixed Reality,Environment and Practices,Evaluation,1
+Mixed Reality,Environment and Practices,System,1
+Mixed Reality,Environment and Practices,Technique,2
+Mixed Reality,User Performance,Application,1
+Mixed Reality,User Performance,Evaluation,1
+Mixed Reality,User Experience,Application,2
+Mixed Reality,User Experience,Technique,2
+Extended Reality,Algorithm Performance,Application,1
+Extended Reality,Algorithm Performance,Evaluation,1
+Extended Reality,Algorithm Performance,Model,1
+Extended Reality,Algorithm Performance,System,1
+Extended Reality,Algorithm Performance,Technique,1
+Extended Reality,Environment and Practices,Evaluation,1

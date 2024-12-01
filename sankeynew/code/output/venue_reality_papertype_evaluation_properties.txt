@@ -1,0 +1,96 @@
+CHI [6] Virtual Reality
+CHI [3] Augmented Reality
+CHI [1] Extended Reality
+Other Venues [16] Virtual Reality
+Other Venues [20] Augmented Reality
+Other Venues [5] Mixed Reality
+Other Venues [4] Extended Reality
+SP [3] Virtual Reality
+SP [5] Augmented Reality
+TVCG [3] Virtual Reality
+TVCG [2] Augmented Reality
+TVCG [1] Mixed Reality
+UIST [1] Virtual Reality
+UIST [4] Augmented Reality
+USS [6] Virtual Reality
+USS [5] Augmented Reality
+USS [3] Mixed Reality
+USS [1] Extended Reality
+VR [11] Virtual Reality
+VR [2] Augmented Reality
+VR [2] Mixed Reality
+Virtual Reality [9] Application
+Augmented Reality [13] Application
+Mixed Reality [4] Application
+Extended Reality [1] Application
+Virtual Reality [18] Evaluation
+Augmented Reality [11] Evaluation
+Mixed Reality [1] Evaluation
+Extended Reality [2] Evaluation
+Virtual Reality [1] Model
+Augmented Reality [2] Model
+Mixed Reality [1] Model
+Extended Reality [1] Model
+Augmented Reality [3] System
+Mixed Reality [1] System
+Extended Reality [1] System
+Virtual Reality [18] Technique
+Augmented Reality [12] Technique
+Mixed Reality [4] Technique
+Extended Reality [1] Technique
+Application [12] Algorithm Performance
+Application [9] Environment and Practices
+Application [6] User Performance
+Application [6] User Experience
+Evaluation [5] Algorithm Performance
+Evaluation [25] Environment and Practices
+Evaluation [9] User Performance
+Evaluation [11] User Experience
+Model [3] Algorithm Performance
+Model [1] Environment and Practices
+System [2] Algorithm Performance
+System [2] Environment and Practices
+Technique [28] Algorithm Performance
+Technique [4] Environment and Practices
+Technique [5] User Performance
+Technique [5] User Experience
+Algorithm Performance [8] Authentication
+Environment and Practices [7] Authentication
+User Performance [5] Authentication
+User Experience [5] Authentication
+Algorithm Performance [5] Confidentiality
+Environment and Practices [6] Confidentiality
+User Performance [2] Confidentiality
+User Experience [3] Confidentiality
+Algorithm Performance [4] Authorization
+Environment and Practices [4] Authorization
+User Performance [1] Authorization
+User Experience [1] Authorization
+Algorithm Performance [5] Integrity
+Environment and Practices [4] Integrity
+User Performance [3] Integrity
+User Experience [2] Integrity
+Algorithm Performance [4] Identification
+Environment and Practices [4] Identification
+User Performance [2] Identification
+User Experience [1] Identification
+Algorithm Performance [2] Availability
+Algorithm Performance [1] Non-repudiation
+User Experience [1] Non-repudiation
+Algorithm Performance [9] Unobservability
+Environment and Practices [3] Unobservability
+User Experience [4] Unobservability
+Environment and Practices [9] Awareness
+User Performance [3] Awareness
+User Experience [4] Awareness
+Algorithm Performance [6] Anonymity
+User Performance [1] Anonymity
+Algorithm Performance [2] Policy
+Environment and Practices [2] Policy
+User Performance [2] Policy
+User Experience [1] Policy
+Algorithm Performance [3] Unlinkability
+Environment and Practices [1] Unlinkability
+Algorithm Performance [1] Deniability
+Environment and Practices [1] Deniability
+User Performance [1] Deniability

@@ -1,0 +1,90 @@
+//Associations between Evaluation and Paper Type:
+AP [14] Application
+AP [6] Evaluation
+AP [3] Model
+AP [2] System
+AP [28] Technique
+UE [6] Application
+UE [19] Evaluation
+UE [1] Model
+UE [4] Technique
+UP [2] Application
+UP [6] Evaluation
+UP [1] Technique
+UWP [3] Application
+UWP [8] Evaluation
+UWP [2] System
+UWP [1] Technique
+
+//Associations between Paper Type and Venue:
+Application [13] Other Venues
+Evaluation [26] Other Venues
+Model [4] Other Venues
+System [3] Other Venues
+Technique [26] Other Venues
+
+//Associations between Venue and Topic:
+Other Venues [2] Deniability
+Other Venues [3] Awareness
+Other Venues [3] Confidentiality
+Other Venues [4] Unobservability
+Other Venues [4] Identification
+Other Venues [7] Authentication
+Other Venues [2] Authorization
+Other Venues [1] Integrity
+Other Venues [1] Unlinkability
+Other Venues [3] Anonymity
+
+//Associations between Topic and Metaverse:
+Authorization [2] MW
+Authorization [6] AR
+Authorization [2] LL
+Authorization [1] VW
+Confidentiality [8] AR
+Confidentiality [2] MW
+Confidentiality [6] LL
+Confidentiality [3] VW
+Non-repudiation [1] VW
+Non-repudiation [1] MW
+Non-repudiation [2] AR
+Non-repudiation [1] LL
+Unlinkability [2] AR
+Unlinkability [3] VW
+Unlinkability [2] MW
+Unlinkability [3] LL
+Integrity [7] VW
+Integrity [2] LL
+Integrity [1] MW
+Integrity [1] AR
+Policy [1] VW
+Policy [2] AR
+Policy [1] MW
+Deniability [1] VW
+Deniability [1] LL
+Deniability [1] MW
+Deniability [1] AR
+Awareness [5] AR
+Awareness [4] VW
+Awareness [1] MW
+Awareness [3] LL
+Availability [1] VW
+Availability [1] MW
+Availability [2] AR
+Availability [1] LL
+Authentication [13] VW
+Authentication [9] LL
+Authentication [4] MW
+Authentication [5] AR
+Anonymity [3] AR
+Anonymity [5] LL
+Anonymity [4] VW
+Anonymity [2] MW
+Unobservability [8] VW
+Unobservability [9] LL
+Unobservability [4] MW
+Unobservability [2] AR
+Identification [5] VW
+Identification [5] LL
+Identification [2] AR
+Identification [1] MW
+

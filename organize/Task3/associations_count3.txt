@@ -1,0 +1,98 @@
+Associations between Paper Type and Topic:
+Application [3] Authentication
+Application [8] Awareness
+Application [3] New Attacks
+Application [2] Challenges
+Application [3] Lesson Learned
+
+Evaluation [17] Lesson Learned
+Evaluation [2] Authentication
+Evaluation [1] New Attacks
+Evaluation [5] Awareness
+Evaluation [1] Challenges
+
+Technique [10] New Attacks
+Technique [5] Authentication
+Technique [6] Awareness
+Technique [4] Lesson Learned
+
+System [4] Awareness
+
+Model [1] Authentication
+Model [1] Lesson Learned
+Model [1] Awareness
+Model [1] Challenges
+
+Associations between Paper Type and Strategy:
+Application [8] Benchmarking
+Application [2] Data Science
+Application [12] Human participants
+Application [6] Questionnaire Surveys
+Application [2] Qualitative Survey (Interviews)
+
+Evaluation [12] Qualitative Survey (Interviews)
+Evaluation [2] Data Science
+Evaluation [1] Engineering Research
+Evaluation [18] Human participants
+Evaluation [6] Questionnaire Surveys
+
+Technique [11] Benchmarking
+Technique [14] Human participants
+Technique [10] Data Science
+Technique [1] Questionnaire Surveys
+
+System [1] Human participants
+System [1] Questionnaire Surveys
+System [1] Engineering Research
+System [2] Benchmarking
+
+Model [2] Data Science
+Model [2] Meta Science
+
+Associations between Paper Type and Metaverse:
+Application [13] MW
+Application [13] AR
+Application [7] VW
+Application [3] LL
+
+Evaluation [11] AR
+Evaluation [9] VW
+Evaluation [10] MW
+Evaluation [4] LL
+
+Technique [15] MW
+Technique [9] LL
+Technique [10] AR
+Technique [8] VW
+
+System [1] VW
+System [2] MW
+System [3] AR
+
+Model [2] AR
+Model [2] LL
+Model [2] MW
+Model [1] VW
+
+Associations between Paper Type and Evaluation:
+Application [12] AP
+Application [6] UE
+Application [2] UP
+Application [3] UWP
+
+Evaluation [17] UE
+Evaluation [6] AP
+Evaluation [7] UWP
+Evaluation [4] UP
+
+Technique [25] AP
+Technique [1] UP
+Technique [4] UE
+Technique [1] UWP
+
+System [2] UWP
+System [2] AP
+
+Model [3] AP
+Model [1] UE
+

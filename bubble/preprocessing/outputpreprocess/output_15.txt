@@ -1,0 +1,66 @@
+Application,VR,Virtual World,2
+Application,VR,Lifelogging,1
+Application,CHI,Virtual World,1
+Application,CHI,Lifelogging,1
+Application,CHI,Augmented Reality,1
+Application,UIST,Augmented Reality,1
+Application,TVCG,Virtual World,1
+Application,Other Venues,Virtual World,3
+Application,Other Venues,Lifelogging,4
+Application,Other Venues,Augmented Reality,5
+Application,Other Venues,Mirror World,3
+Application,USS,Virtual World,3
+Application,USS,Lifelogging,1
+Application,USS,Augmented Reality,3
+Application,USS,Mirror World,1
+Application,SP,Lifelogging,1
+Application,SP,Augmented Reality,3
+Evaluation,VR,Virtual World,3
+Evaluation,VR,Lifelogging,1
+Evaluation,CHI,Virtual World,6
+Evaluation,CHI,Lifelogging,4
+Evaluation,CHI,Augmented Reality,1
+Evaluation,CHI,Mirror World,1
+Evaluation,UIST,Lifelogging,2
+Evaluation,UIST,Augmented Reality,2
+Evaluation,TVCG,Augmented Reality,1
+Evaluation,Other Venues,Virtual World,7
+Evaluation,Other Venues,Lifelogging,1
+Evaluation,Other Venues,Augmented Reality,4
+Evaluation,USS,Virtual World,3
+Evaluation,USS,Lifelogging,3
+Evaluation,USS,Augmented Reality,1
+Evaluation,USS,Mirror World,3
+Evaluation,SP,Virtual World,1
+Evaluation,SP,Augmented Reality,2
+Evaluation,SP,Mirror World,1
+Model,Other Venues,Virtual World,2
+Model,Other Venues,Lifelogging,2
+Model,Other Venues,Augmented Reality,2
+Model,Other Venues,Mirror World,2
+System,CHI,Augmented Reality,1
+System,Other Venues,Virtual World,1
+System,Other Venues,Lifelogging,2
+System,Other Venues,Augmented Reality,2
+System,Other Venues,Mirror World,2
+Technique,VR,Virtual World,6
+Technique,VR,Lifelogging,7
+Technique,VR,Augmented Reality,2
+Technique,VR,Mirror World,2
+Technique,UIST,Virtual World,1
+Technique,UIST,Lifelogging,1
+Technique,UIST,Augmented Reality,1
+Technique,TVCG,Virtual World,2
+Technique,TVCG,Lifelogging,3
+Technique,TVCG,Augmented Reality,1
+Technique,TVCG,Mirror World,1
+Technique,Other Venues,Virtual World,7
+Technique,Other Venues,Lifelogging,9
+Technique,Other Venues,Augmented Reality,7
+Technique,Other Venues,Mirror World,5
+Technique,USS,Virtual World,1
+Technique,USS,Lifelogging,3
+Technique,USS,Augmented Reality,1
+Technique,USS,Mirror World,1
+Technique,SP,Virtual World,2
+Technique,SP,Lifelogging,1

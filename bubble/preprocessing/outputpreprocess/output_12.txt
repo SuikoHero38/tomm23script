@@ -1,0 +1,46 @@
+Algorithm Performance,Virtual Reality,Application,5
+Algorithm Performance,Virtual Reality,Evaluation,3
+Algorithm Performance,Virtual Reality,Model,1
+Algorithm Performance,Virtual Reality,Technique,18
+Algorithm Performance,Augmented Reality,Application,7
+Algorithm Performance,Augmented Reality,Evaluation,2
+Algorithm Performance,Augmented Reality,Model,1
+Algorithm Performance,Augmented Reality,System,1
+Algorithm Performance,Augmented Reality,Technique,12
+Algorithm Performance,Mixed Reality,Application,1
+Algorithm Performance,Mixed Reality,Model,1
+Algorithm Performance,Mixed Reality,Technique,4
+Algorithm Performance,Extended Reality,Application,1
+Algorithm Performance,Extended Reality,Evaluation,1
+Algorithm Performance,Extended Reality,Model,1
+Algorithm Performance,Extended Reality,System,1
+Algorithm Performance,Extended Reality,Technique,1
+Environment and Practices,Virtual Reality,Application,5
+Environment and Practices,Virtual Reality,Evaluation,15
+Environment and Practices,Virtual Reality,Technique,1
+Environment and Practices,Augmented Reality,Application,5
+Environment and Practices,Augmented Reality,Evaluation,9
+Environment and Practices,Augmented Reality,Model,1
+Environment and Practices,Augmented Reality,System,2
+Environment and Practices,Augmented Reality,Technique,3
+Environment and Practices,Mixed Reality,Application,2
+Environment and Practices,Mixed Reality,Evaluation,1
+Environment and Practices,Mixed Reality,System,1
+Environment and Practices,Mixed Reality,Technique,2
+Environment and Practices,Extended Reality,Evaluation,1
+User Performance,Virtual Reality,Application,4
+User Performance,Virtual Reality,Evaluation,6
+User Performance,Virtual Reality,Technique,3
+User Performance,Augmented Reality,Application,2
+User Performance,Augmented Reality,Evaluation,2
+User Performance,Augmented Reality,Technique,3
+User Performance,Mixed Reality,Application,1
+User Performance,Mixed Reality,Evaluation,1
+User Experience,Virtual Reality,Application,3
+User Experience,Virtual Reality,Evaluation,6
+User Experience,Virtual Reality,Technique,3
+User Experience,Augmented Reality,Application,4
+User Experience,Augmented Reality,Evaluation,5
+User Experience,Augmented Reality,Technique,2
+User Experience,Mixed Reality,Application,2
+User Experience,Mixed Reality,Technique,2

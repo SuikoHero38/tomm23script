@@ -1,0 +1,27 @@
+Item Type,Venue,Total
+conferencePaper,VR,21
+conferencePaper,CHI,13
+conferencePaper,USS,13
+conferencePaper,SP,7
+conferencePaper,SOUPS,6
+conferencePaper,UIST,5
+conferencePaper,ISMAR,4
+conferencePaper,ACSAC,3
+conferencePaper,PETS,3
+conferencePaper,ARES,2
+conferencePaper,CCS,2
+conferencePaper,FC,2
+conferencePaper,NDSS,2
+conferencePaper,ASE,1
+conferencePaper,ESORICS,1
+conferencePaper,PACIFICVIS,1
+conferencePaper,RAID,1
+conferencePaper,TrustCom,1
+conferencePaper,WiSec,1
+journalPaper,TVCG,5
+journalPaper,CS,4
+journalPaper,CSUR,3
+journalPaper,TODSC,3
+journalPaper,TOIFS,2
+journalPaper,TOPS,2
+journalPaper,SPM,1

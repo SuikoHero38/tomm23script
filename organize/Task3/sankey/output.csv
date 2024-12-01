@@ -1,0 +1,125 @@
+Source,Target,Value
+AP,Application,14
+AP,Evaluation,6
+AP,Model,3
+AP,System,2
+AP,Technique,28
+UE,Application,6
+UE,Evaluation,19
+UE,Model,1
+UE,Technique,4
+UP,Application,2
+UP,Evaluation,6
+UP,Technique,1
+UWP,Application,3
+UWP,Evaluation,8
+UWP,System,2
+UWP,Technique,1
+Application,USS,6
+Application,UIST,1
+Application,TVCG,1
+Application,Other Venues,6
+Application,CHI,2
+Application,VR_Conf,2
+Application,SP,3
+Evaluation,USS,4
+Evaluation,Other Venues,11
+Evaluation,CHI,7
+Evaluation,SP,2
+Evaluation,VR_Conf,3
+Evaluation,UIST,2
+Evaluation,TVCG,1
+Model,Other Venues,4
+System,CHI,1
+System,Other Venues,3
+Technique,SP,2
+Technique,Other Venues,10
+Technique,USS,3
+Technique,UIST,2
+Technique,TVCG,3
+Technique,VR_Conf,8
+USS,Authorization,2
+USS,Confidentiality,2
+USS,Non-repudiation,1
+USS,Policy,2
+USS,Integrity,1
+USS,Unobservability,4
+USS,Unlinkability,1
+UIST,Unlinkability,1
+UIST,Awareness,2
+UIST,Integrity,1
+UIST,Confidentiality,1
+TVCG,Integrity,1
+TVCG,Confidentiality,1
+TVCG,Anonymity,2
+TVCG,Unobservability,1
+Other Venues,Confidentiality,3
+Other Venues,Policy,2
+Other Venues,Availability,2
+Other Venues,Authentication,8
+Other Venues,Non-repudiation,1
+Other Venues,Identification,3
+Other Venues,Unobservability,2
+Other Venues,Awareness,4
+Other Venues,Integrity,3
+Other Venues,Authorization,4
+Other Venues,Unlinkability,1
+Other Venues,Anonymity,1
+CHI,Deniability,1
+CHI,Awareness,2
+CHI,Confidentiality,2
+CHI,Unobservability,1
+CHI,Identification,2
+CHI,Authentication,1
+CHI,Authorization,1
+VR_Conf,Authentication,4
+VR_Conf,Integrity,1
+VR_Conf,Confidentiality,1
+VR_Conf,Unobservability,3
+VR_Conf,Deniability,1
+VR_Conf,Identification,1
+VR_Conf,Unlinkability,1
+VR_Conf,Anonymity,1
+SP,Authorization,1
+SP,Anonymity,2
+SP,Awareness,1
+SP,Authentication,2
+SP,Identification,1
+Authorization,MR,2
+Authorization,AR,6
+Authorization,VR,1
+Confidentiality,AR,8
+Confidentiality,MR,2
+Confidentiality,VR,3
+Non-repudiation,AR,2
+Non-repudiation,VR,1
+Unlinkability,AR,2
+Unlinkability,VR,2
+Unlinkability,XR,1
+Integrity,VR,7
+Integrity,AR,1
+Policy,VR,1
+Policy,AR,2
+Policy,MR,1
+Deniability,VR,1
+Deniability,MR,1
+Deniability,AR,1
+Awareness,AR,5
+Awareness,VR,3
+Awareness,XR,1
+Availability,XR,1
+Availability,MR,1
+Availability,AR,2
+Authentication,VR,12
+Authentication,AR,5
+Authentication,XR,1
+Anonymity,AR,3
+Anonymity,VR,4
+Anonymity,MR,1
+Unobservability,VR,7
+Unobservability,XR,1
+Unobservability,MR,3
+Unobservability,AR,2
+Identification,VR,4
+Identification,AR,2
+Identification,XR,1

@@ -1,0 +1,7 @@
+Paper Type,Authentication,Confidentiality,Authorization,Integrity,Identification,Availability,Non-repudiation,Unobservability,Awareness,Anonymity,Policy,Unlinkability,Deniability,Benchmarking,Data Science,Engineering Research,Experiment with Human participants,Meta Science,Qualitative Survey (Interviews),Questionnaire Surveys, ,Experiment with Human participants,Qualitative Survey (Interviews),Questionnaire Surveys,Benchmarking,Data Science,Meta Science,Engineering Research, ,VW,AR,LL,MW, ,VR,AR,MR,XR, ,AP,UE,UWP,UP
+Application,2,3,3,3,0,1,2,0,2,1,2,1,1,7,1,0,8,0,2,3,,8,2,3,7,1,0,0,,6,7,4,4,,8,9,3,1,,12,6,1,2
+Evaluation,5,4,2,1,4,0,0,4,7,0,2,1,0,3,3,1,13,0,6,4,,13,6,4,3,3,0,1,,12,8,7,3,,17,9,2,2,,7,11,8,4
+Model,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,2,0,1,1,,2,1,1,0,0,0,0,,1,0,1,2,,1,3,0,0,,0,2,0,2
+System,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1,1,,2,1,1,0,0,0,0,,3,0,0,1,,1,3,0,0,,1,2,1,0
+Technique,7,2,1,2,2,1,0,6,0,5,0,1,1,0,2,0,10,2,7,7,,10,7,7,0,2,2,0,,10,9,8,1,,10,11,4,3,,17,6,4,1
+Total,15,10,8,7,7,2,2,11,9,6,4,4,2,10,6,1,35,2,17,16,,35,17,16,10,6,2,1,,32,24,20,11,,37,35,9,6,,37,27,14,9

@@ -1,0 +1,88 @@
+﻿Paper Title,Paper Type,Research Topic,Metaverse Component,Publication Venue,Evaluation Scenario,Reality
+LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality,Application,Authorization,MW,USS,AP,MR
+Erebus: Access Control for Augmented Reality Systems,Application,Confidentiality,AR,USS,AP,AR
+Going through the motions: AR/VR keylogging from user head motions,Application,Non-repudiation,"VW,MW,AR,LL",USS,AP,"AR,VR"
+Reframe: An Augmented Reality Storyboarding Tool for Character-Driven Analysis of Security &amp; Privacy Concerns,Application,Unlinkability,AR,UIST,UE,AR
+Visual Indicators Representing Avatars' Authenticity in Social Virtual Reality and Their Impacts on Perceived Trustworthiness,Application,Integrity,VW,TVCG,UE,VR
+OVRSEEN: Auditing Network Traffic and Privacy Policies in Oculus VR,Application,Policy,VW,USS,AP,VR
+NailRing: An Intelligent Ring for Recognizing Micro-gestures in Mixed Reality,Application,Confidentiality,"MW,AR,LL",Other Venues,"UP,UE,UWP","MR,AR"
+Hidden in Plain Sight: Exploring Privacy Risks of Mobile Augmented Reality Applications,Application,Policy,AR,Other Venues,AP,AR
+Covert Embodied Choice: Decision-Making and the Limits of Privacy Under Biometric Surveillance,Application,Deniability,"VW,LL",CHI,AP,VR
+Crowdsourcing Design Guidance for Contextual Adaptation of Text Content in Augmented Reality,Application,Awareness,AR,CHI,UE,AR
+AdCube: WebVR Ad Fraud and Practical Confinement of Third-Party Ads,Application,Integrity,VW,USS,AP,VR
+ARENA: The Augmented Reality Edge Networking Architecture,Application,Availability,"VW,MW,AR,LL",Other Venues,AP,"XR,MR,AR"
+OcuLock: Exploring Human Visual System for Authentication in Virtual Reality Head-mounted Display,Application,Authentication,"VW,LL",Other Venues,"AP,UE",VR
+Secure Multi-User Content Sharing for Augmented Reality Applications,Application,Authorization,AR,USS,AP,AR
+Investigating the Third Dimension for Authentication in Immersive Virtual Reality and in the Real World,Application,Authentication,VW,VR,UP,VR
+"Person Independent, Privacy Preserving, and Real Time Assessment of Cognitive Load using Eye Tracking in a Virtual Reality Setup",Application,Integrity,"VW,LL",VR,AP,VR
+Securing Augmented Reality Output,Application,Authorization,AR,SP,AP,AR
+HoloPair: Securing Shared Augmented Reality Using Microsoft HoloLens,Application,Confidentiality,"VW,MW,AR,LL",Other Venues,"UE,UWP","MR, AR, VR"
+Visualizing the New Zealand Cyber Security Challenge for Attack Behaviors,Application,Non-repudiation,AR,Other Venues,UWP,AR
+"Prepose: Privacy, Security, and Reliability for Gesture-Based Programming",Application,Anonymity,"AR,LL",SP,AP,AR
+SurroundWeb: Mitigating Privacy Concerns in a 3D Web Browser,Application,Awareness,AR,SP,AP,AR
+"Unique Identification of 50, 000+ Virtual Reality Users from Head \& Hand Motion Data",Evaluation,Unobservability,"VW,LL",USS,AP,VR
+Is Your Wallet Snitching On You? An Analysis on the Privacy Implications of Web3,Evaluation,Unobservability,"VW,MW,LL",USS,AP,XR
+It's all in your head(set): Side-channel attacks on AR/VR systems,Evaluation,Unlinkability,"VW,MW,AR,LL",USS,AP,"AR,VR"
+A Tagging Solution to Discover IoT Devices in Apartments,Evaluation,Identification,VW,Other Venues,UE,VR
+Exploring the Privacy Risks of Adversarial VR Game Design,Evaluation,Unobservability,VW,Other Venues,AP,VR
+Speculative Privacy Concerns About AR Glasses Data Collection,Evaluation,Awareness,AR,Other Venues,UE,AR
+Investigating Security Indicators for Hyperlinking Within the Metaverse,Evaluation,Awareness,VW,Other Venues,"UP,UE,UWP",VR
+"An Investigation of Teenager Experiences in Social Virtual Reality from Teenagers', Parents', and Bystanders' Perspectives",Evaluation,Awareness,VW,Other Venues,UE,VR
+Virtual reality for improving cyber situational awareness in security operations centers,Evaluation,Awareness,VW,Other Venues,"UP,UE",VR
+Understanding Context to Capture when Reconstructing Meaningful Spaces for Remote Instruction and Connecting in XR,Evaluation,Awareness,"VW,MW,LL",CHI,UE,XR
+Exploring User Reactions and Mental Models Towards Perceptual Manipulation Attacks in Mixed Reality,Evaluation,Policy,MW,USS,UP,MR
+"Something Personal from the Metaverse: Goals, Topics, and Contextual Factors of Self-Disclosure in Commercial Social VR",Evaluation,Confidentiality,VW,CHI,UWP,VR
+The Dark Side of Perceptual Manipulations in Virtual Reality,Evaluation,Unobservability,VW,CHI,UWP,VR
+SoK: Authentication in Augmented and Virtual Reality,Evaluation,Authentication,"VW,MW,AR",SP,UE,"AR,VR"
+Virtual Reality Observations: Using Virtual Reality to Augment Lab-Based Shoulder Surfing Research,Evaluation,Authentication,"VW,LL",VR,"UE,UWP",VR
+Can I Borrow Your ATM? Using Virtual Reality for (Simulated) In Situ Authentication Research,Evaluation,Authentication,VW,VR,"UE,UWP",VR
+Understanding User Identification in Virtual Reality Through Behavioral Biometrics and the Effect of Body Normalization,Evaluation,Identification,"VW,LL",CHI,AP,VR
+RepliCueAuth: Validating the Use of a Lab-Based Virtual Reality Setup for Evaluating Authentication Systems,Evaluation,Authentication,VW,CHI,"UE,UP",VR
+Influence of Interactivity and Social Environments on User Experience and Social Acceptability in Virtual Reality,Evaluation,Confidentiality,VW,VR,"UE,UWP",VR
+Immersive Virtual Reality Attacks and the Human Joystick,Evaluation,Integrity,VW,Other Venues,UP,VR
+Designing AR Visualizations to Facilitate Stair Navigation for People with Low Vision,Evaluation,Awareness,"AR,LL",UIST,UE,AR
+Collaborative Visual Analysis with Multi-level Information Sharing Using a Wall-Size Display and See-Through HMDs,Evaluation,Authorization,"AR,LL",Other Venues,UE,AR
+Behavioural Biometrics in VR: Identifying People from Body Motion and Relations in Virtual Reality,Evaluation,Identification,"VW,LL",CHI,UP,VR
+Towards Security and Privacy for Multi-user Augmented Reality: Foundations with End Users,Evaluation,Identification,AR,SP,UE,AR
+Efficient verification of holograms using mobile augmented reality,Evaluation,Confidentiality,AR,TVCG,AP,AR
+Candid Interaction: Revealing Hidden Mobile and Wearable Computing Activities,Evaluation,Awareness,"AR,LL",UIST,"UE,UWP",AR
+Design and Analysis of Shoulder Surfing Resistant PIN Based Authentication Mechanisms on Google Glass,Evaluation,Authentication,AR,Other Venues,"UE,UWP",AR
+Ethics emerging: The story of privacy and security perceptions in virtual reality,Evaluation,Authorization,VW,Other Venues,UE,VR
+Evaluating and redefining smartphone permissions with contextualized justifications for mobile augmented reality apps,Evaluation,Policy,AR,Other Venues,UE,AR
+In situ with bystanders of augmented reality glasses: perspectives on recording and privacy-mediating technologies,Evaluation,Confidentiality,"AR,LL",CHI,UE,AR
+Understanding Person Identification Through Gait,Model,Identification,"VW,MW,LL",Other Venues,AP,XR
+Rise of the Metaverse?s Immersive Virtual Reality Malware and the Man-in-the-Room Attack & Defenses,Model,Integrity,VW,Other Venues,AP,VR
+SoK: A Systematic Literature Review of Knowledge-Based Authentication on Augmented Reality Head-Mounted Displays,Model,Authentication,AR,Other Venues,UE,AR
+A First Look into Privacy Leakage in 3D Mixed Reality Data,Model,Unobservability,"MW,AR,LL",Other Venues,AP,"MR,AR"
+Eliciting Security \&amp; Privacy-Informed Sharing Techniques for Multi-User Augmented Reality,System,Authorization,AR,CHI,UWP,AR
+Securing Data Exchange in the Convergence of Metaverse and IoT Applications,System,Unlinkability,"VW,MW,LL",Other Venues,AP,XR
+Enabling Customizable Workflows for Industrial AR Applications,System,Authorization,"MW,AR",Other Venues,UWP,"MR,AR"
+World-Driven Access Control for Continuous Sensing,System,Confidentiality,"AR,LL",Other Venues,AP,AR
+Privacy Leakage via Unrestricted Motion-Position Sensors in the Age of Virtual Reality: A Study of Snooping Typed Input on Virtual Keyboards,Technique,Anonymity,VW,SP,AP,VR
+Low-effort VR Headset User Authentication Using Head-reverberated Sounds with Replay Resistance,Technique,Authentication,"VW,LL",SP,"AP,UP",VR
+SoundLock: A Novel User Authentication Scheme for VR Devices Using Auditory-Pupillary Response,Technique,Authentication,"VW,LL",Other Venues,"AP,UE",VR
+"Hidden Reality: Caution, Your Hand Gesture Inputs in the Immersive Virtual World are Visible to All!",Technique,Confidentiality,"AR,LL",USS,"AP,UWP",AR
+FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors,Technique,Authentication,"VW,MW,AR,LL",Other Venues,AP,"AR,VR"
+Going Incognito in the Metaverse: Achieving Theoretically Optimal Privacy-Usability Tradeoffs in VR,Technique,Integrity,VW,UIST,AP,VR
+SmartPoser: Arm Pose Estimation with a Smartphone and Smartwatch Using UWB and IMU Data,Technique,Confidentiality,"AR,LL",UIST,AP,AR
+A Secure Authentication Framework to Guarantee the Traceability of Avatars in Metaverse,Technique,Authentication,"VW,MW,LL",Other Venues,AP,XR
+MagLoc-AR: Magnetic-Based Localization for Visual-Free Augmented Reality in Large-Scale Indoor Environments,Technique,Anonymity,"AR,LL",TVCG,AP,AR
+SigA: RPPG-Based Authentication for Virtual Reality Head-Mounted Display,Technique,Authentication,"VW,LL",Other Venues,AP,VR
+Combining Real-World Constraints on User Behavior with Deep Neural Networks for Virtual Reality (VR) Biometrics,Technique,Unobservability,"VW,LL",VR,AP,VR
+HoloLogger: Keystroke Inference on Mixed Reality Head Mounted Displays,Technique,Unobservability,"MW,AR,LL",VR,"AP,UE","MR,AR"
+SPAA: Stealthy Projector-based Adversarial Attacks on Deep Image Classifiers,Technique,Deniability,"MW,AR",VR,AP,"MR,AR"
+Temporal Effects in Motion Behavior for Virtual Reality (VR) Biometrics,Technique,Identification,"VW,LL",VR,AP,VR
+A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments,Technique,Unlinkability,"VW,LL",VR,AP,VR
+Kal epsilon ido: Real-Time Privacy Control for Eye-Tracking Systems,Technique,Unobservability,"MW,LL",USS,AP,MR
+Using Siamese Neural Networks to Perform Cross-System Behavioral Authentication in Virtual Reality,Technique,Authentication,"VW,LL",VR,AP,VR
+VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets,Technique,Unobservability,"VW,LL",VR,AP,VR
+A privacy-preserving approach to streaming eye-tracking data,Technique,Anonymity,"VW,MW,LL",TVCG,AP,"MR,VR"
+Spectrum-flexible secure broadcast ranging,Technique,Availability,AR,Other Venues,AP,AR
+Designing Leakage-Resilient Password Entry on Head-Mounted Smart Wearable Glass Devices,Technique,Integrity,"VW,MW,AR,LL",Other Venues,"AP,UE","AR,VR"
+Global Feature Analysis and Comparative Evaluation of Freestyle In-Air-Handwriting Passcode for User Authentication,Technique,Authentication,"VW,MW,AR,LL",Other Venues,AP,"AR,VR"
+The Security-Utility Trade-off for Iris Authentication and Eye Animation for Social Virtual Avatars,Technique,Unobservability,"VW,LL",TVCG,"AP,UE",VR
+Mimicry Attacks on Smartphone Keystroke Authentication,Technique,Identification,"AR,LL",Other Venues,AP,AR
+GaitLock: Protect Virtual and Augmented Reality Headsets Using Gait,Technique,Anonymity,"VW,MW,AR,LL",Other Venues,AP,"AR,VR"
+Human Identification Using Neural Network-Based Classification of Periodic Behaviors in Virtual Reality,Technique,Anonymity,"VW,LL",VR,AP,VR
+Virtual U: Defeating Face Liveness Detection by Building Virtual Models From Your Public Photos,Technique,Unobservability,"VW,LL",USS,AP,VR
+Visual Cryptography and Obfuscation: A Use-Case for Decrypting and Deobfuscating Information Using Augmented Reality,Technique,Authorization,"AR,LL",Other Venues,AP,AR

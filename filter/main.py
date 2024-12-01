@@ -38,8 +38,8 @@ def search_csv(input_file, output_file, keywords):
             print("No rows matched the criteria.")
 
 if __name__ == '__main__':
-    input_file = 'Inputx.csv'  # Change this to your CSV file's name, change x with number e.g. 1,2,3 and so on
-    output_file = 'Outputx.csv'  # Name of the file to save results, change x with number e.g. 1,2,3 and so on
+    input_file = 'input6new.csv'  
+    output_file = 'output6new.csv' 
     #You may iterate the code
 
     keywords = input("Enter your keywords (you can use AND, OR, and parentheses): ") #Use "metaverse" OR "extended reality" OR "mixed reality" OR "augmented reality" OR "virtual reality"

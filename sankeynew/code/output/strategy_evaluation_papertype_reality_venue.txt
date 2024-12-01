@@ -1,0 +1,79 @@
+Benchmarking [50] Algorithm Performance
+Human Experimentation [13] Algorithm Performance
+Interview [3] Algorithm Performance
+Questionnaire [4] Algorithm Performance
+Data Science [18] Algorithm Performance
+Engineering Research [1] Algorithm Performance
+Meta Science [1] Algorithm Performance
+Benchmarking [7] Environment and Practices
+Human Experimentation [33] Environment and Practices
+Interview [23] Environment and Practices
+Questionnaire [21] Environment and Practices
+Engineering Research [1] Environment and Practices
+Meta Science [1] Environment and Practices
+Benchmarking [6] User Performance
+Human Experimentation [20] User Performance
+Interview [6] User Performance
+Questionnaire [14] User Performance
+Data Science [2] User Performance
+Benchmarking [5] User Experience
+Human Experimentation [22] User Experience
+Interview [9] User Experience
+Questionnaire [14] User Experience
+Data Science [2] User Experience
+Algorithm Performance [12] Application
+Environment and Practices [9] Application
+User Performance [6] Application
+User Experience [6] Application
+Algorithm Performance [5] Evaluation
+Environment and Practices [25] Evaluation
+User Performance [9] Evaluation
+User Experience [11] Evaluation
+Algorithm Performance [3] Model
+Environment and Practices [1] Model
+Algorithm Performance [2] System
+Environment and Practices [2] System
+Algorithm Performance [28] Technique
+Environment and Practices [4] Technique
+User Performance [5] Technique
+User Experience [5] Technique
+Application [9] Virtual Reality
+Evaluation [18] Virtual Reality
+Model [1] Virtual Reality
+Technique [18] Virtual Reality
+Application [13] Augmented Reality
+Evaluation [11] Augmented Reality
+Model [2] Augmented Reality
+System [3] Augmented Reality
+Technique [12] Augmented Reality
+Application [4] Mixed Reality
+Evaluation [1] Mixed Reality
+Model [1] Mixed Reality
+System [1] Mixed Reality
+Technique [4] Mixed Reality
+Application [1] Extended Reality
+Evaluation [2] Extended Reality
+Model [1] Extended Reality
+System [1] Extended Reality
+Technique [1] Extended Reality
+Virtual Reality [6] CHI
+Augmented Reality [3] CHI
+Extended Reality [1] CHI
+Virtual Reality [16] Other Venues
+Augmented Reality [20] Other Venues
+Mixed Reality [5] Other Venues
+Extended Reality [4] Other Venues
+Virtual Reality [3] SP
+Augmented Reality [5] SP
+Virtual Reality [3] TVCG
+Augmented Reality [2] TVCG
+Mixed Reality [1] TVCG
+Virtual Reality [1] UIST
+Augmented Reality [4] UIST
+Virtual Reality [6] USS
+Augmented Reality [5] USS
+Mixed Reality [3] USS
+Extended Reality [1] USS
+Virtual Reality [11] VR
+Augmented Reality [2] VR
+Mixed Reality [2] VR

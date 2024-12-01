@@ -1,0 +1,120 @@
+//Associations between Evaluation and Reality:
+AP [7] MR
+AP [24] AR
+AP [29] VR
+AP [5] XR
+UE [16] AR
+UE [16] VR
+UE [3] MR
+UE [1] XR
+UP [2] MR
+UP [1] AR
+UP [7] VR
+UWP [3] MR
+UWP [8] AR
+UWP [7] VR
+
+//Associations between Reality and Topic:
+MR [2] Authorization
+MR [2] Confidentiality
+MR [1] Availability
+MR [1] Policy
+MR [3] Unobservability
+MR [1] Deniability
+MR [1] Anonymity
+AR [8] Confidentiality
+AR [2] Non-repudiation
+AR [2] Unlinkability
+AR [2] Policy
+AR [5] Awareness
+AR [2] Availability
+AR [6] Authorization
+AR [3] Anonymity
+AR [5] Authentication
+AR [2] Identification
+AR [2] Unobservability
+AR [1] Deniability
+AR [1] Integrity
+VR [1] Non-repudiation
+VR [7] Integrity
+VR [1] Policy
+VR [1] Deniability
+VR [12] Authentication
+VR [3] Confidentiality
+VR [7] Unobservability
+VR [2] Unlinkability
+VR [4] Identification
+VR [3] Awareness
+VR [1] Authorization
+VR [4] Anonymity
+XR [1] Availability
+XR [1] Unobservability
+XR [1] Awareness
+XR [1] Identification
+XR [1] Unlinkability
+XR [1] Authentication
+
+//Associations between Topic and Paper Type:
+Authorization [3] Application
+Authorization [2] Evaluation
+Authorization [2] System
+Authorization [1] Technique
+Confidentiality [3] Application
+Confidentiality [4] Evaluation
+Confidentiality [1] System
+Confidentiality [2] Technique
+Non-repudiation [2] Application
+Unlinkability [1] Application
+Unlinkability [1] Evaluation
+Unlinkability [1] System
+Unlinkability [1] Technique
+Integrity [3] Application
+Integrity [1] Evaluation
+Integrity [1] Model
+Integrity [2] Technique
+Policy [2] Application
+Policy [2] Evaluation
+Deniability [1] Application
+Deniability [1] Technique
+Awareness [2] Application
+Awareness [7] Evaluation
+Availability [1] Application
+Availability [1] Technique
+Authentication [2] Application
+Authentication [5] Evaluation
+Authentication [1] Model
+Authentication [7] Technique
+Anonymity [1] Application
+Anonymity [5] Technique
+Unobservability [4] Evaluation
+Unobservability [1] Model
+Unobservability [6] Technique
+Identification [4] Evaluation
+Identification [1] Model
+Identification [2] Technique
+
+//Associations between Paper Type and Venue:
+Application [6] USS
+Application [1] UIST
+Application [1] TVCG
+Application [6] Other Venues
+Application [2] CHI
+Application [2] VR_Conf
+Application [3] SP
+Evaluation [4] USS
+Evaluation [11] Other Venues
+Evaluation [7] CHI
+Evaluation [2] SP
+Evaluation [3] VR_Conf
+Evaluation [2] UIST
+Evaluation [1] TVCG
+Model [4] Other Venues
+System [1] CHI
+System [3] Other Venues
+Technique [2] SP
+Technique [10] Other Venues
+Technique [3] USS
+Technique [2] UIST
+Technique [3] TVCG
+Technique [8] VR_Conf
+

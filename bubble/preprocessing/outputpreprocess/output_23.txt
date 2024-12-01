@@ -1,0 +1,56 @@
+VR,Algorithm Performance,Virtual Reality,7
+VR,Algorithm Performance,Augmented Reality,2
+VR,Algorithm Performance,Mixed Reality,2
+VR,Environment and Practices,Virtual Reality,4
+VR,Environment and Practices,Augmented Reality,1
+VR,Environment and Practices,Mixed Reality,1
+VR,User Performance,Virtual Reality,2
+VR,User Experience,Virtual Reality,3
+VR,User Experience,Augmented Reality,1
+VR,User Experience,Mixed Reality,1
+CHI,Algorithm Performance,Virtual Reality,1
+CHI,Environment and Practices,Virtual Reality,5
+CHI,Environment and Practices,Augmented Reality,3
+CHI,Environment and Practices,Extended Reality,1
+CHI,User Performance,Virtual Reality,3
+CHI,User Performance,Augmented Reality,1
+CHI,User Experience,Virtual Reality,2
+CHI,User Experience,Augmented Reality,1
+UIST,Algorithm Performance,Virtual Reality,1
+UIST,Algorithm Performance,Augmented Reality,1
+UIST,Environment and Practices,Augmented Reality,3
+UIST,User Experience,Augmented Reality,2
+TVCG,Algorithm Performance,Virtual Reality,2
+TVCG,Algorithm Performance,Augmented Reality,2
+TVCG,Algorithm Performance,Mixed Reality,1
+TVCG,Environment and Practices,Virtual Reality,1
+TVCG,User Performance,Virtual Reality,1
+TVCG,User Experience,Virtual Reality,2
+Other Venues,Algorithm Performance,Virtual Reality,8
+Other Venues,Algorithm Performance,Augmented Reality,11
+Other Venues,Algorithm Performance,Mixed Reality,2
+Other Venues,Algorithm Performance,Extended Reality,4
+Other Venues,Environment and Practices,Virtual Reality,9
+Other Venues,Environment and Practices,Augmented Reality,9
+Other Venues,Environment and Practices,Mixed Reality,3
+Other Venues,User Performance,Virtual Reality,5
+Other Venues,User Performance,Augmented Reality,5
+Other Venues,User Performance,Mixed Reality,1
+Other Venues,User Experience,Virtual Reality,5
+Other Venues,User Experience,Augmented Reality,7
+Other Venues,User Experience,Mixed Reality,2
+USS,Algorithm Performance,Virtual Reality,6
+USS,Algorithm Performance,Augmented Reality,5
+USS,Algorithm Performance,Mixed Reality,1
+USS,Algorithm Performance,Extended Reality,1
+USS,Environment and Practices,Virtual Reality,1
+USS,Environment and Practices,Augmented Reality,1
+USS,Environment and Practices,Mixed Reality,2
+USS,User Performance,Augmented Reality,1
+USS,User Performance,Mixed Reality,1
+USS,User Experience,Mixed Reality,1
+SP,Algorithm Performance,Virtual Reality,2
+SP,Algorithm Performance,Augmented Reality,2
+SP,Environment and Practices,Virtual Reality,1
+SP,Environment and Practices,Augmented Reality,3
+SP,User Performance,Virtual Reality,2

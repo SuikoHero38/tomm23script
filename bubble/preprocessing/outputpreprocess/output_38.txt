@@ -1,0 +1,68 @@
+Benchmarking,VR,Application,1
+Benchmarking,VR,Technique,8
+Benchmarking,CHI,Evaluation,1
+Benchmarking,UIST,Technique,2
+Benchmarking,TVCG,Evaluation,1
+Benchmarking,TVCG,Technique,3
+Benchmarking,Other Venues,Application,3
+Benchmarking,Other Venues,Model,3
+Benchmarking,Other Venues,System,3
+Benchmarking,Other Venues,Technique,10
+Benchmarking,USS,Application,5
+Benchmarking,USS,Evaluation,3
+Benchmarking,USS,Technique,3
+Benchmarking,SP,Application,2
+Benchmarking,SP,Technique,2
+Human Experimentation,VR,Application,2
+Human Experimentation,VR,Evaluation,3
+Human Experimentation,VR,Technique,1
+Human Experimentation,CHI,Application,2
+Human Experimentation,CHI,Evaluation,6
+Human Experimentation,UIST,Application,1
+Human Experimentation,UIST,Evaluation,2
+Human Experimentation,TVCG,Application,1
+Human Experimentation,TVCG,Technique,1
+Human Experimentation,Other Venues,Application,4
+Human Experimentation,Other Venues,Evaluation,9
+Human Experimentation,Other Venues,Technique,3
+Human Experimentation,USS,Application,1
+Human Experimentation,USS,Evaluation,1
+Human Experimentation,USS,Technique,2
+Human Experimentation,SP,Application,1
+Human Experimentation,SP,Technique,2
+Interview,VR,Evaluation,2
+Interview,CHI,Evaluation,5
+Interview,CHI,System,1
+Interview,UIST,Application,1
+Interview,UIST,Evaluation,2
+Interview,TVCG,Application,1
+Interview,TVCG,Technique,1
+Interview,Other Venues,Evaluation,7
+Interview,USS,Evaluation,1
+Interview,USS,Technique,1
+Interview,SP,Evaluation,2
+Questionnaire,VR,Application,1
+Questionnaire,VR,Evaluation,2
+Questionnaire,VR,Technique,1
+Questionnaire,CHI,Application,2
+Questionnaire,CHI,Evaluation,2
+Questionnaire,TVCG,Application,1
+Questionnaire,Other Venues,Application,2
+Questionnaire,Other Venues,Evaluation,5
+Questionnaire,Other Venues,Model,1
+Questionnaire,Other Venues,Technique,1
+Questionnaire,USS,Application,1
+Questionnaire,USS,Technique,1
+Questionnaire,SP,Application,1
+Data Science,VR,Application,1
+Data Science,VR,Technique,4
+Data Science,UIST,Technique,2
+Data Science,TVCG,Technique,1
+Data Science,Other Venues,Application,2
+Data Science,Other Venues,Model,2
+Data Science,Other Venues,Technique,4
+Data Science,USS,Evaluation,2
+Data Science,SP,Technique,1
+Engineering Research,Other Venues,System,1
+Engineering Research,USS,Evaluation,1
+Meta Science,Other Venues,Model,2

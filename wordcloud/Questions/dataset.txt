@@ -1,0 +1,635 @@
+Paper 97:
+Please rate the following statements from 1 (strongly disagree) to 7 (strongly agree) according to your intuition. 
+(1) I believe the appearance of the avatar matches the person controlling it. integrity 
+(2) I am willing to tell the avatar (the person controlling it) my real name. self-disclosure 
+(3) I am willing to tell the avatar (the person controlling it) what I have done today. self-disclosure 
+(4) I believe the avatar (the person controlling it) would keep a secret that is harmful to my reputation. integrity 
+(5) If I need some advice, I would feel comfortable asking the avatar (the person controlling it) for help. competence 
+(6) If we were performing a task together, I feel I could follow the guidance from the avatar (the person controlling it). competence 
+(7) I would feel comfortable being with the avatar (the person controlling it) in a room. intention 
+(8) In general, I think the avatar (the person controlling it) has good intentions. intention 
+(9) In general, I find this avatar trustworthy. explicit
+
+Paper 27:
+The System Usability Scale [5] is a widely used 10 statement questionnaire, with Likert-scale answers (0 - "Strongly disagree" to 4 "Strongly agree").
+The 10 SUS questions are: 
+(1) I think that I would like to use this system frequently. 
+(2) I found the system unnecessarily complex. 
+(3) I thought the system was easy to use. 
+(4) I think that I would need the support of a technical person to be able to use this system. 
+(5) I found the various functions in this system were well integrated. 
+(6) I thought there was too much inconsistency in this system. 
+(7) I would imagine that most people would learn to use this system very quickly. 
+(8) I found the system very cumbersome to use. 
+(9) I felt very confident using the system. 
+(10) I needed to learn a lot of things before I could get going with this system.
+
+Paper 42:
+Puzzle 1: The first room introduces the player to the dynamics of the game, containing only a door and a poster with the word “hello”, which is the password. Upon instinctively reading the word aloud, the player is teleported to the next room.
+Puzzle 2: The second room contains a poster with the password “face”. The player spawns facing the opposite wall of the poster; thus, we accustom the player to turn and explore the virtual environment to find the password and reinforce finding and speaking the password aloud.
+Puzzle 3: Similarly, a poster depicts a captcha with the word “velvet.”
+Puzzle 4: The room contains several tables with monitors, on whose screens are letters spelling “church” appropriately ordered from left to right.
+Puzzle 5: This room tests for color blindness. Similarly to puzzle 4, monitors display letters on Ishihara color test plates. Without colorblindness, the player would read “daisy”; with colorblindness, the player would read “as” instead. Each of these passwords unlocks the room.
+Puzzle 6: There is a button on a table; upon pressing it three times, the three balloons next to the opposite wall pop sequentially, revealing the password “red”.
+Puzzle 7: The puzzle tests the short-term memory of the participants (MoCA memory). A whiteboard displays seven rows arranged vertically, each with fill-in blanks. The first two rows contain the already filled-in words “VR” and “hello”, respectively. The last five rows correspond to the previous passwords from puzzles 2 to 6. Connecting the highlighted letters sequentially from up to bottom, the participant reveals the password “recluse”.
+Puzzle 8: To measure wingspan, we depict on a wall four human stick figures with different poses. The participant must mimic the poses on the wall to uncover the four letters of the password “cave”. One of the poses is a T-pose, which facilitates wingspan measurement.
+Puzzle 9: The participant must mimic the sequence of poses on the wall, a set of squats. For every squat, the participant uncovers two letters of the password “motivation”. We correlate the distance traveled during the squats to fitness.
+Puzzle 10: The (noisy) room depicts on a wall a pigpen cipher hiding the password “deafening”.
+Puzzle 11: The player presses a button on a table in time with a visual input, thereby revealing their reaction time.
+Puzzle 12: The (noisy) room presents the password “finally” on the ceiling, habituating the user to look also upwards.
+Puzzle 13: The room depicts the word “apple” in Hindi, Mandarin, French, Japanese, Russian, Spanish, Portuguese, and Arabic. The direction of gaze of the player when speaking the password reveals which language the participant recognizes.
+Puzzle 14: This (noisy) room presents the sentence “Everything you can do, I can do meta” broken down vertically into five rows. To the left of each row, there is a shape. The last three shapes are the same (circles). To solve the puzzle, the participant must read aloud the words next to the first instance of the repeated shape “I can.”
+Puzzle 15: Similarly to puzzle 14 and inspired by screen refresh rate tests [9], we present a number of balloons moving at different refresh rates. Depending on the refresh rate of the VR device, users cannot distinguish between some balloons.
+Puzzle 16: To deploy the “naming” MoCA task, the room presents three whiteboards depicting three animals.
+Puzzle 17: To measure an “attention” task from MoCA, we present a serial seven subtraction starting at 100, the password is the sequence of numbers that lead to the final answer: “65.”
+Puzzle 18: This room contains puzzle 7, thereby measuring delayed recall from the MoCA test
+Puzzle 19: This room pictographically recreates the MoCA abstraction test.
+Puzzle 20 (no image): To complete this audio-only room, the participant must repeat aloud two recorded sentences after listening to them once, thereby measuring one of the language tests of the MoCA.
+Puzzle 21: The (noisy) room depicts three pictures of a famous physicist—“Albert Einstein” is the password.
+Puzzle 22: The room presents calendar days on a whiteboard with “Today?” as the header and without disclosing the year, month, weekday, or date, which prompts the participant to identify the date of the experiment, thereby measuring one variable of the orientation task in MoCA.
+Puzzle 23: We measure whether a participant can read the text at a close distance. We write the sentence “The code is equal to three times four” in four lines on the screen of a monitor, each line becoming more diminutive than the above line.
+Puzzle 24: Similarly, we measure whether a participant can read the sentence “Life is better within the digital playground” at a long distance.
+
+Paper 43:
+B.1 Questions about current AR use 
+B.1.1 Recent interaction details. 
+• Have you ever worked in a job that required you to use AR? 
+• Have you taken a course that focused significantly on AR? 
+• In the last year, have you worked on any AR projects, for example for work, school, or as a hobby? 
+• What AR technologies have you used within the past year? 
+• Do you use an AR headset? Regularly? 
+– What do you use your device for? 
+– Where do you use it? 
+• Which AR app or device of those do you use most frequently?
+
+B.1.2 Current App/Device - Data Collection. 
+• What data do you think [app/device] is collecting about you? 
+– What do you think this data is being used for? 
+– How do you feel about this data collection? 
+
+B.2 General Attitudes and Expectations 
+• What would you like to do with AR glasses? 
+• What do you not want these AR glasses to be able to do? 
+• What things/data would you want AR glasses to collect/track? 
+• Is there any specific type of data you would not want AR glasses to collect or track?
+
+For the following questions, provide a counterexample if their reaction is positive or negative and see how they respond. 
+Now we will talk about a few use cases that we came up with and ask for your opinion. 
+There may be some overlap with what we just talked about, so please bear with us if there is some repetition. 
+(1) How would you feel about notifications or reminders triggered by data being collected by the AR glasses, such as something you’re looking at? 
+Benefit example: a reminder that your pick-up order is ready as you walk by a store. 
+Harm example: reminders could distract you when you are trying to focus or relax. 
+(a) Do you feel this way about other reminders or notifications, like the ones on your phone or computer? 
+(b) Would you like for your AR glasses to be able to predict what types of reminders would be helpful for you? 
+(2) How would you feel about using AR glasses to monitor health, based on sensor data, like body and movement data? 
+(Benefit example: Track vitals and detect dangerous irregularities before a potentially dangerous condition develops. 
+Could get discounts based on positive data. 
+Harm example: An app may share health information with insurance companies or the government, which may change rates or services based on data.) 
+(a) Would you be willing to share AR glasses data about your health with doctors or other healthcare providers? 
+(b) With researchers? (c) With a fitness tracker app? 
+(3) How would you feel about using AR glasses for social or conversation feedback, such as how you speak, who you lean towards, or whether you interrupted someone? 
+(Benefit example: Someone gets useful feedback on the tone of their voice as they practice a speech. 
+Harm example: An employee gets negative evaluation from an AI tool that rates their conversation skills.) 
+(4) How would you feel about setting a face filter in AR so that other glasses users could only see you with the face filter? 
+(Benefit example: Make friends laugh with amusing filters. 
+Harm example: Some people may get body dysmorphia and stop presenting their real faces, wishing to look like filters or avatars) 
+(5) What do you think about AR glasses data being used to inform you about your mood or emotions? 
+(Benefit example: During a conversation, someone gets feedback on their screen that they sound irritated, so they change their tone to sound calm, 
+which leads to a more pleasant conversation. 
+Harm example: Someone struggling to express themselves clearly becomes dependent on apps that inform them of their tone while they speak.) 
+(6) Would you use the facial recognition feature? 
+• Would you allow other people with AR glasses to use facial recognition on you? 
+(7) Based on the types of data we talked about, can you think of any other features you might expect AR glasses to have? 
+• Would you want this/these?
+
+B.5 General Questions - Data Collection 
+(1) Does the location or where AR glasses collect data make a difference to you, e.g., whether you’re out in public or at home? 
+(2) Does the time of day, or when they could collect data make a difference to you? 
+(3) Would data collection in certain social contexts make a difference to you, e.g. weddings, medical offices or places of worship? 
+(4) Would you like to have control over who else the glasses could collect data about? 
+(5) Would you like to know who or what companies would have access to data about you? 
+• How would you like to be informed about that? 
+(6) Would it make a difference to you if the data was stored locally, only on the device, on your personal cloud, on the company cloud, or somewhere else? 
+(7) Does the length of time it is being stored make a difference to you? • [If yes] What length of time would make you uncomfortable for it to be stored? 
+(8) Would you like to be able to delete your AR glasses data? • How important is this to you? 
+(9) Would you like to be able to transfer your AR glasses data, e.g., from one brand of device to a different brand of device? 
+• How do you imagine using this ability to transfer data? 
+(10) When would you like to be informed about data collection? Before? While using? After? Some mix? (11) What would you like to know when you’re being informed about data collection?
+
+Paper 50:
+8.1 Interview Protocol (Parent and Bystander) 
+8.1.1 Demographics 
+1. What gender do you identify yourself as? 
+2. How old are you? 
+3. What do you do for a living? 
+4. How many children do you have? 
+5. How old are they? 
+6. What types of devices do they have? 
+7. Which child(ren) uses VR? 
+8.1.2 Background 
+8. When did you buy your VR headset? Why? 
+(a) What are the things you consider when buying a headset? 
+(b) Have you ever tried it yourself? 
+(c) Can you describe your experience? 
+9. Do your kids use VR? What do you think your child generally uses VR for? 
+(a) How often do they use VR? 
+(b) When was the last time your child used VR? 
+(c) Do you know what they did? 
+10. In general, what do you think of VR? 
+(a) Do you see any benefits of VR? 
+(b) Do you have concerns about VR? 
+(c) Have you ever heard of or experienced anything in VR that makes you frustrated?
+
+8.1.3 Behaviors in VR 
+11. Have you ever heard of/used any social VR applications? 
+(a) Can you provide some examples? 
+(b) When was the last time you used *** (social VR apps)? 
+(c) Can you walk us through what you did? 
+(d) (Specifically, we want to follow up to see if they have ever interacted with anyone, like chat, talk, or other types of interaction) Did you interact with anyone? 
+(e) If so, how? Did you approach them or the other way around? 
+(f) What did you do? Why? 
+(g) In this case, do you think the person you talked to is someone that can be trusted? Why? 
+12. (For parents) Do you know whether your child uses social VR or not? 
+13. What do you think about the idea of having your child (or teenagers) interact with other people in a virtual space? Would you support that? 
+14. From your perspective, what would be the reason why your child (teenagers) would like to interact with others in social VR? 
+15. In general, do you feel social VR is a safe place for your child? Why or why not? 8.1.4 Risks and Harms 
+16. (For parents) Do you know whether your child has any friends in social VR? 
+(a) How did that start? 
+(b) Are you supportive of these? 
+(c) In fact, related to the last question, have you ever talked to your child regarding how to decide whether to interact with someone in social VR or not? (d) Do you have any rules or guidelines you follow? 
+17. (For parents) Has your child ever encountered any risks or harms when they use social VR? 
+(a) How did you find out about it? 
+(b) (If yes) Can you tell us a little bit about what happened? What did you do? 
+(c) (If no) Have you ever seen any negative experiences happen to other people, like other kids or from other parents, or from the news?
+(d) Are there any signals you are looking for? 
+18. Have you ever encountered any negative experiences yourself or have you ever seen anything when you use it? 
+
+8.1.5 Safety by Design 
+19. Are you aware of any features or functions in social VR apps that can help ensure your safety when you are playing? 
+20. From your perspective, is there anything to be done to ensure the safety of the social VR space? 
+21. Now, imagine that you have a superpower that can be used to do anything. What changes would you make to the social VR apps you have used? (prompt: think from policy, technology, feature, design, etc.) 
+8.1.6 Wrap Up 
+22. Is there anything else you’d like to share? 
+8.2 Interview Protocol (Teenager) 
+8.2.1 Demographics 
+1. What gender do you identify yourself as? 
+2. How old are you? 3. What grade are you? Out of school? Working/college? (Depending on the age of the participant) 
+8.2.2 Background 4. Do you own any VR headsets? 
+5. What do you generally use VR for? 
+6. How often do you use VR? 
+(a) When was the last time you used VR? 
+(b) Can you tell us what you do? 7. In general, what do you think of VR? (a) Are there any cool factors? (b) Do you have any concerns? 
+8. Have you ever gone through anything in VR that makes you frustrated?
+
+8.2.3 Behaviors in VR 
+9. Have you ever used any social VR applications? 
+(a) Can you provide some examples? 
+(b) When was the last time you used *** (social VR apps)? 
+(c) Can you walk us through what you do? 
+(d) (Specifically, we want to follow up to see if they have ever interacted with anyone, like chat, talk, or other types of interaction) Did you interact with anyone? 
+(e) If so, how? Did you approach them or the other way around? 
+(f) What did you do? 
+10. In general, why do you talk to other people in Social VR? 
+(a) (If they have done that before in the prior case) So you mentioned that last time you talked to someone, is that for the same reason? 
+11. How did you decide who you can talk to and who you don’t want to talk to? (a) (If they have done that before in the prior case) In that case, do you think the person you talked to is someone that can be trusted? Why? 
+12. In general, do you feel safe in social VR? Why or why not? 
+8.2.4 Risks and Harms 
+13. Have you ever encountered any negative experiences when you use social VR? 
+(a) (If yes) Can you tell us a little bit about your experience, if you are comfortable? Please be assured that no one beyond our research team can hear what you said.
+(b) What did you do? 
+(c) (If no) Have you ever seen any negative experiences happen to other people, like your friend or someone else in the social VR apps? 
+(d) (If yes) Can you tell us a little bit about what happened? 
+14. Have you ever been approached by some other people in social VR apps, especially those you don’t know? 
+(a) (If yes) What did you approach you for? Can you talk a little bit about the scenario? 
+(b) What did you do? Why did you do that? (c) How do you decide whether to respond to this person or not? 
+15. In fact, related to the last question, how do you decide whether to interact with someone in social VR or not? 
+(a) Do you have any rules or guidelines you follow? (b) Are there any signals you are looking for? 
+8.2.5 Safety by Design 16. Are you aware of any features or functions in social VR apps that can help ensure your safety when you are playing? 
+17. From your perspective, is there anything to be done to ensure the safety of the social VR space? 
+18. Now, imagine that you have a superpower that can be used to do anything. What changes would you make to the social VR apps you have used? (Think from policy, technology, feature, design, etc.) 
+8.2.6 Wrap Up 
+19. Is there anything else you’d like to share with us?
+
+Paper 56:
+Please indicate your level of agreement with each statement below. (5-point Likert scale) 
+1 I think that I would like to use this system frequently. 
+2 I found the system unnecessarily complex. 
+3 I thought the system was easy to use. 
+4 I think that I would need the support of a technical person to be able to use this system. 
+5 I found the various functions in this system were well integrated. 
+6 I thought there was too much inconsistency in this system. 
+7 I would imagine that most people would learn to use this system very quickly. 
+8 I found the system very cumbersome to use. 
+9 I felt very confident using the system. 
+10 I needed to learn a lot of things before I could get going with this system. 
+
+NASA Task Load Index (Hart and Staveland, 1988) (21-point slider scale with high-low anchor text customized to the item) 
+• How mentally demanding was the task? 
+• How physically demanding was the task? 
+• How hurried or rushed was the pace of the task? 
+• How successful were you in accomplishing what you were asked to do? 
+• How hard did you have to work to accomplish your level of performance? 
+• How insecure, discouraged, irritated, stressed, and annoyed were you? 
+
+Subset of Relevant Task-Technology-Fit Items (Goodhue and Thompson, 1995) 
+Please indicate your level of agreement with each statement below. (5-point Likert scale) 
+1 The data provided in the system was pretty much what I needed to carry out my task. 
+2 The system made available to me was missing critical data that would have been very useful to me in my task. 
+3 The system provided data at an appropriate level of detail for my task. 
+4 Sufficiently detailed data was provided by the system. 
+5 It was easy to find out what data the system maintained on a given computer in the network. 
+6 It was easy to locate data about a particular issue, even if I hadn’t used that data before. 
+7 The exact definition of data fields relating to my task was easy to find out. 
+8 On the system I dealt with, the exact meaning of the data elements was either obvious, or easy to find out. 
+9 It was easy to learn how to use the system. 
+10 The system I used was convenient and easy to use. 
+11 The system had a large, positive impact on my effectiveness and productivity in my task. 
+12 The system was an important and valuable aid to me in the performance of my task. 
+13 There were times when I found that supposedly equivalent data from two different sources were inconsistent. 
+14 Sometimes it was difficult for me to compare or consolidate data from two different sources because the data was defined differently. 
+15 When it was necessary to compare or consolidate data from different sources, I found that there may be unexpected or difficult inconsistencies. 
+∗Questions 13–15 were only asked to subjects that were assigned to the ‘Both’ VR headset + Wireshark condition.
+
+
+Paper 66:
+A APPENDIX 
+A.1 Semi-structured Interview Questions 
+Our semi-structured interviews in the usability study were loosely guided by the following questions that were asked for all three input methods: touch, mid-air, and eye gaze. 
+(1) General Questions Mathis et al. 
+• Please tell us how you would feel using this method in public. 
+• Please tell us (a) what you liked; and (b) what you did not like when using this method. 
+• Is there anything in particular that you would like to improve in this method? 
+• Have you used this method previously? If yes, where? 
+• How did you feel when interacting with the input method? Would you defne it as a positive or negative experience? 
+(2) VR-specifc Questions [Please consider the situation where you interact with the authentication scheme you have just experienced in the real world.] 
+• Can you please walk us through the input method and tell us what diferences may appear when using this method in the real world rather than in VR as just experienced? 
+• Do you think the virtual environment afected you in the way you provided input with the method? 
+At the end, we asked participants if they have any additional comments, questions, or suggestions.
+
+Paper 77:
+This aims at making the user feel that he is still acting in the Social Environment even when he does not see it anymore. 
+Category: Public VR
+1. It felt appropriate to use the VR headset in a public place.
+2. It felt rude to use the VR headset in a public place.
+3. I felt uncomfortable being watched by others while using the VR headset a public place.
+
+Category: User
+4. The VR device in public space made me look cool.
+
+Public Communication	5. It would be useful for me if the people around me could communicate with me.
+VR Interaction	6. It felt awkward doing head movements while using VR in public.
+7. It felt awkward performing body movements and hand gestures while using VR in public.	
+Isolation	8. I did not like the fact that I was isolated from the rest of the people in a public space.
+9. It would be interesting if the other people could see what I was doing and seeing in the VR.	
+Privacy	10. I was concerned that people would record me while using the VR in public.
+Safety	11. I was concerned about bumping to objects and people while using the VR in public.
+
+Paper 5:
+ 2. Interview: Initial Questions. We asked participants the
+ following questions:
+ • What drew you to sign up for this study?
+ • Have you heard of AR before? If yes, what have you
+ heard?
+ • Have you used any AR applications before?
+ ◦ Which ones?
+ ◦ On what devices?
+ • Have you seen other people using AR before? If so,
+ where/when?
+ ◦ What about in fiction books, or in film?
+ 3. Activity: HoloLens Tutorial + Shell. We next asked
+ participants to go through the HoloLens tutorial, followed by
+ using the HoloLens shell, as described in Section III-D.
+ 4. Interview: Initial Experience + Brainstorming. We asked
+ the following questions, providing participants with a short
+ period of time to gather their thoughts and take notes on paper
+ after we asked each question, before verbally answering. For
+ each interview phase, we ensured that both participants had an
+ opportunity to speak.
+ • What do you generally think so far?
+ • What stood out to you the most?
+ • What did you like the most about what you’ve seen so
+ far, or what seemed the “coolest”?
+ • What bothered you about your experience so far, or what
+ did you find the most frustrating?
+ • Have you found anything particularly confusing or sur
+prising so far?
+ • Did you expect that you were both seeing the same
+ holograms?
+ ◦ Why or why not?
+ ◦ Would you have preferred one way or the other?
+ • Is there anything else you thought of that we didn’t cover?
+ We then asked participants to think about what kinds of
+ things augmented reality might be useful for, either now or in
+ the future. We asked participants:
+ • What kinds of situations might you want to use AR in?
+ • What kinds of things would you want to be able to do
+ with AR applications?
+ For the above 2 brainstorming questions, we had participants
+ silently think and write down their individual thoughts for
+ approximately a minute or two, after which we asked them
+ to discuss their thoughts with us and with each other.
+ 5. Activity: HoloLens Applications. As described in Sec
+tion III-D, we uniformly randomized the order in which each
+ pair of participants used three HoloLens applications. Within
+ a given pair, both participants used the same apps at the same
+ times. In Section III-D, we discuss our rationale for uniformly
+ randomizing application order. For each app, we provided
+ participants with basic initial instructions on how to use the
+ app, after which we remained passive observers, only speaking
+ in response to explicit questions from participants directed at
+ us.
+ 6. Interview: General Experience. We asked a similar set
+ of questions as those immediately following the tutorial+shell
+ phase, regarding participants’ general experiences, now that
+ they had experienced more HoloLens applications. For these
+ and the below questions, as above, we gave participants a brief
+ period of time to write down notes before verbally answering
+ each question:
+ • What did you think of your experience overall?
+ • What stood out to you the most?
+ • What did you generally like, or what about your experience was the “coolest”?
+ 
+ • What generally bothered you about your experience, or
+ what did you find the most frustrating?
+ • Did you find anything particularly confusing or surpris
+ing?
+ 7. Interview: Security, Privacy, and Other Concerns. For
+ the below topics (as discussed in Sections III and IV of the
+ paper), we emphasize that while we prompted participants to
+ consider a set of possible adversaries and scenarios, we did
+ not mention any specific threats or concerns that might arise
+ from these adversaries or within these scenarios.
+ Interview: Abuse of AR Technology. We asked participants the
+ following questions:
+ • NowIwantyou to imagine you are someone that is trying
+ to prank or troll someone else, like a sibling or friend, or
+ maybe someone you really dislike. Let’s say you’re both
+ using AR glasses like HoloLens, in a multi-user scenario
+ like we talked about before. What kinds of things might
+ you try to do to mess with the other person?
+ • Now imagine someone was trying to troll you, or make
+ you have a really bad experience. What kinds of things
+ would you be worried about them doing?
+ Interview: Untrusted Applications. We asked participants one
+ question regarding applications downloaded from the Internet:
+ • Imagine you had downloaded some applications from the
+ Internet for an AR headset. Is there anything that you
+ might worry about those apps doing?
+ Interview: Bystanders. We asked participants a few questions
+ about bystanders to AR technology:
+ • Imagine you are in public somewhere, like on the bus,
+ on campus, or in a grocery store- think of places you
+ typically go. If you saw someone wearing an AR headset
+ in these types of situations, how would you feel? And
+ what kinds of things would you think the person is doing?
+ • Would your opinions change if the person is someone you
+ know vs. a stranger?
+ • Would your opinions change if the person was in a more
+ personal space, like your home, rather than in public?
+ • How would you feel if you weren’t wearing an AR
+ headset, but you were trying to talk or interact with
+ someone who was wearing one?
+ 8. Interview: Multi-User Experiences. Finally, we asked
+ participants to consider multi-user AR experiences:
+ • You’ve seen different scenarios now; sometimes you
+ could see the same holograms (like the multiplayer game)
+ and sometimes you couldn’t (like the robot shooting
+ game). Did you prefer one over the other?
+ • Can you think of some scenarios where shared views might be more useful, or scenarios where private views might be more useful?
+
+ 
+
+Paper 47:
+Motivations
+ Id like to start our conversation with a discussion of what
+ made you want to develop applications or systems for virtual
+ reality.
+ 1. How did you get into developing for VR?
+ 2. Why did you choose VR?
+ Skill Acquisition
+ Next I would like to talk about how you learned the skills
+ for your VR development.
+ 1. How did you learn to develop on VR?
+ 2. What resources or tools did you use to learn VR devel
+opment?
+ 3. Which ones?
+ 4. Did you talk to anyone to learn to work with VR?
+ 5. What do you feel is di erent about developing for VR?
+ 6. Do you have any di erent concerns when you are de
+veloping?
+ Concerns
+ 1. What are you currently developing or what have you
+ developed for VR?
+ 2. Why did you decide to develop this product?
+ 3. What does your product do?
+ 4. Doyouforesee any barriers [if product already released:
+ are there any barriers you feel are currently] preventing
+ your product from reaching the market saturation you
+ want to achieve?
+ 5. How do you plan to address these barriers?
+ 6. Do you forsee any privacy and security concerns with
+ your product or VR in general?
+ 7. For each concern: why?
+ Data Collection
+ 1. What user data does your product collect?
+ 2. For each data type: What are you planning to do with
+ this data?
+ 3. If no collection reported: What type of data could you
+ collect? What might it be used for?
+ 4. Do you think that users will be [/would be] concerned
+ about this data being collected?
+ 5. Why/why not?
+ Recommendations
+ 1. (if sensible based on prior answers) How would you ed
+ucate other developers on privacy and security risks for
+ VR?
+ 2. What do you wish you had known?
+ 3. What materials would you like to have had access to?
+ 4. In general, what advice would you give to someone
+ wanting to develop with VR?
+ 5. What information or resources would you point to for
+ someone wanting to learn about developing VR?
+ B.2 Users
+ Introduction
+ Hello. My name is [INSERT NAME] and this is [INTRO
+DUCE OTHER PERSON]. Today we will be conducting a
+ study on virtual reality.
+ Today we are going to chat about your experiences with
+ virtual reality. I expect that our conversation will take ap
+proximately 20 minutes.
+ Motivations
+ I would like to begin with a few questions about your current
+ use of VR.
+ 1. How long have you been using VR?
+ 2. How did you learn about VR?
+ 3. What made you decide to buy/use a VR headset?
+ 4. Ask why for each thing they mention?
+ 5. Why did you choose your particular VR software over
+ others?
+ 6. Where did you go to nd out information about the
+ systems?
+ 7. What do you usually do with VR?
+ 8. What do you see as the bene ts of virtual reality?
+ 9. What were your goals when you started using these
+ systems?
+ 
+ Concerns
+  When you were making your purchase, did you have
+ any concerns?
+ 2. Why/why not?
+ 3. What about with your speci c headset?
+ 4. Did you worry about privacy at all when you were de
+ciding whether to purchase the system?
+ 5. Could you tell me a bit more about your concerns with
+ <each item>
+ 6. Do you still have these concerns?
+ 7. Do you do anything to try to prevent this?
+ 8. How about security, any concerns there?
+ 9. Could you tell me a bit more about your concerns with
+ <each item>
+ 10. Do you still have these concerns?
+ 11. Do you do anything to try to prevent this?
+ Data Collection
+ 1. Do you think your virtual reality system collect infor
+mation about you?
+ 2. What do you think it collects?
+ 3. How do you think this information is used?
+ 4. Are you concerned by this?
+ 5. Wouldyousayyoufeel di erently about this than about
+ data that gets collected by your other devices? Why?
+ Recommendations
+ 1. How likely is it that you could recommend VR to a
+ friend or colleague?
+ 2. What concerns would you share or discuss?
+ 
+Paper 48:
+ Q1. What is the definition of Augmented Reality? [if an
+swered incorrectly, participants get the correct definition of
+ AR] 1. Augmented Reality is the perception of a completely
+ virtual environment in which the user is fully immersed. 2.
+ Augmented Reality is the real environment enhanced by vir
+tual information and objects in which the user is able to per
+ceive the real environment. 3. Augmented Reality combines
+ controlled steering of laser beams with a laser rangefinder in
+ order to measure surfaces or bodies to generate a picture.
+ Q2. Some mobile applications (apps) have Augmented Real
+Imagine that you received the following notification on your
+ ity features, which augment the real environment by virtual
+ information and objects, like photo masks. These features
+ may be required for the app to function (e.g. an AR game
+ which is impossible to play without using AR features), or
+ may be optional (e.g. a photo filter in a messaging app). What
+ Augmented Reality features do you use in the apps installed
+ on your phone? Choose all that apply: 1. Photo masks which
+ add digital objects to the photo (e.g. bunny ears to your face,
+ stars, special effects). 2. Digital representations of objects
+ in real environments (e.g. furniture added into existing view
+ of a room). 3. Displaying digital game characters and game
+ worlds’ objects in the real environments (e.g. Pokémon Go’s).
+ 4. Other (please specify).
+ AC1. Please choose the answer option ‘always’ here. (1.
+ Never. 2. Sometimes. 3. About half of the time. 4. Most of
+ the time. 5. Always.)
+ Q3. Based on the list of permissions above, to what extent do
+ you understand what functionalities and data on your device
+ the app will be able to use? (7pt Likert scale from “I don’t
+ understand at all” to “I fully understand”)
+ Q4.* What additional information would help you to under
+stand what functionalities and data on your device the app
+ will be able to use? (open text)
+ Q5.* What other functionalities of your device do you think
+ the app may be using that are not included in the listed per
+missions? (open text)
+ Q6.* What other data do you think the app may be using that
+ are not included in the listed permissions? (open text)
+ Q7. Would you allow or deny the app to access your device’s
+ [permission]? 1. Deny. 2. Allow while app is in foreground.
+ 3. Allow. 4. I’m not sure (if this is selected: “Under what
+ circumstances would you allow or deny this permission?”).
+ Q8. How well do you think the app can function without
+ accessing [permission] on your device? (Consider that 1 star
+ is when the app cannot function without it at all, and 7 starts
+ is when the app can function perfectly without it.)
+ Q9. To what extent do you think that granting permission
+ to access [permission] on your device can potentially affect
+ your privacy? (7pt Likert scale from “No effect” to “Very big
+ effect”)
+ Q10. To what extent do you think that granting permission to
+ access [permission] on your device can potentially affect your
+ device’s normal operations (i.e. performance)? (7pt Likert
+ scale from “No effect” to “Very big effect”)
+ Q11. To what extent do you understand what functionalities
+ and data the app will be able to use, if you allow it to access
+ [permission] on your device? (7pt Likert scale from “I don’t
+ understand at all” to “I fully understand”)
+ Q20.* How likely are you to download this app? (7pt Likert
+ scale from “Extremely unlikely” to “Extremely likely”).
+  Q12. What is your gender? 1. Male. 2. Female. 3. Prefer to
+ self-identify. 4. Prefer not to say.
+ Q13. What is your age? (numeric entry field)
+ Q14. What is your country of residence (US or other)
+ Q15. What is the highest level of school you have completed
+ or the highest degree you have received? 1. Less than high
+ school degree. 2. High school graduate (high school diploma
+ or equivalent including GED). 3. Some college but no degree.
+ 4. Associate degree in college (2-year). 5. Bachelor’s degree
+ in college (4-year). 6. Master’s degree. 7. Doctoral degree. 8.
+ Professional degree (JD, MD).
+ Q16. Do you have experience in any of the following (choose
+ all that apply)? 1. Computer science education / work experi
+ence2. 2. Software engineering education / work experience.
+ 3. App development education / work experience. 4. Other
+ technical education / work experience (please specify). 5.
+ None of the above.
+ Q17. How often do you use a smartphone? (from “Never” to
+ “Once or several times a day”)
+ Q18. Which operating system do you use on your smart
+phone? (Android, iOS, other)
+ Q19. Do you have any feedback regarding the questionnaire
+ or the study? (open text)
+ 
+Paper 69:
+The interviews were semi-structured and based 
+around the following questions: 
+1. Did you notice the glasses that (s)he’s wearing? What 
+about them did you notice? 
+2. Have you heard about those kinds of glasses? What have 
+you heard? 
+3. Did you know that those kinds of glasses have electronics 
+and a display attached? 
+4. Did you know that you can record video with those kinds 
+of glasses? 
+ 5. Why do you think someone would want to wear those 
+kinds of glasses? 
+6. Do you think recording with those glasses is similar or 
+different to recording with a cell phone? Why? 
+7. How do you feel about being around someone who is 
+wearing those kinds of glasses? Why? 
+8. Would you want someone with those kinds of glasses to 
+ask your permission before recording a video? 
+9. Would you be willing to wear something that would block 
+someone from being able to record you? 
+
+Paper 62:
+Task 1 Elicitation prompts 
+1. What are possible interactions for Russell and Violet to create a shared view on the AR experiment? 
+2. What are possible interactions for Russell and Violet to create a shared view with Doug? 
+3. Would you change anything about these interactions when considering Jack, Ellie and Carly and if so, how? 
+4. What are possible interactions for Russell, Violet, and Doug to end the shared session?
+
+Paper 20:
+1. How often do you use a VR device?
+2. Which input method do you prefer to use when typing on a VR device? Controller (using hand controller to click and type) (or) Hand tracking (locating the characters using fingertips and pinching to type). This was the method used in our experiments.
+3. In your opinion, what type of authentication system is most secure for a VR device?
+4. Are you comfortable using a shared VR device or sharing your own VR device with friends and family?
+5. Would you be comfortable making financial transactions using a VR device, such as ordering food, buying products on Amazon, sending money through google pay, facebook pay, etc.?
+6. I am aware of what is happening around me in the real world when I wear a VR headset
+7. Are you aware that a VR device can be subjected to a digital attack known as data theft? Data theft is an act of adversaries to gain access to the users’ private and sensitive information.
+8. Rate your overall experience with our data collection experiments.
+
+Paper 71:
+Q1. Have you used an AR device before? 
+Q2. Is there noticeable lagging when typing?
+Q3. HGC input is more secure than voice input
+Q4. HGC input shows more social comfort than voice input
+Q5. HGC input is more convenient than voice input

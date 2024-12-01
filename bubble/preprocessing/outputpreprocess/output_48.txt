@@ -1,0 +1,87 @@
+Virtual World,VR,Virtual World,11
+Virtual World,VR,Lifelogging,8
+Virtual World,CHI,Virtual World,7
+Virtual World,CHI,Lifelogging,4
+Virtual World,CHI,Mirror World,1
+Virtual World,UIST,Virtual World,1
+Virtual World,TVCG,Virtual World,3
+Virtual World,TVCG,Lifelogging,2
+Virtual World,TVCG,Mirror World,1
+Virtual World,Other Venues,Virtual World,20
+Virtual World,Other Venues,Lifelogging,12
+Virtual World,Other Venues,Augmented Reality,6
+Virtual World,Other Venues,Mirror World,9
+Virtual World,USS,Virtual World,7
+Virtual World,USS,Lifelogging,5
+Virtual World,USS,Augmented Reality,2
+Virtual World,USS,Mirror World,3
+Virtual World,SP,Virtual World,3
+Virtual World,SP,Lifelogging,1
+Virtual World,SP,Augmented Reality,1
+Virtual World,SP,Mirror World,1
+Lifelogging,VR,Virtual World,8
+Lifelogging,VR,Lifelogging,9
+Lifelogging,VR,Augmented Reality,1
+Lifelogging,VR,Mirror World,1
+Lifelogging,CHI,Virtual World,4
+Lifelogging,CHI,Lifelogging,5
+Lifelogging,CHI,Augmented Reality,1
+Lifelogging,CHI,Mirror World,1
+Lifelogging,UIST,Lifelogging,3
+Lifelogging,UIST,Augmented Reality,3
+Lifelogging,TVCG,Virtual World,2
+Lifelogging,TVCG,Lifelogging,3
+Lifelogging,TVCG,Augmented Reality,1
+Lifelogging,TVCG,Mirror World,1
+Lifelogging,Other Venues,Virtual World,12
+Lifelogging,Other Venues,Lifelogging,18
+Lifelogging,Other Venues,Augmented Reality,12
+Lifelogging,Other Venues,Mirror World,11
+Lifelogging,USS,Virtual World,5
+Lifelogging,USS,Lifelogging,7
+Lifelogging,USS,Augmented Reality,3
+Lifelogging,USS,Mirror World,4
+Lifelogging,SP,Virtual World,1
+Lifelogging,SP,Lifelogging,2
+Lifelogging,SP,Augmented Reality,1
+Augmented Reality,VR,Lifelogging,1
+Augmented Reality,VR,Augmented Reality,2
+Augmented Reality,VR,Mirror World,2
+Augmented Reality,CHI,Lifelogging,1
+Augmented Reality,CHI,Augmented Reality,3
+Augmented Reality,UIST,Lifelogging,3
+Augmented Reality,UIST,Augmented Reality,4
+Augmented Reality,TVCG,Lifelogging,1
+Augmented Reality,TVCG,Augmented Reality,2
+Augmented Reality,Other Venues,Virtual World,6
+Augmented Reality,Other Venues,Lifelogging,12
+Augmented Reality,Other Venues,Augmented Reality,20
+Augmented Reality,Other Venues,Mirror World,9
+Augmented Reality,USS,Virtual World,2
+Augmented Reality,USS,Lifelogging,3
+Augmented Reality,USS,Augmented Reality,5
+Augmented Reality,USS,Mirror World,2
+Augmented Reality,SP,Virtual World,1
+Augmented Reality,SP,Lifelogging,1
+Augmented Reality,SP,Augmented Reality,5
+Augmented Reality,SP,Mirror World,1
+Mirror World,VR,Lifelogging,1
+Mirror World,VR,Augmented Reality,2
+Mirror World,VR,Mirror World,2
+Mirror World,CHI,Virtual World,1
+Mirror World,CHI,Lifelogging,1
+Mirror World,CHI,Mirror World,1
+Mirror World,TVCG,Virtual World,1
+Mirror World,TVCG,Lifelogging,1
+Mirror World,TVCG,Mirror World,1
+Mirror World,Other Venues,Virtual World,9
+Mirror World,Other Venues,Lifelogging,11
+Mirror World,Other Venues,Augmented Reality,9
+Mirror World,Other Venues,Mirror World,12
+Mirror World,USS,Virtual World,3
+Mirror World,USS,Lifelogging,4
+Mirror World,USS,Augmented Reality,2
+Mirror World,USS,Mirror World,5
+Mirror World,SP,Virtual World,1
+Mirror World,SP,Augmented Reality,1
+Mirror World,SP,Mirror World,1

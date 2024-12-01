@@ -1,0 +1,79 @@
+Algorithm Performance,Benchmarking,Virtual World,32
+Algorithm Performance,Benchmarking,Lifelogging,37
+Algorithm Performance,Benchmarking,Augmented Reality,23
+Algorithm Performance,Benchmarking,Mirror World,16
+Algorithm Performance,Human Experimentation,Virtual World,9
+Algorithm Performance,Human Experimentation,Lifelogging,11
+Algorithm Performance,Human Experimentation,Augmented Reality,4
+Algorithm Performance,Human Experimentation,Mirror World,3
+Algorithm Performance,Interview,Virtual World,2
+Algorithm Performance,Interview,Lifelogging,3
+Algorithm Performance,Interview,Mirror World,1
+Algorithm Performance,Questionnaire,Virtual World,2
+Algorithm Performance,Questionnaire,Lifelogging,3
+Algorithm Performance,Questionnaire,Augmented Reality,3
+Algorithm Performance,Questionnaire,Mirror World,2
+Algorithm Performance,Data Science,Virtual World,16
+Algorithm Performance,Data Science,Lifelogging,17
+Algorithm Performance,Data Science,Augmented Reality,5
+Algorithm Performance,Data Science,Mirror World,6
+Algorithm Performance,Engineering Research,Virtual World,1
+Algorithm Performance,Engineering Research,Lifelogging,1
+Algorithm Performance,Engineering Research,Mirror World,1
+Algorithm Performance,Meta Science,Virtual World,1
+Environment and Practices,Benchmarking,Virtual World,3
+Environment and Practices,Benchmarking,Lifelogging,5
+Environment and Practices,Benchmarking,Augmented Reality,4
+Environment and Practices,Benchmarking,Mirror World,4
+Environment and Practices,Human Experimentation,Virtual World,20
+Environment and Practices,Human Experimentation,Lifelogging,14
+Environment and Practices,Human Experimentation,Augmented Reality,13
+Environment and Practices,Human Experimentation,Mirror World,7
+Environment and Practices,Interview,Virtual World,13
+Environment and Practices,Interview,Lifelogging,8
+Environment and Practices,Interview,Augmented Reality,9
+Environment and Practices,Interview,Mirror World,4
+Environment and Practices,Questionnaire,Virtual World,12
+Environment and Practices,Questionnaire,Lifelogging,8
+Environment and Practices,Questionnaire,Augmented Reality,11
+Environment and Practices,Questionnaire,Mirror World,4
+Environment and Practices,Engineering Research,Augmented Reality,1
+Environment and Practices,Engineering Research,Mirror World,1
+Environment and Practices,Meta Science,Augmented Reality,1
+User Performance,Benchmarking,Virtual World,4
+User Performance,Benchmarking,Lifelogging,5
+User Performance,Benchmarking,Augmented Reality,3
+User Performance,Benchmarking,Mirror World,1
+User Performance,Human Experimentation,Virtual World,13
+User Performance,Human Experimentation,Lifelogging,9
+User Performance,Human Experimentation,Augmented Reality,7
+User Performance,Human Experimentation,Mirror World,3
+User Performance,Interview,Virtual World,4
+User Performance,Interview,Lifelogging,1
+User Performance,Interview,Augmented Reality,1
+User Performance,Interview,Mirror World,1
+User Performance,Questionnaire,Virtual World,9
+User Performance,Questionnaire,Lifelogging,6
+User Performance,Questionnaire,Augmented Reality,6
+User Performance,Questionnaire,Mirror World,2
+User Performance,Data Science,Virtual World,2
+User Performance,Data Science,Lifelogging,2
+User Experience,Benchmarking,Virtual World,3
+User Experience,Benchmarking,Lifelogging,5
+User Experience,Benchmarking,Augmented Reality,2
+User Experience,Benchmarking,Mirror World,3
+User Experience,Human Experimentation,Virtual World,12
+User Experience,Human Experimentation,Lifelogging,10
+User Experience,Human Experimentation,Augmented Reality,11
+User Experience,Human Experimentation,Mirror World,5
+User Experience,Interview,Virtual World,5
+User Experience,Interview,Lifelogging,5
+User Experience,Interview,Augmented Reality,3
+User Experience,Interview,Mirror World,1
+User Experience,Questionnaire,Virtual World,8
+User Experience,Questionnaire,Lifelogging,5
+User Experience,Questionnaire,Augmented Reality,8
+User Experience,Questionnaire,Mirror World,4
+User Experience,Data Science,Virtual World,1
+User Experience,Data Science,Lifelogging,1
+User Experience,Data Science,Augmented Reality,1

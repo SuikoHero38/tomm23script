@@ -1,0 +1,96 @@
+Authentication [8] Algorithm Performance
+Confidentiality [5] Algorithm Performance
+Authorization [4] Algorithm Performance
+Integrity [5] Algorithm Performance
+Identification [4] Algorithm Performance
+Availability [2] Algorithm Performance
+Non-repudiation [1] Algorithm Performance
+Unobservability [9] Algorithm Performance
+Anonymity [6] Algorithm Performance
+Policy [2] Algorithm Performance
+Unlinkability [3] Algorithm Performance
+Deniability [1] Algorithm Performance
+Authentication [7] Environment and Practices
+Confidentiality [6] Environment and Practices
+Authorization [4] Environment and Practices
+Integrity [4] Environment and Practices
+Identification [4] Environment and Practices
+Unobservability [3] Environment and Practices
+Awareness [9] Environment and Practices
+Policy [2] Environment and Practices
+Unlinkability [1] Environment and Practices
+Deniability [1] Environment and Practices
+Authentication [5] User Performance
+Confidentiality [2] User Performance
+Authorization [1] User Performance
+Integrity [3] User Performance
+Identification [2] User Performance
+Awareness [3] User Performance
+Anonymity [1] User Performance
+Policy [2] User Performance
+Deniability [1] User Performance
+Authentication [5] User Experience
+Confidentiality [3] User Experience
+Authorization [1] User Experience
+Integrity [2] User Experience
+Identification [1] User Experience
+Non-repudiation [1] User Experience
+Unobservability [4] User Experience
+Awareness [4] User Experience
+Policy [1] User Experience
+Algorithm Performance [12] Application
+Environment and Practices [9] Application
+User Performance [6] Application
+User Experience [6] Application
+Algorithm Performance [5] Evaluation
+Environment and Practices [25] Evaluation
+User Performance [9] Evaluation
+User Experience [11] Evaluation
+Algorithm Performance [3] Model
+Environment and Practices [1] Model
+Algorithm Performance [2] System
+Environment and Practices [2] System
+Algorithm Performance [28] Technique
+Environment and Practices [4] Technique
+User Performance [5] Technique
+User Experience [5] Technique
+Application [9] Virtual Reality
+Evaluation [18] Virtual Reality
+Model [1] Virtual Reality
+Technique [18] Virtual Reality
+Application [13] Augmented Reality
+Evaluation [11] Augmented Reality
+Model [2] Augmented Reality
+System [3] Augmented Reality
+Technique [12] Augmented Reality
+Application [4] Mixed Reality
+Evaluation [1] Mixed Reality
+Model [1] Mixed Reality
+System [1] Mixed Reality
+Technique [4] Mixed Reality
+Application [1] Extended Reality
+Evaluation [2] Extended Reality
+Model [1] Extended Reality
+System [1] Extended Reality
+Technique [1] Extended Reality
+Virtual Reality [6] CHI
+Augmented Reality [3] CHI
+Extended Reality [1] CHI
+Virtual Reality [16] Other Venues
+Augmented Reality [20] Other Venues
+Mixed Reality [5] Other Venues
+Extended Reality [4] Other Venues
+Virtual Reality [3] SP
+Augmented Reality [5] SP
+Virtual Reality [3] TVCG
+Augmented Reality [2] TVCG
+Mixed Reality [1] TVCG
+Virtual Reality [1] UIST
+Augmented Reality [4] UIST
+Virtual Reality [6] USS
+Augmented Reality [5] USS
+Mixed Reality [3] USS
+Extended Reality [1] USS
+Virtual Reality [11] VR
+Augmented Reality [2] VR
+Mixed Reality [2] VR

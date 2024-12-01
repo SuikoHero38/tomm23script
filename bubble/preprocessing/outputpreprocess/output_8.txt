@@ -1,0 +1,59 @@
+Algorithm Performance,Benchmarking,Application,11
+Algorithm Performance,Benchmarking,Evaluation,5
+Algorithm Performance,Benchmarking,Model,3
+Algorithm Performance,Benchmarking,System,2
+Algorithm Performance,Benchmarking,Technique,28
+Algorithm Performance,Human Experimentation,Application,3
+Algorithm Performance,Human Experimentation,Evaluation,1
+Algorithm Performance,Human Experimentation,Technique,9
+Algorithm Performance,Interview,Evaluation,1
+Algorithm Performance,Interview,Technique,2
+Algorithm Performance,Questionnaire,Application,1
+Algorithm Performance,Questionnaire,Technique,3
+Algorithm Performance,Data Science,Application,2
+Algorithm Performance,Data Science,Evaluation,2
+Algorithm Performance,Data Science,Model,2
+Algorithm Performance,Data Science,Technique,12
+Algorithm Performance,Engineering Research,Evaluation,1
+Algorithm Performance,Meta Science,Model,1
+Environment and Practices,Benchmarking,Application,1
+Environment and Practices,Benchmarking,Evaluation,1
+Environment and Practices,Benchmarking,System,1
+Environment and Practices,Benchmarking,Technique,4
+Environment and Practices,Human Experimentation,Application,9
+Environment and Practices,Human Experimentation,Evaluation,20
+Environment and Practices,Human Experimentation,Technique,4
+Environment and Practices,Interview,Application,2
+Environment and Practices,Interview,Evaluation,19
+Environment and Practices,Interview,System,1
+Environment and Practices,Interview,Technique,1
+Environment and Practices,Questionnaire,Application,8
+Environment and Practices,Questionnaire,Evaluation,9
+Environment and Practices,Questionnaire,Model,1
+Environment and Practices,Questionnaire,Technique,3
+Environment and Practices,Engineering Research,System,1
+Environment and Practices,Meta Science,Model,1
+User Performance,Benchmarking,Application,1
+User Performance,Benchmarking,Technique,5
+User Performance,Human Experimentation,Application,6
+User Performance,Human Experimentation,Evaluation,9
+User Performance,Human Experimentation,Technique,5
+User Performance,Interview,Application,1
+User Performance,Interview,Evaluation,5
+User Performance,Questionnaire,Application,5
+User Performance,Questionnaire,Evaluation,7
+User Performance,Questionnaire,Technique,2
+User Performance,Data Science,Application,1
+User Performance,Data Science,Technique,1
+User Experience,Benchmarking,Technique,5
+User Experience,Human Experimentation,Application,6
+User Experience,Human Experimentation,Evaluation,11
+User Experience,Human Experimentation,Technique,5
+User Experience,Interview,Application,1
+User Experience,Interview,Evaluation,6
+User Experience,Interview,Technique,2
+User Experience,Questionnaire,Application,5
+User Experience,Questionnaire,Evaluation,7
+User Experience,Questionnaire,Technique,2
+User Experience,Data Science,Application,1
+User Experience,Data Science,Technique,1

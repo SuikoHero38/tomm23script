@@ -1,0 +1,61 @@
+Algorithm Performance,Benchmarking,Virtual Reality,27
+Algorithm Performance,Benchmarking,Augmented Reality,23
+Algorithm Performance,Benchmarking,Mixed Reality,6
+Algorithm Performance,Benchmarking,Extended Reality,5
+Algorithm Performance,Human Experimentation,Virtual Reality,9
+Algorithm Performance,Human Experimentation,Augmented Reality,4
+Algorithm Performance,Human Experimentation,Mixed Reality,2
+Algorithm Performance,Interview,Virtual Reality,2
+Algorithm Performance,Interview,Mixed Reality,1
+Algorithm Performance,Questionnaire,Virtual Reality,2
+Algorithm Performance,Questionnaire,Augmented Reality,3
+Algorithm Performance,Questionnaire,Mixed Reality,1
+Algorithm Performance,Data Science,Virtual Reality,15
+Algorithm Performance,Data Science,Augmented Reality,5
+Algorithm Performance,Data Science,Mixed Reality,2
+Algorithm Performance,Data Science,Extended Reality,1
+Algorithm Performance,Engineering Research,Extended Reality,1
+Algorithm Performance,Meta Science,Virtual Reality,1
+Environment and Practices,Benchmarking,Virtual Reality,3
+Environment and Practices,Benchmarking,Augmented Reality,4
+Environment and Practices,Benchmarking,Mixed Reality,3
+Environment and Practices,Human Experimentation,Virtual Reality,19
+Environment and Practices,Human Experimentation,Augmented Reality,13
+Environment and Practices,Human Experimentation,Mixed Reality,5
+Environment and Practices,Human Experimentation,Extended Reality,1
+Environment and Practices,Interview,Virtual Reality,12
+Environment and Practices,Interview,Augmented Reality,9
+Environment and Practices,Interview,Mixed Reality,2
+Environment and Practices,Interview,Extended Reality,1
+Environment and Practices,Questionnaire,Virtual Reality,12
+Environment and Practices,Questionnaire,Augmented Reality,11
+Environment and Practices,Questionnaire,Mixed Reality,3
+Environment and Practices,Engineering Research,Augmented Reality,1
+Environment and Practices,Engineering Research,Mixed Reality,1
+Environment and Practices,Meta Science,Augmented Reality,1
+User Performance,Benchmarking,Virtual Reality,4
+User Performance,Benchmarking,Augmented Reality,3
+User Performance,Human Experimentation,Virtual Reality,13
+User Performance,Human Experimentation,Augmented Reality,7
+User Performance,Human Experimentation,Mixed Reality,2
+User Performance,Interview,Virtual Reality,4
+User Performance,Interview,Augmented Reality,1
+User Performance,Interview,Mixed Reality,1
+User Performance,Questionnaire,Virtual Reality,9
+User Performance,Questionnaire,Augmented Reality,6
+User Performance,Questionnaire,Mixed Reality,1
+User Performance,Data Science,Virtual Reality,2
+User Experience,Benchmarking,Virtual Reality,3
+User Experience,Benchmarking,Augmented Reality,2
+User Experience,Benchmarking,Mixed Reality,2
+User Experience,Human Experimentation,Virtual Reality,12
+User Experience,Human Experimentation,Augmented Reality,11
+User Experience,Human Experimentation,Mixed Reality,4
+User Experience,Interview,Virtual Reality,5
+User Experience,Interview,Augmented Reality,3
+User Experience,Interview,Mixed Reality,1
+User Experience,Questionnaire,Virtual Reality,8
+User Experience,Questionnaire,Augmented Reality,8
+User Experience,Questionnaire,Mixed Reality,3
+User Experience,Data Science,Virtual Reality,1
+User Experience,Data Science,Augmented Reality,1

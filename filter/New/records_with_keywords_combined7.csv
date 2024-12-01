@@ -1,0 +1,5 @@
+﻿Database,Item Type,Publication Year,Title,Venue,Venue Rank,Abstract,Keywords,Found In,Duplicate
+ACM DL,conferencePaper,2014,TitleA,CCS - ACM Conference on Computer and Communications Security,A*,"Augmented Reality, Privacy",,Title_Abstract_Keywords,
+IEEE,conferencePaper,2015,TitleB,SP - IEEE Symposium on Security and Privacy,A*,Virtual Reality,Privacy,Title_Abstract_Keywords,
+IEEE,conferencePaper,2016,TitleC,SP - IEEE Symposium on Security and Privacy,A*,Security,Mixed Reality,Title_Abstract_Keywords,
+IEEE,conferencePaper,2017,TitleD,SP - IEEE Symposium on Security and Privacy,A*,,"Extended Reality, Privacy",Title_Abstract_Keywords,

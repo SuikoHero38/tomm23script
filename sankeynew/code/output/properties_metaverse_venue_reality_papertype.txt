@@ -1,0 +1,118 @@
+Authentication [13] Virtual World
+Confidentiality [3] Virtual World
+Authorization [1] Virtual World
+Integrity [7] Virtual World
+Identification [5] Virtual World
+Availability [1] Virtual World
+Non-repudiation [1] Virtual World
+Unobservability [8] Virtual World
+Awareness [4] Virtual World
+Anonymity [4] Virtual World
+Policy [1] Virtual World
+Unlinkability [3] Virtual World
+Deniability [1] Virtual World
+Authentication [9] Lifelogging
+Confidentiality [6] Lifelogging
+Authorization [2] Lifelogging
+Integrity [2] Lifelogging
+Identification [5] Lifelogging
+Availability [1] Lifelogging
+Non-repudiation [1] Lifelogging
+Unobservability [9] Lifelogging
+Awareness [3] Lifelogging
+Anonymity [5] Lifelogging
+Unlinkability [3] Lifelogging
+Deniability [1] Lifelogging
+Authentication [5] Augmented Reality
+Confidentiality [8] Augmented Reality
+Authorization [6] Augmented Reality
+Integrity [1] Augmented Reality
+Identification [2] Augmented Reality
+Availability [2] Augmented Reality
+Non-repudiation [2] Augmented Reality
+Unobservability [2] Augmented Reality
+Awareness [5] Augmented Reality
+Anonymity [3] Augmented Reality
+Policy [2] Augmented Reality
+Unlinkability [2] Augmented Reality
+Deniability [1] Augmented Reality
+Authentication [4] Mirror World
+Confidentiality [2] Mirror World
+Authorization [2] Mirror World
+Integrity [1] Mirror World
+Identification [1] Mirror World
+Availability [1] Mirror World
+Non-repudiation [1] Mirror World
+Unobservability [4] Mirror World
+Awareness [1] Mirror World
+Anonymity [2] Mirror World
+Policy [1] Mirror World
+Unlinkability [2] Mirror World
+Deniability [1] Mirror World
+Virtual World [7] CHI
+Lifelogging [5] CHI
+Augmented Reality [3] CHI
+Mirror World [1] CHI
+Virtual World [20] Other Venues
+Lifelogging [18] Other Venues
+Augmented Reality [20] Other Venues
+Mirror World [12] Other Venues
+Virtual World [3] SP
+Lifelogging [2] SP
+Augmented Reality [5] SP
+Mirror World [1] SP
+Virtual World [3] TVCG
+Lifelogging [3] TVCG
+Augmented Reality [2] TVCG
+Mirror World [1] TVCG
+Virtual World [1] UIST
+Lifelogging [3] UIST
+Augmented Reality [4] UIST
+Virtual World [7] USS
+Lifelogging [7] USS
+Augmented Reality [5] USS
+Mirror World [6] USS
+Virtual World [11] VR
+Lifelogging [9] VR
+Augmented Reality [2] VR
+Mirror World [2] VR
+CHI [6] Virtual Reality
+CHI [3] Augmented Reality
+CHI [1] Extended Reality
+Other Venues [16] Virtual Reality
+Other Venues [20] Augmented Reality
+Other Venues [5] Mixed Reality
+Other Venues [4] Extended Reality
+SP [3] Virtual Reality
+SP [5] Augmented Reality
+TVCG [3] Virtual Reality
+TVCG [2] Augmented Reality
+TVCG [1] Mixed Reality
+UIST [1] Virtual Reality
+UIST [4] Augmented Reality
+USS [6] Virtual Reality
+USS [5] Augmented Reality
+USS [3] Mixed Reality
+USS [1] Extended Reality
+VR [11] Virtual Reality
+VR [2] Augmented Reality
+VR [2] Mixed Reality
+Virtual Reality [9] Application
+Augmented Reality [13] Application
+Mixed Reality [4] Application
+Extended Reality [1] Application
+Virtual Reality [18] Evaluation
+Augmented Reality [11] Evaluation
+Mixed Reality [1] Evaluation
+Extended Reality [2] Evaluation
+Virtual Reality [1] Model
+Augmented Reality [2] Model
+Mixed Reality [1] Model
+Extended Reality [1] Model
+Augmented Reality [3] System
+Mixed Reality [1] System
+Extended Reality [1] System
+Virtual Reality [18] Technique
+Augmented Reality [12] Technique
+Mixed Reality [4] Technique
+Extended Reality [1] Technique

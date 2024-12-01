@@ -1,0 +1,76 @@
+Benchmarking,Virtual World,Application,6
+Benchmarking,Virtual World,Evaluation,4
+Benchmarking,Virtual World,Model,2
+Benchmarking,Virtual World,System,1
+Benchmarking,Virtual World,Technique,19
+Benchmarking,Lifelogging,Application,5
+Benchmarking,Lifelogging,Evaluation,4
+Benchmarking,Lifelogging,Model,2
+Benchmarking,Lifelogging,System,2
+Benchmarking,Lifelogging,Technique,24
+Benchmarking,Augmented Reality,Application,7
+Benchmarking,Augmented Reality,Evaluation,2
+Benchmarking,Augmented Reality,Model,1
+Benchmarking,Augmented Reality,System,2
+Benchmarking,Augmented Reality,Technique,12
+Benchmarking,Mirror World,Application,2
+Benchmarking,Mirror World,Evaluation,2
+Benchmarking,Mirror World,Model,2
+Benchmarking,Mirror World,System,2
+Benchmarking,Mirror World,Technique,9
+Human Experimentation,Virtual World,Application,7
+Human Experimentation,Virtual World,Evaluation,15
+Human Experimentation,Virtual World,Technique,5
+Human Experimentation,Lifelogging,Application,5
+Human Experimentation,Lifelogging,Evaluation,7
+Human Experimentation,Lifelogging,Technique,8
+Human Experimentation,Augmented Reality,Application,6
+Human Experimentation,Augmented Reality,Evaluation,5
+Human Experimentation,Augmented Reality,Technique,4
+Human Experimentation,Mirror World,Application,2
+Human Experimentation,Mirror World,Evaluation,2
+Human Experimentation,Mirror World,Technique,3
+Interview,Virtual World,Application,1
+Interview,Virtual World,Evaluation,12
+Interview,Virtual World,Technique,1
+Interview,Lifelogging,Evaluation,7
+Interview,Lifelogging,Technique,2
+Interview,Augmented Reality,Application,1
+Interview,Augmented Reality,Evaluation,7
+Interview,Augmented Reality,System,1
+Interview,Mirror World,Evaluation,3
+Interview,Mirror World,Technique,1
+Questionnaire,Virtual World,Application,5
+Questionnaire,Virtual World,Evaluation,6
+Questionnaire,Virtual World,Technique,1
+Questionnaire,Lifelogging,Application,3
+Questionnaire,Lifelogging,Evaluation,2
+Questionnaire,Lifelogging,Technique,3
+Questionnaire,Augmented Reality,Application,4
+Questionnaire,Augmented Reality,Evaluation,3
+Questionnaire,Augmented Reality,Model,1
+Questionnaire,Augmented Reality,Technique,3
+Questionnaire,Mirror World,Application,2
+Questionnaire,Mirror World,Technique,2
+Data Science,Virtual World,Application,2
+Data Science,Virtual World,Evaluation,2
+Data Science,Virtual World,Model,1
+Data Science,Virtual World,Technique,11
+Data Science,Lifelogging,Application,2
+Data Science,Lifelogging,Evaluation,2
+Data Science,Lifelogging,Model,2
+Data Science,Lifelogging,Technique,11
+Data Science,Augmented Reality,Application,1
+Data Science,Augmented Reality,Evaluation,1
+Data Science,Augmented Reality,Model,1
+Data Science,Augmented Reality,Technique,3
+Data Science,Mirror World,Evaluation,1
+Data Science,Mirror World,Model,2
+Data Science,Mirror World,Technique,3
+Engineering Research,Virtual World,Evaluation,1
+Engineering Research,Lifelogging,Evaluation,1
+Engineering Research,Augmented Reality,System,1
+Engineering Research,Mirror World,Evaluation,1
+Engineering Research,Mirror World,System,1
+Meta Science,Virtual World,Model,1
+Meta Science,Augmented Reality,Model,1

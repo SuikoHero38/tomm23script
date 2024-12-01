@@ -1,0 +1,229 @@
+<svg height="800" width="1000" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 9/1/2024, 1:32:50 PM -->
+<rect height="800" width="1000" fill="#ffffff"></rect>
+<g transform="translate(121.20864,18)">
+<g id="sankey_flows">
+<path id="flow63" d="M653.09352 477.93791C753.94244 477.93791 753.94244 470.55745 854.79136 470.55745" fill="none" stroke-width="66.86957" stroke="#bcbd22" opacity="0.5"><title>Technique → Benchmarking: 28</title></path>
+<path id="flow26" d="M225.69784 168.60663C326.54676 168.60663 326.54676 178.3683 427.39568 178.3683" fill="none" stroke-width="64.48137" stroke="#1f77b4" opacity="0.5"><title>Algorithm Performance → Virtual Reality: 27</title></path>
+<path id="flow30" d="M225.69784 228.3116C326.54676 228.3116 326.54676 379.38875 427.39568 379.38875" fill="none" stroke-width="54.92857" stroke="#1f77b4" opacity="0.5"><title>Algorithm Performance → Augmented Reality: 23</title></path>
+<path id="flow27" d="M225.69784 340.96869C326.54676 340.96869 326.54676 235.68507 427.39568 235.68507" fill="none" stroke-width="50.15217" stroke="#7f7f7f" opacity="0.5"><title>Environment and Practices → Virtual Reality: 21</title></path>
+<path id="flow65" d="M653.09352 148.73708C753.94244 148.73708 753.94244 119.45109 854.79136 119.45109" fill="none" stroke-width="50.15217" stroke="#17becf" opacity="0.5"><title>Evaluation → Human Experimentation: 21</title></path>
+<path id="flow31" d="M225.69784 389.92677C326.54676 389.92677 326.54676 430.73502 427.39568 430.73502" fill="none" stroke-width="47.76398" stroke="#7f7f7f" opacity="0.5"><title>Environment and Practices → Augmented Reality: 20</title></path>
+<path id="flow68" d="M653.09352 196.50105C753.94244 196.50105 753.94244 248.82557 854.79136 248.82557" fill="none" stroke-width="45.37578" stroke="#1f77b4" opacity="0.5"><title>Evaluation → Interview: 19</title></path>
+<path id="flow1" d="M12 238.38606C112.84892 238.38606 112.84892 215.17651 213.69784 215.17651" fill="none" stroke-width="42.98758" stroke="#ff7f0e" opacity="0.5"><title>Other Venues → Algorithm Performance: 18</title></path>
+<path id="flow44" d="M439.39568 232.10277C540.2446 232.10277 540.2446 204.85975 641.09352 204.85975" fill="none" stroke-width="42.98758" stroke="#9467bd" opacity="0.5"><title>Virtual Reality → Evaluation: 18</title></path>
+<path id="flow55" d="M439.39568 296.58414C540.2446 296.58414 540.2446 432.56213 641.09352 432.56213" fill="none" stroke-width="42.98758" stroke="#7f7f7f" opacity="0.5"><title>Virtual Reality → Technique: 18</title></path>
+<path id="flow8" d="M12 278.98544C112.84892 278.98544 112.84892 361.26838 213.69784 361.26838" fill="none" stroke-width="38.21118" stroke="#ff7f0e" opacity="0.5"><title>Other Venues → Environment and Practices: 16</title></path>
+<path id="flow28" d="M225.69784 477.50777C326.54676 477.50777 326.54676 276.28445 427.39568 276.28445" fill="none" stroke-width="31.04658" stroke="#bcbd22" opacity="0.5"><title>User Performance → Virtual Reality: 13</title></path>
+<path id="flow41" d="M439.39568 393.71794C540.2446 393.71794 540.2446 352.14572 641.09352 352.14572" fill="none" stroke-width="31.04658" stroke="#d62728" opacity="0.5"><title>Augmented Reality → Application: 13</title></path>
+<path id="flow5" d="M12 154.38735C112.84892 154.38735 112.84892 179.35353 213.69784 179.35353" fill="none" stroke-width="28.65839" stroke="#8c564b" opacity="0.5"><title>USS → Algorithm Performance: 12</title></path>
+<path id="flow29" d="M225.69784 560.31238C326.54676 560.31238 326.54676 306.13693 427.39568 306.13693" fill="none" stroke-width="28.65839" stroke="#bcbd22" opacity="0.5"><title>User Experience → Virtual Reality: 12</title></path>
+<path id="flow56" d="M439.39568 423.57042C540.2446 423.57042 540.2446 468.38511 641.09352 468.38511" fill="none" stroke-width="28.65839" stroke="#7f7f7f" opacity="0.5"><title>Augmented Reality → Technique: 12</title></path>
+<path id="flow59" d="M653.09352 358.11622C753.94244 358.11622 753.94244 422.79348 854.79136 422.79348" fill="none" stroke-width="28.65839" stroke="#bcbd22" opacity="0.5"><title>Application → Benchmarking: 12</title></path>
+<path id="flow64" d="M653.09352 305.57585C753.94244 305.57585 753.94244 158.85637 854.79136 158.85637" fill="none" stroke-width="28.65839" stroke="#17becf" opacity="0.5"><title>Application → Human Experimentation: 12</title></path>
+<path id="flow78" d="M653.09352 525.70188C753.94244 525.70188 753.94244 612.28468 854.79136 612.28468" fill="none" stroke-width="28.65839" stroke="#2ca02c" opacity="0.5"><title>Technique → Data Science: 12</title></path>
+<path id="flow33" d="M225.69784 587.77666C326.54676 587.77666 326.54676 484.46949 427.39568 484.46949" fill="none" stroke-width="26.27019" stroke="#bcbd22" opacity="0.5"><title>User Experience → Augmented Reality: 11</title></path>
+<path id="flow45" d="M439.39568 365.05955C540.2446 365.05955 540.2446 239.48863 641.09352 239.48863" fill="none" stroke-width="26.27019" stroke="#9467bd" opacity="0.5"><title>Augmented Reality → Evaluation: 11</title></path>
+<path id="flow21" d="M12 331.52581C112.84892 331.52581 112.84892 560.31238 213.69784 560.31238" fill="none" stroke-width="23.88199" stroke="#ff7f0e" opacity="0.5"><title>Other Venues → User Experience: 10</title></path>
+<path id="flow6" d="M12 438.62416C112.84892 438.62416 112.84892 256.96998 213.69784 256.96998" fill="none" stroke-width="21.49379" stroke="#e377c2" opacity="0.5"><title>VR → Algorithm Performance: 9</title></path>
+<path id="flow7" d="M12 618.97431C112.84892 618.97431 112.84892 419.77925 213.69784 419.77925" fill="none" stroke-width="21.49379" stroke="#17becf" opacity="0.5"><title>CHI → Environment and Practices: 9</title></path>
+<path id="flow15" d="M12 308.83792C112.84892 308.83792 112.84892 477.50777 213.69784 477.50777" fill="none" stroke-width="21.49379" stroke="#ff7f0e" opacity="0.5"><title>Other Venues → User Performance: 9</title></path>
+<path id="flow40" d="M439.39568 264.34346C540.2446 264.34346 540.2446 325.87554 641.09352 325.87554" fill="none" stroke-width="21.49379" stroke="#d62728" opacity="0.5"><title>Virtual Reality → Application: 9</title></path>
+<path id="flow66" d="M653.09352 421.81524C753.94244 421.81524 753.94244 183.93245 854.79136 183.93245" fill="none" stroke-width="21.49379" stroke="#17becf" opacity="0.5"><title>Technique → Human Experimentation: 9</title></path>
+<path id="flow72" d="M653.09352 229.93584C753.94244 229.93584 753.94244 325.65968 854.79136 325.65968" fill="none" stroke-width="21.49379" stroke="#ff7f0e" opacity="0.5"><title>Evaluation → Questionnaire: 9</title></path>
+<path id="flow71" d="M653.09352 334.23423C753.94244 334.23423 753.94244 345.95937 854.79136 345.95937" fill="none" stroke-width="19.10559" stroke="#ff7f0e" opacity="0.5"><title>Application → Questionnaire: 8</title></path>
+<path id="flow32" d="M225.69784 501.38976C326.54676 501.38976 326.54676 462.9757 427.39568 462.9757" fill="none" stroke-width="16.71739" stroke="#bcbd22" opacity="0.5"><title>User Performance → Augmented Reality: 7</title></path>
+<path id="flow34" d="M225.69784 276.07557C326.54676 276.07557 326.54676 583.20914 427.39568 583.20914" fill="none" stroke-width="16.71739" stroke="#1f77b4" opacity="0.5"><title>Algorithm Performance → Mixed Reality: 7</title></path>
+<path id="flow35" d="M225.69784 423.36155C326.54676 423.36155 326.54676 598.73243 427.39568 598.73243" fill="none" stroke-width="14.32919" stroke="#7f7f7f" opacity="0.5"><title>Environment and Practices → Mixed Reality: 6</title></path>
+<path id="flow13" d="M12 455.34155C112.84892 455.34155 112.84892 393.50906 213.69784 393.50906" fill="none" stroke-width="11.94099" stroke="#e377c2" opacity="0.5"><title>VR → Environment and Practices: 5</title></path>
+<path id="flow38" d="M225.69784 261.74638C326.54676 261.74638 326.54676 535.03341 427.39568 535.03341" fill="none" stroke-width="11.94099" stroke="#1f77b4" opacity="0.5"><title>Algorithm Performance → Extended Reality: 5</title></path>
+<path id="flow60" d="M653.09352 246.65323C753.94244 246.65323 753.94244 402.49379 854.79136 402.49379" fill="none" stroke-width="11.94099" stroke="#bcbd22" opacity="0.5"><title>Evaluation → Benchmarking: 5</title></path>
+<path id="flow2" d="M12 379.70154C112.84892 379.70154 112.84892 241.44669 213.69784 241.44669" fill="none" stroke-width="9.5528" stroke="#2ca02c" opacity="0.5"><title>SP → Algorithm Performance: 4</title></path>
+<path id="flow3" d="M12 511.87597C112.84892 511.87597 112.84892 272.49328 213.69784 272.49328" fill="none" stroke-width="9.5528" stroke="#d62728" opacity="0.5"><title>TVCG → Algorithm Performance: 4</title></path>
+<path id="flow12" d="M12 173.49294C112.84892 173.49294 112.84892 337.38639 213.69784 337.38639" fill="none" stroke-width="9.5528" stroke="#8c564b" opacity="0.5"><title>USS → Environment and Practices: 4</title></path>
+<path id="flow14" d="M12 634.4976C112.84892 634.4976 112.84892 504.97206 213.69784 504.97206" fill="none" stroke-width="9.5528" stroke="#17becf" opacity="0.5"><title>CHI → User Performance: 4</title></path>
+<path id="flow25" d="M12 470.86484C112.84892 470.86484 112.84892 577.02977 213.69784 577.02977" fill="none" stroke-width="9.5528" stroke="#e377c2" opacity="0.5"><title>VR → User Experience: 4</title></path>
+<path id="flow37" d="M225.69784 605.68815C326.54676 605.68815 326.54676 615.44982 427.39568 615.44982" fill="none" stroke-width="9.5528" stroke="#bcbd22" opacity="0.5"><title>User Experience → Mixed Reality: 4</title></path>
+<path id="flow42" d="M439.39568 582.01504C540.2446 582.01504 540.2446 374.83361 641.09352 374.83361" fill="none" stroke-width="9.5528" stroke="#d62728" opacity="0.5"><title>Mixed Reality → Application: 4</title></path>
+<path id="flow57" d="M439.39568 591.56784C540.2446 591.56784 540.2446 489.8789 641.09352 489.8789" fill="none" stroke-width="9.5528" stroke="#7f7f7f" opacity="0.5"><title>Mixed Reality → Technique: 4</title></path>
+<path id="flow9" d="M12 388.06023C112.84892 388.06023 112.84892 383.95627 213.69784 383.95627" fill="none" stroke-width="7.1646" stroke="#2ca02c" opacity="0.5"><title>SP → Environment and Practices: 3</title></path>
+<path id="flow11" d="M12 566.02219C112.84892 566.02219 112.84892 405.45006 213.69784 405.45006" fill="none" stroke-width="7.1646" stroke="#9467bd" opacity="0.5"><title>UIST → Environment and Practices: 3</title></path>
+<path id="flow20" d="M12 642.8563C112.84892 642.8563 112.84892 594.94126 213.69784 594.94126" fill="none" stroke-width="7.1646" stroke="#17becf" opacity="0.5"><title>CHI → User Experience: 3</title></path>
+<path id="flow52" d="M439.39568 441.48191C540.2446 441.48191 540.2446 575.07171 641.09352 575.07171" fill="none" stroke-width="7.1646" stroke="#e377c2" opacity="0.5"><title>Augmented Reality → System: 3</title></path>
+<path id="flow61" d="M653.09352 620.85923C753.94244 620.85923 753.94244 514.73913 854.79136 514.73913" fill="none" stroke-width="7.1646" stroke="#bcbd22" opacity="0.5"><title>Model → Benchmarking: 3</title></path>
+<path id="flow62" d="M653.09352 577.45991C753.94244 577.45991 753.94244 507.57453 854.79136 507.57453" fill="none" stroke-width="7.1646" stroke="#bcbd22" opacity="0.5"><title>System → Benchmarking: 3</title></path>
+<path id="flow74" d="M653.09352 440.92083C753.94244 440.92083 753.94244 359.09446 854.79136 359.09446" fill="none" stroke-width="7.1646" stroke="#ff7f0e" opacity="0.5"><title>Technique → Questionnaire: 3</title></path>
+<path id="flow75" d="M653.09352 376.02771C753.94244 376.02771 753.94244 594.37319 854.79136 594.37319" fill="none" stroke-width="7.1646" stroke="#2ca02c" opacity="0.5"><title>Application → Data Science: 3</title></path>
+<path id="flow4" d="M12 560.05169C112.84892 560.05169 112.84892 279.65787 213.69784 279.65787" fill="none" stroke-width="4.7764" stroke="#9467bd" opacity="0.5"><title>UIST → Algorithm Performance: 2</title></path>
+<path id="flow16" d="M12 394.03073C112.84892 394.03073 112.84892 490.64286 213.69784 490.64286" fill="none" stroke-width="4.7764" stroke="#2ca02c" opacity="0.5"><title>SP → User Performance: 2</title></path>
+<path id="flow18" d="M12 180.65754C112.84892 180.65754 112.84892 464.37268 213.69784 464.37268" fill="none" stroke-width="4.7764" stroke="#8c564b" opacity="0.5"><title>USS → User Performance: 2</title></path>
+<path id="flow19" d="M12 463.70024C112.84892 463.70024 112.84892 495.41926 213.69784 495.41926" fill="none" stroke-width="4.7764" stroke="#e377c2" opacity="0.5"><title>VR → User Performance: 2</title></path>
+<path id="flow22" d="M12 523.81696C112.84892 523.81696 112.84892 584.19436 213.69784 584.19436" fill="none" stroke-width="4.7764" stroke="#d62728" opacity="0.5"><title>TVCG → User Experience: 2</title></path>
+<path id="flow23" d="M12 571.99269C112.84892 571.99269 112.84892 588.97076 213.69784 588.97076" fill="none" stroke-width="4.7764" stroke="#9467bd" opacity="0.5"><title>UIST → User Experience: 2</title></path>
+<path id="flow36" d="M225.69784 512.13665C326.54676 512.13665 326.54676 608.28523 427.39568 608.28523" fill="none" stroke-width="4.7764" stroke="#bcbd22" opacity="0.5"><title>User Performance → Mixed Reality: 2</title></path>
+<path id="flow47" d="M439.39568 531.45112C540.2446 531.45112 540.2446 255.01192 641.09352 255.01192" fill="none" stroke-width="4.7764" stroke="#9467bd" opacity="0.5"><title>Extended Reality → Evaluation: 2</title></path>
+<path id="flow49" d="M439.39568 447.45241C540.2446 447.45241 540.2446 619.66513 641.09352 619.66513" fill="none" stroke-width="4.7764" stroke="#8c564b" opacity="0.5"><title>Augmented Reality → Model: 2</title></path>
+<path id="flow67" d="M653.09352 322.29324C753.94244 322.29324 753.94244 273.90166 854.79136 273.90166" fill="none" stroke-width="4.7764" stroke="#1f77b4" opacity="0.5"><title>Application → Interview: 2</title></path>
+<path id="flow70" d="M653.09352 434.95033C753.94244 434.95033 753.94244 278.67805 854.79136 278.67805" fill="none" stroke-width="4.7764" stroke="#1f77b4" opacity="0.5"><title>Technique → Interview: 2</title></path>
+<path id="flow76" d="M653.09352 257.40012C753.94244 257.40012 753.94244 588.40269 854.79136 588.40269" fill="none" stroke-width="4.7764" stroke="#2ca02c" opacity="0.5"><title>Evaluation → Data Science: 2</title></path>
+<path id="flow77" d="M653.09352 626.82973C753.94244 626.82973 753.94244 629.00207 854.79136 629.00207" fill="none" stroke-width="4.7764" stroke="#2ca02c" opacity="0.5"><title>Model → Data Science: 2</title></path>
+<path id="flow81" d="M653.09352 631.60613C753.94244 631.60613 753.94244 665.2368 854.79136 665.2368" fill="none" stroke-width="4.7764" stroke="#9467bd" opacity="0.5"><title>Model → Meta Science: 2</title></path>
+<path id="flow0" d="M12 607.03332C112.84892 607.03332 112.84892 283.24017 213.69784 283.24017" fill="none" stroke-width="2.3882" stroke="#17becf" opacity="0.5"><title>CHI → Algorithm Performance: 1</title></path>
+<path id="flow10" d="M12 517.84646C112.84892 517.84646 112.84892 400.67366 213.69784 400.67366" fill="none" stroke-width="2.3882" stroke="#d62728" opacity="0.5"><title>TVCG → Environment and Practices: 1</title></path>
+<path id="flow17" d="M12 520.23466C112.84892 520.23466 112.84892 499.00156 213.69784 499.00156" fill="none" stroke-width="2.3882" stroke="#d62728" opacity="0.5"><title>TVCG → User Performance: 1</title></path>
+<path id="flow24" d="M12 184.23984C112.84892 184.23984 112.84892 547.17728 213.69784 547.17728" fill="none" stroke-width="2.3882" stroke="#8c564b" opacity="0.5"><title>USS → User Experience: 1</title></path>
+<path id="flow39" d="M225.69784 415.00285C326.54676 415.00285 326.54676 542.19801 427.39568 542.19801" fill="none" stroke-width="2.3882" stroke="#7f7f7f" opacity="0.5"><title>Environment and Practices → Extended Reality: 1</title></path>
+<path id="flow43" d="M439.39568 535.03341C540.2446 535.03341 540.2446 368.86311 641.09352 368.86311" fill="none" stroke-width="2.3882" stroke="#d62728" opacity="0.5"><title>Extended Reality → Application: 1</title></path>
+<path id="flow46" d="M439.39568 576.04454C540.2446 576.04454 540.2446 258.59422 641.09352 258.59422" fill="none" stroke-width="2.3882" stroke="#9467bd" opacity="0.5"><title>Mixed Reality → Evaluation: 1</title></path>
+<path id="flow48" d="M439.39568 319.27203C540.2446 319.27203 540.2446 616.08284 641.09352 616.08284" fill="none" stroke-width="2.3882" stroke="#8c564b" opacity="0.5"><title>Virtual Reality → Model: 1</title></path>
+<path id="flow50" d="M439.39568 599.92653C540.2446 599.92653 540.2446 625.63563 641.09352 625.63563" fill="none" stroke-width="2.3882" stroke="#8c564b" opacity="0.5"><title>Mixed Reality → Model: 1</title></path>
+<path id="flow51" d="M439.39568 542.19801C540.2446 542.19801 540.2446 623.24743 641.09352 623.24743" fill="none" stroke-width="2.3882" stroke="#8c564b" opacity="0.5"><title>Extended Reality → Model: 1</title></path>
+<path id="flow53" d="M439.39568 597.53833C540.2446 597.53833 540.2446 582.2363 641.09352 582.2363" fill="none" stroke-width="2.3882" stroke="#e377c2" opacity="0.5"><title>Mixed Reality → System: 1</title></path>
+<path id="flow54" d="M439.39568 539.80981C540.2446 539.80981 540.2446 579.8481 641.09352 579.8481" fill="none" stroke-width="2.3882" stroke="#e377c2" opacity="0.5"><title>Extended Reality → System: 1</title></path>
+<path id="flow58" d="M439.39568 537.42161C540.2446 537.42161 540.2446 483.9084 641.09352 483.9084" fill="none" stroke-width="2.3882" stroke="#7f7f7f" opacity="0.5"><title>Extended Reality → Technique: 1</title></path>
+<path id="flow69" d="M653.09352 572.68351C753.94244 572.68351 753.94244 282.26035 854.79136 282.26035" fill="none" stroke-width="2.3882" stroke="#1f77b4" opacity="0.5"><title>System → Interview: 1</title></path>
+<path id="flow73" d="M653.09352 616.08284C753.94244 616.08284 753.94244 363.87086 854.79136 363.87086" fill="none" stroke-width="2.3882" stroke="#ff7f0e" opacity="0.5"><title>Model → Questionnaire: 1</title></path>
+<path id="flow79" d="M653.09352 253.81782C753.94244 253.81782 753.94244 550.97386 854.79136 550.97386" fill="none" stroke-width="2.3882" stroke="#d62728" opacity="0.5"><title>Evaluation → Engineering Research: 1</title></path>
+<path id="flow80" d="M653.09352 582.2363C753.94244 582.2363 753.94244 553.36206 854.79136 553.36206" fill="none" stroke-width="2.3882" stroke="#d62728" opacity="0.5"><title>System → Engineering Research: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r0" class="for_r0" x="0" y="605.83922" height="40.59938" width="12" fill="#17becf" fill-opacity="1"><title>CHI:
+17</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r1" class="for_r1" x="213.69784" y="136.36595" height="148.06832" width="12" fill="#1f77b4" fill-opacity="1"><title>Algorithm Performance:
+62</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r2" class="for_r2" x="0" y="216.89227" height="126.57453" width="12" fill="#ff7f0e" fill-opacity="1"><title>Other Venues:
+53</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r3" class="for_r3" x="0" y="374.92514" height="21.49379" width="12" fill="#2ca02c" fill-opacity="1"><title>SP:
+9</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r4" class="for_r4" x="0" y="507.09957" height="19.10559" width="12" fill="#d62728" fill-opacity="1"><title>TVCG:
+8</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r5" class="for_r5" x="0" y="557.66349" height="16.71739" width="12" fill="#9467bd" fill-opacity="1"><title>UIST:
+7</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r6" class="for_r6" x="0" y="140.05816" height="45.37578" width="12" fill="#8c564b" fill-opacity="1"><title>USS:
+19</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r7" class="for_r7" x="0" y="427.87726" height="47.76398" width="12" fill="#e377c2" fill-opacity="1"><title>VR:
+20</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r8" class="for_r8" x="213.69784" y="315.8926" height="114.63354" width="12" fill="#7f7f7f" fill-opacity="1"><title>Environment and Practices:
+48</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r9" class="for_r9" x="213.69784" y="461.98448" height="52.54037" width="12" fill="#bcbd22" fill-opacity="1"><title>User Performance:
+22</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r10" class="for_r10" x="213.69784" y="545.98318" height="64.48137" width="12" fill="#bcbd22" fill-opacity="1"><title>User Experience:
+27</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r11" class="for_r11" x="427.39568" y="146.12762" height="174.33851" width="12" fill="#17becf" fill-opacity="1"><title>Virtual Reality:
+73</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r12" class="for_r12" x="427.39568" y="351.92446" height="145.68012" width="12" fill="#1f77b4" fill-opacity="1"><title>Augmented Reality:
+61</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r13" class="for_r13" x="427.39568" y="574.85044" height="45.37578" width="12" fill="#ff7f0e" fill-opacity="1"><title>Mixed Reality:
+19</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r14" class="for_r14" x="427.39568" y="529.06292" height="14.32919" width="12" fill="#2ca02c" fill-opacity="1"><title>Extended Reality:
+6</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r15" class="for_r15" x="641.09352" y="291.24666" height="88.36335" width="12" fill="#d62728" fill-opacity="1"><title>Application:
+37</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r16" class="for_r16" x="641.09352" y="123.66099" height="136.12733" width="12" fill="#9467bd" fill-opacity="1"><title>Evaluation:
+57</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r17" class="for_r17" x="641.09352" y="614.88874" height="19.10559" width="12" fill="#8c564b" fill-opacity="1"><title>Model:
+8</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r18" class="for_r18" x="641.09352" y="571.48941" height="11.94099" width="12" fill="#e377c2" fill-opacity="1"><title>System:
+5</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r19" class="for_r19" x="641.09352" y="411.06834" height="128.96273" width="12" fill="#7f7f7f" fill-opacity="1"><title>Technique:
+54</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r20" class="for_r20" x="854.79136" y="396.52329" height="121.79814" width="12" fill="#bcbd22" fill-opacity="1"><title>Benchmarking:
+51</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r21" class="for_r21" x="854.79136" y="94.375" height="100.30435" width="12" fill="#17becf" fill-opacity="1"><title>Human Experimentation:
+42</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r22" class="for_r22" x="854.79136" y="226.13768" height="57.31677" width="12" fill="#1f77b4" fill-opacity="1"><title>Interview:
+24</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r23" class="for_r23" x="854.79136" y="314.91278" height="50.15217" width="12" fill="#ff7f0e" fill-opacity="1"><title>Questionnaire:
+21</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r24" class="for_r24" x="854.79136" y="586.01449" height="45.37578" width="12" fill="#2ca02c" fill-opacity="1"><title>Data Science:
+19</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r25" class="for_r25" x="854.79136" y="549.77976" height="4.7764" width="12" fill="#d62728" fill-opacity="1"><title>Engineering Research:
+2</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r26" class="for_r26" x="854.79136" y="662.8486" height="4.7764" width="12" fill="#9467bd" fill-opacity="1"><title>Meta Science:
+2</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29902" y="626.13891" font-weight="400" font-size="16px" dy="-2.49601">CHI<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">17</tspan></text>
+<text id="label1" class="for_r1" text-anchor="end" x="207.39882" y="210.40011" font-weight="400" font-size="16px" dy="-2.49601">Algorithm Performance<tspan x="207.39882" dy="15.2" font-weight="400" font-size="16px">62</tspan></text>
+<text id="label2" class="for_r2" text-anchor="end" x="-6.29902" y="280.17954" font-weight="400" font-size="16px" dy="-2.49601">Other Venues<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">53</tspan></text>
+<text id="label3" class="for_r3" text-anchor="end" x="-6.29902" y="385.67203" font-weight="400" font-size="16px" dy="-2.49601">SP<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">9</tspan></text>
+<text id="label4" class="for_r4" text-anchor="end" x="-6.29902" y="516.65236" font-weight="400" font-size="16px" dy="-2.49601">TVCG<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">8</tspan></text>
+<text id="label5" class="for_r5" text-anchor="end" x="-6.29902" y="566.02219" font-weight="400" font-size="16px" dy="-2.49601">UIST<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">7</tspan></text>
+<text id="label6" class="for_r6" text-anchor="end" x="-6.29902" y="162.74605" font-weight="400" font-size="16px" dy="-2.49601">USS<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">19</tspan></text>
+<text id="label7" class="for_r7" text-anchor="end" x="-6.29902" y="451.75925" font-weight="400" font-size="16px" dy="-2.49601">VR<tspan x="-6.29902" dy="15.2" font-weight="400" font-size="16px">20</tspan></text>
+<text id="label8" class="for_r8" text-anchor="end" x="207.39882" y="373.20937" font-weight="400" font-size="16px" dy="-2.49601">Environment and Practices<tspan x="207.39882" dy="15.2" font-weight="400" font-size="16px">48</tspan></text>
+<text id="label9" class="for_r9" text-anchor="end" x="207.39882" y="488.25466" font-weight="400" font-size="16px" dy="-2.49601">User Performance<tspan x="207.39882" dy="15.2" font-weight="400" font-size="16px">22</tspan></text>
+<text id="label10" class="for_r10" text-anchor="end" x="207.39882" y="578.22387" font-weight="400" font-size="16px" dy="-2.49601">User Experience<tspan x="207.39882" dy="15.2" font-weight="400" font-size="16px">27</tspan></text>
+<text id="label11" class="for_r11" text-anchor="end" x="421.09666" y="233.29687" font-weight="400" font-size="16px" dy="-2.49601">Virtual Reality<tspan x="421.09666" dy="15.2" font-weight="400" font-size="16px">73</tspan></text>
+<text id="label12" class="for_r12" text-anchor="end" x="421.09666" y="424.76452" font-weight="400" font-size="16px" dy="-2.49601">Augmented Reality<tspan x="421.09666" dy="15.2" font-weight="400" font-size="16px">61</tspan></text>
+<text id="label13" class="for_r13" text-anchor="end" x="421.09666" y="597.53833" font-weight="400" font-size="16px" dy="-2.49601">Mixed Reality<tspan x="421.09666" dy="15.2" font-weight="400" font-size="16px">19</tspan></text>
+<text id="label14" class="for_r14" text-anchor="end" x="421.09666" y="536.22751" font-weight="400" font-size="16px" dy="-2.49601">Extended Reality<tspan x="421.09666" dy="15.2" font-weight="400" font-size="16px">6</tspan></text>
+<text id="label15" class="for_r15" text-anchor="end" x="634.7945" y="335.42833" font-weight="400" font-size="16px" dy="-2.49601">Application<tspan x="634.7945" dy="15.2" font-weight="400" font-size="16px">37</tspan></text>
+<text id="label16" class="for_r16" text-anchor="end" x="634.7945" y="191.72466" font-weight="400" font-size="16px" dy="-2.49601">Evaluation<tspan x="634.7945" dy="15.2" font-weight="400" font-size="16px">57</tspan></text>
+<text id="label17" class="for_r17" text-anchor="end" x="634.7945" y="624.44153" font-weight="400" font-size="16px" dy="-2.49601">Model<tspan x="634.7945" dy="15.2" font-weight="400" font-size="16px">8</tspan></text>
+<text id="label18" class="for_r18" text-anchor="end" x="634.7945" y="577.45991" font-weight="400" font-size="16px" dy="-2.49601">System<tspan x="634.7945" dy="15.2" font-weight="400" font-size="16px">5</tspan></text>
+<text id="label19" class="for_r19" text-anchor="end" x="634.7945" y="475.54971" font-weight="400" font-size="16px" dy="-2.49601">Technique<tspan x="634.7945" dy="15.2" font-weight="400" font-size="16px">54</tspan></text>
+<text id="label20" class="for_r20" text-anchor="end" x="848.49234" y="457.42236" font-weight="400" font-size="16px" dy="-2.49601">Benchmarking<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">51</tspan></text>
+<text id="label21" class="for_r21" text-anchor="end" x="848.49234" y="144.52717" font-weight="400" font-size="16px" dy="-2.49601">Human Experimentation<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">42</tspan></text>
+<text id="label22" class="for_r22" text-anchor="end" x="848.49234" y="254.79607" font-weight="400" font-size="16px" dy="-2.49601">Interview<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">24</tspan></text>
+<text id="label23" class="for_r23" text-anchor="end" x="848.49234" y="339.98887" font-weight="400" font-size="16px" dy="-2.49601">Questionnaire<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">21</tspan></text>
+<text id="label24" class="for_r24" text-anchor="end" x="848.49234" y="608.70238" font-weight="400" font-size="16px" dy="-2.49601">Data Science<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">19</tspan></text>
+<text id="label25" class="for_r25" text-anchor="end" x="848.49234" y="552.16796" font-weight="400" font-size="16px" dy="-2.49601">Engineering Research<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">2</tspan></text>
+<text id="label26" class="for_r26" text-anchor="end" x="848.49234" y="665.2368" font-weight="400" font-size="16px" dy="-2.49601">Meta Science<tspan x="848.49234" dy="15.2" font-weight="400" font-size="16px">2</tspan></text>
+</g>
+</g></svg>

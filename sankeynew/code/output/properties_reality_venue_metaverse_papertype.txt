@@ -1,0 +1,106 @@
+Authentication [12] Virtual Reality
+Confidentiality [3] Virtual Reality
+Authorization [1] Virtual Reality
+Integrity [7] Virtual Reality
+Identification [4] Virtual Reality
+Non-repudiation [1] Virtual Reality
+Unobservability [7] Virtual Reality
+Awareness [3] Virtual Reality
+Anonymity [4] Virtual Reality
+Policy [1] Virtual Reality
+Unlinkability [2] Virtual Reality
+Deniability [1] Virtual Reality
+Authentication [5] Augmented Reality
+Confidentiality [8] Augmented Reality
+Authorization [6] Augmented Reality
+Integrity [1] Augmented Reality
+Identification [2] Augmented Reality
+Availability [2] Augmented Reality
+Non-repudiation [2] Augmented Reality
+Unobservability [2] Augmented Reality
+Awareness [5] Augmented Reality
+Anonymity [3] Augmented Reality
+Policy [2] Augmented Reality
+Unlinkability [2] Augmented Reality
+Deniability [1] Augmented Reality
+Confidentiality [2] Mixed Reality
+Authorization [2] Mixed Reality
+Availability [1] Mixed Reality
+Unobservability [3] Mixed Reality
+Anonymity [1] Mixed Reality
+Policy [1] Mixed Reality
+Deniability [1] Mixed Reality
+Authentication [1] Extended Reality
+Identification [1] Extended Reality
+Availability [1] Extended Reality
+Unobservability [1] Extended Reality
+Awareness [1] Extended Reality
+Unlinkability [1] Extended Reality
+Virtual Reality [6] CHI
+Augmented Reality [3] CHI
+Extended Reality [1] CHI
+Virtual Reality [16] Other Venues
+Augmented Reality [20] Other Venues
+Mixed Reality [5] Other Venues
+Extended Reality [4] Other Venues
+Virtual Reality [3] SP
+Augmented Reality [5] SP
+Virtual Reality [3] TVCG
+Augmented Reality [2] TVCG
+Mixed Reality [1] TVCG
+Virtual Reality [1] UIST
+Augmented Reality [4] UIST
+Virtual Reality [6] USS
+Augmented Reality [5] USS
+Mixed Reality [3] USS
+Extended Reality [1] USS
+Virtual Reality [11] VR
+Augmented Reality [2] VR
+Mixed Reality [2] VR
+CHI [7] Virtual World
+CHI [5] Lifelogging
+CHI [3] Augmented Reality
+CHI [1] Mirror World
+Other Venues [20] Virtual World
+Other Venues [18] Lifelogging
+Other Venues [20] Augmented Reality
+Other Venues [12] Mirror World
+SP [3] Virtual World
+SP [2] Lifelogging
+SP [5] Augmented Reality
+SP [1] Mirror World
+TVCG [3] Virtual World
+TVCG [3] Lifelogging
+TVCG [2] Augmented Reality
+TVCG [1] Mirror World
+UIST [1] Virtual World
+UIST [3] Lifelogging
+UIST [4] Augmented Reality
+USS [7] Virtual World
+USS [7] Lifelogging
+USS [5] Augmented Reality
+USS [6] Mirror World
+VR [11] Virtual World
+VR [9] Lifelogging
+VR [2] Augmented Reality
+VR [2] Mirror World
+Virtual World [10] Application
+Lifelogging [8] Application
+Augmented Reality [13] Application
+Mirror World [5] Application
+Virtual World [20] Evaluation
+Lifelogging [11] Evaluation
+Augmented Reality [11] Evaluation
+Mirror World [5] Evaluation
+Virtual World [2] Model
+Lifelogging [2] Model
+Augmented Reality [2] Model
+Mirror World [2] Model
+Virtual World [1] System
+Lifelogging [2] System
+Augmented Reality [3] System
+Mirror World [2] System
+Virtual World [19] Technique
+Lifelogging [24] Technique
+Augmented Reality [12] Technique
+Mirror World [9] Technique

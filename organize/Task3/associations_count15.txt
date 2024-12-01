@@ -1,0 +1,185 @@
+//Associations between Evaluation and Paper Type:
+AP [14] Application
+AP [6] Evaluation
+AP [3] Model
+AP [2] System
+AP [28] Technique
+UE [6] Application
+UE [19] Evaluation
+UE [1] Model
+UE [4] Technique
+UP [2] Application
+UP [6] Evaluation
+UP [1] Technique
+UWP [3] Application
+UWP [8] Evaluation
+UWP [2] System
+UWP [1] Technique
+
+//Associations between Paper Type and Venue:
+Application [6] USS
+Application [1] UIST
+Application [1] TVCG
+Application [6] Other Venues
+Application [2] CHI
+Application [2] VR_Conf
+Application [3] SP
+Evaluation [4] USS
+Evaluation [11] Other Venues
+Evaluation [7] CHI
+Evaluation [2] SP
+Evaluation [3] VR_Conf
+Evaluation [2] UIST
+Evaluation [1] TVCG
+Model [4] Other Venues
+System [1] CHI
+System [3] Other Venues
+Technique [2] SP
+Technique [10] Other Venues
+Technique [3] USS
+Technique [2] UIST
+Technique [3] TVCG
+Technique [8] VR_Conf
+
+//Associations between Venue and Topic:
+USS [2] Authorization
+USS [2] Confidentiality
+USS [1] Non-repudiation
+USS [2] Policy
+USS [1] Integrity
+USS [4] Unobservability
+USS [1] Unlinkability
+UIST [1] Unlinkability
+UIST [2] Awareness
+UIST [1] Integrity
+UIST [1] Confidentiality
+TVCG [1] Integrity
+TVCG [1] Confidentiality
+TVCG [2] Anonymity
+TVCG [1] Unobservability
+Other Venues [3] Confidentiality
+Other Venues [2] Policy
+Other Venues [2] Availability
+Other Venues [8] Authentication
+Other Venues [1] Non-repudiation
+Other Venues [3] Identification
+Other Venues [2] Unobservability
+Other Venues [4] Awareness
+Other Venues [3] Integrity
+Other Venues [4] Authorization
+Other Venues [1] Unlinkability
+Other Venues [1] Anonymity
+CHI [1] Deniability
+CHI [2] Awareness
+CHI [2] Confidentiality
+CHI [1] Unobservability
+CHI [2] Identification
+CHI [1] Authentication
+CHI [1] Authorization
+VR_Conf [4] Authentication
+VR_Conf [1] Integrity
+VR_Conf [1] Confidentiality
+VR_Conf [3] Unobservability
+VR_Conf [1] Deniability
+VR_Conf [1] Identification
+VR_Conf [1] Unlinkability
+VR_Conf [1] Anonymity
+SP [1] Authorization
+SP [2] Anonymity
+SP [1] Awareness
+SP [2] Authentication
+SP [1] Identification
+
+//Associations between Topic and Reality:
+Authorization [2] MR
+Authorization [6] AR
+Authorization [1] VR
+Confidentiality [8] AR
+Confidentiality [2] MR
+Confidentiality [3] VR
+Non-repudiation [2] AR
+Non-repudiation [1] VR
+Unlinkability [2] AR
+Unlinkability [2] VR
+Unlinkability [1] XR
+Integrity [7] VR
+Integrity [1] AR
+Policy [1] VR
+Policy [2] AR
+Policy [1] MR
+Deniability [1] VR
+Deniability [1] MR
+Deniability [1] AR
+Awareness [5] AR
+Awareness [3] VR
+Awareness [1] XR
+Availability [1] XR
+Availability [1] MR
+Availability [2] AR
+Authentication [12] VR
+Authentication [5] AR
+Authentication [1] XR
+Anonymity [3] AR
+Anonymity [4] VR
+Anonymity [1] MR
+Unobservability [7] VR
+Unobservability [1] XR
+Unobservability [3] MR
+Unobservability [2] AR
+Identification [4] VR
+Identification [2] AR
+Identification [1] XR
+
+//Associations between Topic and Metaverse:
+Authorization [2] MW
+Authorization [6] AR
+Authorization [2] LL
+Authorization [1] VW
+Confidentiality [8] AR
+Confidentiality [2] MW
+Confidentiality [6] LL
+Confidentiality [3] VW
+Non-repudiation [1] VW
+Non-repudiation [1] MW
+Non-repudiation [2] AR
+Non-repudiation [1] LL
+Unlinkability [2] AR
+Unlinkability [3] VW
+Unlinkability [2] MW
+Unlinkability [3] LL
+Integrity [7] VW
+Integrity [2] LL
+Integrity [1] MW
+Integrity [1] AR
+Policy [1] VW
+Policy [2] AR
+Policy [1] MW
+Deniability [1] VW
+Deniability [1] LL
+Deniability [1] MW
+Deniability [1] AR
+Awareness [5] AR
+Awareness [4] VW
+Awareness [1] MW
+Awareness [3] LL
+Availability [1] VW
+Availability [1] MW
+Availability [2] AR
+Availability [1] LL
+Authentication [13] VW
+Authentication [9] LL
+Authentication [4] MW
+Authentication [5] AR
+Anonymity [3] AR
+Anonymity [5] LL
+Anonymity [4] VW
+Anonymity [2] MW
+Unobservability [8] VW
+Unobservability [9] LL
+Unobservability [4] MW
+Unobservability [2] AR
+Identification [5] VW
+Identification [5] LL
+Identification [2] AR
+Identification [1] MW
+

@@ -1,0 +1,106 @@
+Benchmarking,VR,Virtual World,7
+Benchmarking,VR,Lifelogging,8
+Benchmarking,VR,Augmented Reality,2
+Benchmarking,VR,Mirror World,2
+Benchmarking,CHI,Virtual World,1
+Benchmarking,CHI,Lifelogging,1
+Benchmarking,UIST,Virtual World,1
+Benchmarking,UIST,Lifelogging,1
+Benchmarking,UIST,Augmented Reality,1
+Benchmarking,TVCG,Virtual World,2
+Benchmarking,TVCG,Lifelogging,3
+Benchmarking,TVCG,Augmented Reality,2
+Benchmarking,TVCG,Mirror World,1
+Benchmarking,Other Venues,Virtual World,12
+Benchmarking,Other Venues,Lifelogging,15
+Benchmarking,Other Venues,Augmented Reality,12
+Benchmarking,Other Venues,Mirror World,10
+Benchmarking,USS,Virtual World,7
+Benchmarking,USS,Lifelogging,7
+Benchmarking,USS,Augmented Reality,5
+Benchmarking,USS,Mirror World,4
+Benchmarking,SP,Virtual World,2
+Benchmarking,SP,Lifelogging,2
+Benchmarking,SP,Augmented Reality,2
+Human Experimentation,VR,Virtual World,5
+Human Experimentation,VR,Lifelogging,3
+Human Experimentation,VR,Augmented Reality,1
+Human Experimentation,VR,Mirror World,1
+Human Experimentation,CHI,Virtual World,7
+Human Experimentation,CHI,Lifelogging,4
+Human Experimentation,CHI,Augmented Reality,1
+Human Experimentation,CHI,Mirror World,1
+Human Experimentation,UIST,Lifelogging,2
+Human Experimentation,UIST,Augmented Reality,3
+Human Experimentation,TVCG,Virtual World,2
+Human Experimentation,TVCG,Lifelogging,1
+Human Experimentation,Other Venues,Virtual World,10
+Human Experimentation,Other Venues,Lifelogging,7
+Human Experimentation,Other Venues,Augmented Reality,8
+Human Experimentation,Other Venues,Mirror World,3
+Human Experimentation,USS,Virtual World,1
+Human Experimentation,USS,Lifelogging,2
+Human Experimentation,USS,Augmented Reality,1
+Human Experimentation,USS,Mirror World,2
+Human Experimentation,SP,Virtual World,2
+Human Experimentation,SP,Lifelogging,1
+Human Experimentation,SP,Augmented Reality,1
+Interview,VR,Virtual World,2
+Interview,VR,Lifelogging,1
+Interview,CHI,Virtual World,4
+Interview,CHI,Lifelogging,3
+Interview,CHI,Augmented Reality,2
+Interview,CHI,Mirror World,1
+Interview,UIST,Lifelogging,2
+Interview,UIST,Augmented Reality,3
+Interview,TVCG,Virtual World,2
+Interview,TVCG,Lifelogging,1
+Interview,Other Venues,Virtual World,5
+Interview,Other Venues,Lifelogging,1
+Interview,Other Venues,Augmented Reality,2
+Interview,USS,Lifelogging,1
+Interview,USS,Mirror World,2
+Interview,SP,Virtual World,1
+Interview,SP,Augmented Reality,2
+Interview,SP,Mirror World,1
+Questionnaire,VR,Virtual World,3
+Questionnaire,VR,Lifelogging,1
+Questionnaire,VR,Augmented Reality,1
+Questionnaire,VR,Mirror World,1
+Questionnaire,CHI,Virtual World,3
+Questionnaire,CHI,Lifelogging,2
+Questionnaire,CHI,Augmented Reality,1
+Questionnaire,TVCG,Virtual World,1
+Questionnaire,Other Venues,Virtual World,4
+Questionnaire,Other Venues,Lifelogging,4
+Questionnaire,Other Venues,Augmented Reality,7
+Questionnaire,Other Venues,Mirror World,3
+Questionnaire,USS,Virtual World,1
+Questionnaire,USS,Lifelogging,1
+Questionnaire,USS,Augmented Reality,1
+Questionnaire,SP,Augmented Reality,1
+Data Science,VR,Virtual World,5
+Data Science,VR,Lifelogging,5
+Data Science,UIST,Virtual World,1
+Data Science,UIST,Lifelogging,1
+Data Science,UIST,Augmented Reality,1
+Data Science,TVCG,Virtual World,1
+Data Science,TVCG,Lifelogging,1
+Data Science,TVCG,Mirror World,1
+Data Science,Other Venues,Virtual World,6
+Data Science,Other Venues,Lifelogging,7
+Data Science,Other Venues,Augmented Reality,4
+Data Science,Other Venues,Mirror World,4
+Data Science,USS,Virtual World,2
+Data Science,USS,Lifelogging,2
+Data Science,USS,Augmented Reality,1
+Data Science,USS,Mirror World,1
+Data Science,SP,Virtual World,1
+Data Science,SP,Lifelogging,1
+Engineering Research,Other Venues,Augmented Reality,1
+Engineering Research,Other Venues,Mirror World,1
+Engineering Research,USS,Virtual World,1
+Engineering Research,USS,Lifelogging,1
+Engineering Research,USS,Mirror World,1
+Meta Science,Other Venues,Virtual World,1
+Meta Science,Other Venues,Augmented Reality,1

@@ -1,0 +1,77 @@
+//Associations between Evaluation and Paper Type:
+AP [14] Application
+AP [6] Evaluation
+AP [3] Model
+AP [2] System
+AP [28] Technique
+UE [6] Application
+UE [19] Evaluation
+UE [1] Model
+UE [4] Technique
+UP [2] Application
+UP [6] Evaluation
+UP [1] Technique
+UWP [3] Application
+UWP [8] Evaluation
+UWP [2] System
+UWP [1] Technique
+
+//Associations between Paper Type and Venue:
+Application [13] Other Venues
+Evaluation [26] Other Venues
+Model [4] Other Venues
+System [3] Other Venues
+Technique [26] Other Venues
+
+//Associations between Venue and Topic:
+Other Venues [2] Deniability
+Other Venues [3] Awareness
+Other Venues [3] Confidentiality
+Other Venues [4] Unobservability
+Other Venues [4] Identification
+Other Venues [7] Authentication
+Other Venues [2] Authorization
+Other Venues [1] Integrity
+Other Venues [1] Unlinkability
+Other Venues [3] Anonymity
+
+//Associations between Topic and Reality:
+Authorization [2] MR
+Authorization [6] AR
+Authorization [1] VR
+Confidentiality [8] AR
+Confidentiality [2] MR
+Confidentiality [3] VR
+Non-repudiation [2] AR
+Non-repudiation [1] VR
+Unlinkability [2] AR
+Unlinkability [2] VR
+Unlinkability [1] XR
+Integrity [7] VR
+Integrity [1] AR
+Policy [1] VR
+Policy [2] AR
+Policy [1] MR
+Deniability [1] VR
+Deniability [1] MR
+Deniability [1] AR
+Awareness [5] AR
+Awareness [3] VR
+Awareness [1] XR
+Availability [1] XR
+Availability [1] MR
+Availability [2] AR
+Authentication [12] VR
+Authentication [5] AR
+Authentication [1] XR
+Anonymity [3] AR
+Anonymity [4] VR
+Anonymity [1] MR
+Unobservability [7] VR
+Unobservability [1] XR
+Unobservability [3] MR
+Unobservability [2] AR
+Identification [4] VR
+Identification [2] AR
+Identification [1] XR
+

@@ -1,0 +1,66 @@
+VR,Application,Virtual World,2
+VR,Application,Lifelogging,1
+VR,Evaluation,Virtual World,3
+VR,Evaluation,Lifelogging,1
+VR,Technique,Virtual World,6
+VR,Technique,Lifelogging,7
+VR,Technique,Augmented Reality,2
+VR,Technique,Mirror World,2
+CHI,Application,Virtual World,1
+CHI,Application,Lifelogging,1
+CHI,Application,Augmented Reality,1
+CHI,Evaluation,Virtual World,6
+CHI,Evaluation,Lifelogging,4
+CHI,Evaluation,Augmented Reality,1
+CHI,Evaluation,Mirror World,1
+CHI,System,Augmented Reality,1
+UIST,Application,Augmented Reality,1
+UIST,Evaluation,Lifelogging,2
+UIST,Evaluation,Augmented Reality,2
+UIST,Technique,Virtual World,1
+UIST,Technique,Lifelogging,1
+UIST,Technique,Augmented Reality,1
+TVCG,Application,Virtual World,1
+TVCG,Evaluation,Augmented Reality,1
+TVCG,Technique,Virtual World,2
+TVCG,Technique,Lifelogging,3
+TVCG,Technique,Augmented Reality,1
+TVCG,Technique,Mirror World,1
+Other Venues,Application,Virtual World,3
+Other Venues,Application,Lifelogging,4
+Other Venues,Application,Augmented Reality,5
+Other Venues,Application,Mirror World,3
+Other Venues,Evaluation,Virtual World,7
+Other Venues,Evaluation,Lifelogging,1
+Other Venues,Evaluation,Augmented Reality,4
+Other Venues,Model,Virtual World,2
+Other Venues,Model,Lifelogging,2
+Other Venues,Model,Augmented Reality,2
+Other Venues,Model,Mirror World,2
+Other Venues,System,Virtual World,1
+Other Venues,System,Lifelogging,2
+Other Venues,System,Augmented Reality,2
+Other Venues,System,Mirror World,2
+Other Venues,Technique,Virtual World,7
+Other Venues,Technique,Lifelogging,9
+Other Venues,Technique,Augmented Reality,7
+Other Venues,Technique,Mirror World,5
+USS,Application,Virtual World,3
+USS,Application,Lifelogging,1
+USS,Application,Augmented Reality,3
+USS,Application,Mirror World,1
+USS,Evaluation,Virtual World,3
+USS,Evaluation,Lifelogging,3
+USS,Evaluation,Augmented Reality,1
+USS,Evaluation,Mirror World,3
+USS,Technique,Virtual World,1
+USS,Technique,Lifelogging,3
+USS,Technique,Augmented Reality,1
+USS,Technique,Mirror World,1
+SP,Application,Lifelogging,1
+SP,Application,Augmented Reality,3
+SP,Evaluation,Virtual World,1
+SP,Evaluation,Augmented Reality,2
+SP,Evaluation,Mirror World,1
+SP,Technique,Virtual World,2
+SP,Technique,Lifelogging,1

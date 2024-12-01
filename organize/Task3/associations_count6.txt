@@ -1,0 +1,144 @@
+Associations between Venue and Topic:
+USS [5] New Attacks
+USS [3] Awareness
+USS [2] Authentication
+USS [1] Challenges
+USS [2] Lesson Learned
+UIST [2] Awareness
+UIST [2] Lesson Learned
+UIST [1] New Attacks
+TVCG [4] Awareness
+TVCG [1] Lesson Learned
+ISMAR [3] Awareness
+TOPS [1] Authentication
+TOPS [1] Challenges
+CHI [1] Challenges
+CHI [8] Lesson Learned
+CHI [1] Awareness
+NDSS [1] New Attacks
+NDSS [1] Authentication
+VR [2] Authentication
+VR [6] Lesson Learned
+VR [1] Awareness
+VR [5] New Attacks
+SP [1] Awareness
+SP [2] Authentication
+SP [2] Lesson Learned
+SP [1] Challenges
+SP [1] New Attacks
+ACSAC [2] Awareness
+ACSAC [1] New Attacks
+TrustCom [1] Awareness
+PETS [1] Challenges
+PETS [2] Lesson Learned
+SOUPS [2] Lesson Learned
+SOUPS [2] Awareness
+CS [1] Awareness
+CS [1] Challenges
+TODSC [1] Awareness
+TODSC [1] Lesson Learned
+PACIFICVIS [1] Lesson Learned
+FC [1] Authentication
+FC [1] Lesson Learned
+ARES [2] Awareness
+ESORICS [1] Authentication
+CCS [1] Awareness
+CCS [1] New Attacks
+TOIFS [1] Authentication
+TOIFS [1] Lesson Learned
+RAID [1] Authentication
+WiSec [1] Authentication
+
+Associations between Topic and Paper Type:
+New Attacks [3] Application
+New Attacks [1] Evaluation
+New Attacks [11] Technique
+Awareness [9] Application
+Awareness [5] Evaluation
+Awareness [1] Model
+Awareness [4] System
+Awareness [6] Technique
+Authentication [4] Application
+Authentication [2] Evaluation
+Authentication [1] Model
+Authentication [6] Technique
+Challenges [2] Application
+Challenges [2] Evaluation
+Challenges [1] Model
+Challenges [1] Technique
+Lesson Learned [3] Application
+Lesson Learned [21] Evaluation
+Lesson Learned [1] Model
+Lesson Learned [4] Technique
+
+Associations between Topic and Metaverse:
+New Attacks [9] MW
+New Attacks [8] AR
+New Attacks [4] VW
+New Attacks [6] LL
+Awareness [14] MW
+Awareness [16] AR
+Awareness [8] VW
+Awareness [5] LL
+Authentication [4] AR
+Authentication [9] MW
+Authentication [4] VW
+Authentication [3] LL
+Authentication [1] MR
+Challenges [3] MW
+Challenges [4] AR
+Challenges [2] LL
+Challenges [1] VW
+Lesson Learned [12] AR
+Lesson Learned [11] VW
+Lesson Learned [13] MW
+Lesson Learned [5] LL
+
+Associations between Paper Type and Venue:
+Application [6] USS
+Application [1] UIST
+Application [1] TVCG
+Application [2] ISMAR
+Application [1] TOPS
+Application [2] CHI
+Application [1] NDSS
+Application [2] VR
+Application [3] SP
+Application [1] ACSAC
+Application [1] TrustCom
+Evaluation [4] USS
+Evaluation [1] ACSAC
+Evaluation [2] PETS
+Evaluation [4] SOUPS
+Evaluation [1] CS
+Evaluation [7] CHI
+Evaluation [2] SP
+Evaluation [4] VR
+Evaluation [1] TODSC
+Evaluation [2] UIST
+Evaluation [1] PACIFICVIS
+Evaluation [1] TVCG
+Evaluation [1] FC
+Model [1] PETS
+Model [1] CS
+Model [1] ARES
+Model [1] ESORICS
+System [1] CHI
+System [1] ARES
+System [1] ISMAR
+System [1] CCS
+Technique [2] SP
+Technique [1] NDSS
+Technique [3] USS
+Technique [1] CCS
+Technique [2] UIST
+Technique [2] TOIFS
+Technique [3] TVCG
+Technique [1] RAID
+Technique [8] VR
+Technique [1] WiSec
+Technique [1] ACSAC
+Technique [1] TOPS
+Technique [1] TODSC
+Technique [1] FC
+

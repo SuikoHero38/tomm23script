@@ -1,0 +1,61 @@
+Application,Virtual World,Virtual Reality,9
+Application,Virtual World,Augmented Reality,3
+Application,Virtual World,Mixed Reality,2
+Application,Virtual World,Extended Reality,1
+Application,Lifelogging,Virtual Reality,5
+Application,Lifelogging,Augmented Reality,5
+Application,Lifelogging,Mixed Reality,3
+Application,Lifelogging,Extended Reality,1
+Application,Augmented Reality,Virtual Reality,2
+Application,Augmented Reality,Augmented Reality,13
+Application,Augmented Reality,Mixed Reality,3
+Application,Augmented Reality,Extended Reality,1
+Application,Mirror World,Virtual Reality,2
+Application,Mirror World,Augmented Reality,4
+Application,Mirror World,Mixed Reality,3
+Application,Mirror World,Extended Reality,1
+Evaluation,Virtual World,Virtual Reality,18
+Evaluation,Virtual World,Augmented Reality,2
+Evaluation,Virtual World,Extended Reality,2
+Evaluation,Lifelogging,Virtual Reality,5
+Evaluation,Lifelogging,Augmented Reality,5
+Evaluation,Lifelogging,Extended Reality,2
+Evaluation,Augmented Reality,Virtual Reality,2
+Evaluation,Augmented Reality,Augmented Reality,11
+Evaluation,Mirror World,Virtual Reality,2
+Evaluation,Mirror World,Augmented Reality,2
+Evaluation,Mirror World,Mixed Reality,1
+Evaluation,Mirror World,Extended Reality,2
+Model,Virtual World,Virtual Reality,1
+Model,Virtual World,Extended Reality,1
+Model,Lifelogging,Augmented Reality,1
+Model,Lifelogging,Mixed Reality,1
+Model,Lifelogging,Extended Reality,1
+Model,Augmented Reality,Augmented Reality,2
+Model,Augmented Reality,Mixed Reality,1
+Model,Mirror World,Augmented Reality,1
+Model,Mirror World,Mixed Reality,1
+Model,Mirror World,Extended Reality,1
+System,Virtual World,Extended Reality,1
+System,Lifelogging,Augmented Reality,1
+System,Lifelogging,Extended Reality,1
+System,Augmented Reality,Augmented Reality,3
+System,Augmented Reality,Mixed Reality,1
+System,Mirror World,Augmented Reality,1
+System,Mirror World,Mixed Reality,1
+System,Mirror World,Extended Reality,1
+Technique,Virtual World,Virtual Reality,18
+Technique,Virtual World,Augmented Reality,4
+Technique,Virtual World,Mixed Reality,1
+Technique,Virtual World,Extended Reality,1
+Technique,Lifelogging,Virtual Reality,16
+Technique,Lifelogging,Augmented Reality,10
+Technique,Lifelogging,Mixed Reality,3
+Technique,Lifelogging,Extended Reality,1
+Technique,Augmented Reality,Virtual Reality,4
+Technique,Augmented Reality,Augmented Reality,12
+Technique,Augmented Reality,Mixed Reality,2
+Technique,Mirror World,Virtual Reality,5
+Technique,Mirror World,Augmented Reality,6
+Technique,Mirror World,Mixed Reality,4
+Technique,Mirror World,Extended Reality,1

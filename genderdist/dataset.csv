@@ -1,0 +1,22 @@
+﻿Paper Title,Reference Id,Ref,Paper Type,Participant Number,Male Participant Number,Female Participant Number,Question Available
+OcuLock: Exploring Human Visual System for Authentication in Virtual Reality Head-mounted Display,metaversepaper009,[36],Application,70,43,27,No
+HoloPair: Securing Shared Augmented Reality Using Microsoft HoloLens,metaversepaper027,[50],Application,22,18,14,Yes
+Exploring the Privacy Risks of Adversarial VR Game Design,metaversepaper042,[40],Evaluation,50,26,24,Yes
+Speculative Privacy Concerns About AR Glasses Data Collection,metaversepaper043,[13],Evaluation,21,10,7,Yes
+Investigating Security Indicators for Hyperlinking Within the Metaverse,metaversepaper049,[59],Evaluation,25,11,14,No
+"An Investigation of Teenager Experiences in Social Virtual Reality from Teenagers', Parents', and Bystanders' Perspectives",metaversepaper050,[7],Evaluation,24,15,8,Yes
+SoK: Authentication in Augmented and Virtual Reality,metaversepaper006,[51],Evaluation,139,127,8,Yes
+Evaluating and redefining smartphone permissions with contextualized justifications for mobile augmented reality apps,metaversepaper048,[17],Evaluation,289,113,165,Yes
+Towards Security and Privacy for Multi-user Augmented Reality: Foundations with End Users,metaversepaper005,[29],Evaluation,22,15,7,Yes
+Ethics emerging: The story of privacy and security perceptions in virtual reality,metaversepaper047,[2],Evaluation,98,68,30,Yes
+Design and Analysis of Shoulder Surfing Resistant PIN Based Authentication Mechanisms on Google Glass,metaversepaper031,[63],Evaluation,30,19,11,No
+Usability of augmented reality for revealing secret messages to users but not their devices,metaversepaper046,[3],Evaluation,31,22,9,Yes
+Understanding Person Identification Through Gait,metaversepaper041,[16],Model,22,13,9,No
+Privacy Leakage via Unrestricted Motion-Position Sensors in the Age of Virtual Reality: A Study of Snooping Typed Input on Virtual Keyboards,metaversepaper007,[61],Technique,14,11,3,No
+Low-effort VR Headset User Authentication Using Head-reverberated Sounds with Replay Resistance,metaversepaper008,[58],Technique,30,23,7,No
+"Hidden Reality: Caution, Your Hand Gesture Inputs in the Immersive Virtual World are Visible to All!",metaversepaper020,[15],Technique,42,23,18,Yes
+Designing Leakage-Resilient Password Entry on Head-Mounted Smart Wearable Glass Devices,metaversepaper036,[34],Technique,57,29,28,No
+GaitLock: Protect Virtual and Augmented Reality Headsets Using Gait,metaversepaper032,[48],Technique,20,12,8,No
+Virtual U: Defeating Face Liveness Detection by Building Virtual Models From Your Public Photos,metaversepaper016,[62],Technique,20,14,6,No
+FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors,metaversepaper059,,Technique,34,24,10,No
+,,,,,,,

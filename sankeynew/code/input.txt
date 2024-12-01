@@ -1,0 +1,4 @@
+properties,metaverse,venue,evaluation,papertype
+properties,reality,venue,evaluation,papertype
+properties,reality,venue,metaverse,papertype
+properties,metaverse,venue,reality,papertype

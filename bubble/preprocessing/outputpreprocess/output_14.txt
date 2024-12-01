@@ -1,0 +1,46 @@
+Application,Algorithm Performance,Virtual Reality,5
+Application,Algorithm Performance,Augmented Reality,7
+Application,Algorithm Performance,Mixed Reality,1
+Application,Algorithm Performance,Extended Reality,1
+Application,Environment and Practices,Virtual Reality,5
+Application,Environment and Practices,Augmented Reality,5
+Application,Environment and Practices,Mixed Reality,2
+Application,User Performance,Virtual Reality,4
+Application,User Performance,Augmented Reality,2
+Application,User Performance,Mixed Reality,1
+Application,User Experience,Virtual Reality,3
+Application,User Experience,Augmented Reality,4
+Application,User Experience,Mixed Reality,2
+Evaluation,Algorithm Performance,Virtual Reality,3
+Evaluation,Algorithm Performance,Augmented Reality,2
+Evaluation,Algorithm Performance,Extended Reality,1
+Evaluation,Environment and Practices,Virtual Reality,15
+Evaluation,Environment and Practices,Augmented Reality,9
+Evaluation,Environment and Practices,Mixed Reality,1
+Evaluation,Environment and Practices,Extended Reality,1
+Evaluation,User Performance,Virtual Reality,6
+Evaluation,User Performance,Augmented Reality,2
+Evaluation,User Performance,Mixed Reality,1
+Evaluation,User Experience,Virtual Reality,6
+Evaluation,User Experience,Augmented Reality,5
+Model,Algorithm Performance,Virtual Reality,1
+Model,Algorithm Performance,Augmented Reality,1
+Model,Algorithm Performance,Mixed Reality,1
+Model,Algorithm Performance,Extended Reality,1
+Model,Environment and Practices,Augmented Reality,1
+System,Algorithm Performance,Augmented Reality,1
+System,Algorithm Performance,Extended Reality,1
+System,Environment and Practices,Augmented Reality,2
+System,Environment and Practices,Mixed Reality,1
+Technique,Algorithm Performance,Virtual Reality,18
+Technique,Algorithm Performance,Augmented Reality,12
+Technique,Algorithm Performance,Mixed Reality,4
+Technique,Algorithm Performance,Extended Reality,1
+Technique,Environment and Practices,Virtual Reality,1
+Technique,Environment and Practices,Augmented Reality,3
+Technique,Environment and Practices,Mixed Reality,2
+Technique,User Performance,Virtual Reality,3
+Technique,User Performance,Augmented Reality,3
+Technique,User Experience,Virtual Reality,3
+Technique,User Experience,Augmented Reality,2
+Technique,User Experience,Mixed Reality,2

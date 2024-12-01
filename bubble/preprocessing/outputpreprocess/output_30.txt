@@ -1,0 +1,63 @@
+VR,Virtual World,Virtual Reality,11
+VR,Lifelogging,Virtual Reality,8
+VR,Lifelogging,Augmented Reality,1
+VR,Lifelogging,Mixed Reality,1
+VR,Augmented Reality,Augmented Reality,2
+VR,Augmented Reality,Mixed Reality,2
+VR,Mirror World,Augmented Reality,2
+VR,Mirror World,Mixed Reality,2
+CHI,Virtual World,Virtual Reality,6
+CHI,Virtual World,Extended Reality,1
+CHI,Lifelogging,Virtual Reality,3
+CHI,Lifelogging,Augmented Reality,1
+CHI,Lifelogging,Extended Reality,1
+CHI,Augmented Reality,Augmented Reality,3
+CHI,Mirror World,Extended Reality,1
+UIST,Virtual World,Virtual Reality,1
+UIST,Lifelogging,Augmented Reality,3
+UIST,Augmented Reality,Augmented Reality,4
+TVCG,Virtual World,Virtual Reality,3
+TVCG,Virtual World,Mixed Reality,1
+TVCG,Lifelogging,Virtual Reality,2
+TVCG,Lifelogging,Augmented Reality,1
+TVCG,Lifelogging,Mixed Reality,1
+TVCG,Augmented Reality,Augmented Reality,2
+TVCG,Mirror World,Virtual Reality,1
+TVCG,Mirror World,Mixed Reality,1
+Other Venues,Virtual World,Virtual Reality,16
+Other Venues,Virtual World,Augmented Reality,6
+Other Venues,Virtual World,Mixed Reality,2
+Other Venues,Virtual World,Extended Reality,4
+Other Venues,Lifelogging,Virtual Reality,8
+Other Venues,Lifelogging,Augmented Reality,12
+Other Venues,Lifelogging,Mixed Reality,4
+Other Venues,Lifelogging,Extended Reality,4
+Other Venues,Augmented Reality,Virtual Reality,5
+Other Venues,Augmented Reality,Augmented Reality,20
+Other Venues,Augmented Reality,Mixed Reality,5
+Other Venues,Augmented Reality,Extended Reality,1
+Other Venues,Mirror World,Virtual Reality,5
+Other Venues,Mirror World,Augmented Reality,9
+Other Venues,Mirror World,Mixed Reality,5
+Other Venues,Mirror World,Extended Reality,4
+USS,Virtual World,Virtual Reality,6
+USS,Virtual World,Augmented Reality,2
+USS,Virtual World,Extended Reality,1
+USS,Lifelogging,Virtual Reality,4
+USS,Lifelogging,Augmented Reality,3
+USS,Lifelogging,Mixed Reality,1
+USS,Lifelogging,Extended Reality,1
+USS,Augmented Reality,Virtual Reality,2
+USS,Augmented Reality,Augmented Reality,5
+USS,Mirror World,Virtual Reality,2
+USS,Mirror World,Augmented Reality,2
+USS,Mirror World,Mixed Reality,2
+USS,Mirror World,Extended Reality,1
+SP,Virtual World,Virtual Reality,3
+SP,Virtual World,Augmented Reality,1
+SP,Lifelogging,Virtual Reality,1
+SP,Lifelogging,Augmented Reality,1
+SP,Augmented Reality,Virtual Reality,1
+SP,Augmented Reality,Augmented Reality,5
+SP,Mirror World,Virtual Reality,1
+SP,Mirror World,Augmented Reality,1

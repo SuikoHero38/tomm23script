@@ -1,0 +1,79 @@
+CHI [6] Virtual Reality
+CHI [3] Augmented Reality
+CHI [1] Extended Reality
+Other Venues [16] Virtual Reality
+Other Venues [20] Augmented Reality
+Other Venues [5] Mixed Reality
+Other Venues [4] Extended Reality
+SP [3] Virtual Reality
+SP [5] Augmented Reality
+TVCG [3] Virtual Reality
+TVCG [2] Augmented Reality
+TVCG [1] Mixed Reality
+UIST [1] Virtual Reality
+UIST [4] Augmented Reality
+USS [6] Virtual Reality
+USS [5] Augmented Reality
+USS [3] Mixed Reality
+USS [1] Extended Reality
+VR [11] Virtual Reality
+VR [2] Augmented Reality
+VR [2] Mixed Reality
+Virtual Reality [9] Application
+Augmented Reality [13] Application
+Mixed Reality [4] Application
+Extended Reality [1] Application
+Virtual Reality [18] Evaluation
+Augmented Reality [11] Evaluation
+Mixed Reality [1] Evaluation
+Extended Reality [2] Evaluation
+Virtual Reality [1] Model
+Augmented Reality [2] Model
+Mixed Reality [1] Model
+Extended Reality [1] Model
+Augmented Reality [3] System
+Mixed Reality [1] System
+Extended Reality [1] System
+Virtual Reality [18] Technique
+Augmented Reality [12] Technique
+Mixed Reality [4] Technique
+Extended Reality [1] Technique
+Application [12] Algorithm Performance
+Application [9] Environment and Practices
+Application [6] User Performance
+Application [6] User Experience
+Evaluation [5] Algorithm Performance
+Evaluation [25] Environment and Practices
+Evaluation [9] User Performance
+Evaluation [11] User Experience
+Model [3] Algorithm Performance
+Model [1] Environment and Practices
+System [2] Algorithm Performance
+System [2] Environment and Practices
+Technique [28] Algorithm Performance
+Technique [4] Environment and Practices
+Technique [5] User Performance
+Technique [5] User Experience
+Algorithm Performance [50] Benchmarking
+Environment and Practices [7] Benchmarking
+User Performance [6] Benchmarking
+User Experience [5] Benchmarking
+Algorithm Performance [13] Human Experimentation
+Environment and Practices [33] Human Experimentation
+User Performance [20] Human Experimentation
+User Experience [22] Human Experimentation
+Algorithm Performance [3] Interview
+Environment and Practices [23] Interview
+User Performance [6] Interview
+User Experience [9] Interview
+Algorithm Performance [4] Questionnaire
+Environment and Practices [21] Questionnaire
+User Performance [14] Questionnaire
+User Experience [14] Questionnaire
+Algorithm Performance [18] Data Science
+User Performance [2] Data Science
+User Experience [2] Data Science
+Algorithm Performance [1] Engineering Research
+Environment and Practices [1] Engineering Research
+Algorithm Performance [1] Meta Science
+Environment and Practices [1] Meta Science

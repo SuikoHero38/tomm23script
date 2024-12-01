@@ -1,0 +1,54 @@
+Algorithm Performance,Virtual Reality,Virtual World,27
+Algorithm Performance,Virtual Reality,Lifelogging,22
+Algorithm Performance,Virtual Reality,Augmented Reality,6
+Algorithm Performance,Virtual Reality,Mirror World,7
+Algorithm Performance,Augmented Reality,Virtual World,7
+Algorithm Performance,Augmented Reality,Lifelogging,16
+Algorithm Performance,Augmented Reality,Augmented Reality,23
+Algorithm Performance,Augmented Reality,Mirror World,10
+Algorithm Performance,Mixed Reality,Virtual World,2
+Algorithm Performance,Mixed Reality,Lifelogging,5
+Algorithm Performance,Mixed Reality,Augmented Reality,4
+Algorithm Performance,Mixed Reality,Mirror World,6
+Algorithm Performance,Extended Reality,Virtual World,5
+Algorithm Performance,Extended Reality,Lifelogging,5
+Algorithm Performance,Extended Reality,Augmented Reality,1
+Algorithm Performance,Extended Reality,Mirror World,5
+Environment and Practices,Virtual Reality,Virtual World,21
+Environment and Practices,Virtual Reality,Lifelogging,6
+Environment and Practices,Virtual Reality,Augmented Reality,3
+Environment and Practices,Virtual Reality,Mirror World,3
+Environment and Practices,Augmented Reality,Virtual World,3
+Environment and Practices,Augmented Reality,Lifelogging,9
+Environment and Practices,Augmented Reality,Augmented Reality,20
+Environment and Practices,Augmented Reality,Mirror World,6
+Environment and Practices,Mixed Reality,Virtual World,1
+Environment and Practices,Mixed Reality,Lifelogging,4
+Environment and Practices,Mixed Reality,Augmented Reality,4
+Environment and Practices,Mixed Reality,Mirror World,6
+Environment and Practices,Extended Reality,Virtual World,1
+Environment and Practices,Extended Reality,Lifelogging,1
+Environment and Practices,Extended Reality,Mirror World,1
+User Performance,Virtual Reality,Virtual World,13
+User Performance,Virtual Reality,Lifelogging,5
+User Performance,Virtual Reality,Augmented Reality,1
+User Performance,Virtual Reality,Mirror World,1
+User Performance,Augmented Reality,Virtual World,1
+User Performance,Augmented Reality,Lifelogging,5
+User Performance,Augmented Reality,Augmented Reality,7
+User Performance,Augmented Reality,Mirror World,2
+User Performance,Mixed Reality,Lifelogging,1
+User Performance,Mixed Reality,Augmented Reality,1
+User Performance,Mixed Reality,Mirror World,2
+User Experience,Virtual Reality,Virtual World,12
+User Experience,Virtual Reality,Lifelogging,4
+User Experience,Virtual Reality,Augmented Reality,2
+User Experience,Virtual Reality,Mirror World,2
+User Experience,Augmented Reality,Virtual World,2
+User Experience,Augmented Reality,Lifelogging,7
+User Experience,Augmented Reality,Augmented Reality,11
+User Experience,Augmented Reality,Mirror World,4
+User Experience,Mixed Reality,Virtual World,1
+User Experience,Mixed Reality,Lifelogging,4
+User Experience,Mixed Reality,Augmented Reality,3
+User Experience,Mixed Reality,Mirror World,4

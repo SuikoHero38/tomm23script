@@ -1,0 +1,57 @@
+Algorithm Performance,VR,Application,1
+Algorithm Performance,VR,Technique,8
+Algorithm Performance,CHI,Evaluation,1
+Algorithm Performance,UIST,Technique,2
+Algorithm Performance,TVCG,Evaluation,1
+Algorithm Performance,TVCG,Technique,3
+Algorithm Performance,Other Venues,Application,3
+Algorithm Performance,Other Venues,Model,3
+Algorithm Performance,Other Venues,System,2
+Algorithm Performance,Other Venues,Technique,10
+Algorithm Performance,USS,Application,5
+Algorithm Performance,USS,Evaluation,3
+Algorithm Performance,USS,Technique,3
+Algorithm Performance,SP,Application,2
+Algorithm Performance,SP,Technique,2
+Environment and Practices,VR,Application,1
+Environment and Practices,VR,Evaluation,3
+Environment and Practices,VR,Technique,1
+Environment and Practices,CHI,Application,2
+Environment and Practices,CHI,Evaluation,6
+Environment and Practices,CHI,System,1
+Environment and Practices,UIST,Application,1
+Environment and Practices,UIST,Evaluation,2
+Environment and Practices,TVCG,Application,1
+Environment and Practices,Other Venues,Application,2
+Environment and Practices,Other Venues,Evaluation,11
+Environment and Practices,Other Venues,Model,1
+Environment and Practices,Other Venues,System,1
+Environment and Practices,Other Venues,Technique,1
+Environment and Practices,USS,Application,1
+Environment and Practices,USS,Evaluation,1
+Environment and Practices,USS,Technique,2
+Environment and Practices,SP,Application,1
+Environment and Practices,SP,Evaluation,2
+User Performance,VR,Application,1
+User Performance,VR,Evaluation,1
+User Performance,CHI,Application,2
+User Performance,CHI,Evaluation,2
+User Performance,TVCG,Application,1
+User Performance,Other Venues,Application,2
+User Performance,Other Venues,Evaluation,5
+User Performance,Other Venues,Technique,2
+User Performance,USS,Evaluation,1
+User Performance,USS,Technique,1
+User Performance,SP,Technique,2
+User Experience,VR,Application,1
+User Experience,VR,Evaluation,2
+User Experience,VR,Technique,1
+User Experience,CHI,Application,1
+User Experience,CHI,Evaluation,2
+User Experience,UIST,Evaluation,2
+User Experience,TVCG,Application,1
+User Experience,TVCG,Technique,1
+User Experience,Other Venues,Application,3
+User Experience,Other Venues,Evaluation,5
+User Experience,Other Venues,Technique,2
+User Experience,USS,Technique,1

@@ -1,0 +1,59 @@
+Benchmarking,Algorithm Performance,Application,11
+Benchmarking,Algorithm Performance,Evaluation,5
+Benchmarking,Algorithm Performance,Model,3
+Benchmarking,Algorithm Performance,System,2
+Benchmarking,Algorithm Performance,Technique,28
+Benchmarking,Environment and Practices,Application,1
+Benchmarking,Environment and Practices,Evaluation,1
+Benchmarking,Environment and Practices,System,1
+Benchmarking,Environment and Practices,Technique,4
+Benchmarking,User Performance,Application,1
+Benchmarking,User Performance,Technique,5
+Benchmarking,User Experience,Technique,5
+Human Experimentation,Algorithm Performance,Application,3
+Human Experimentation,Algorithm Performance,Evaluation,1
+Human Experimentation,Algorithm Performance,Technique,9
+Human Experimentation,Environment and Practices,Application,9
+Human Experimentation,Environment and Practices,Evaluation,20
+Human Experimentation,Environment and Practices,Technique,4
+Human Experimentation,User Performance,Application,6
+Human Experimentation,User Performance,Evaluation,9
+Human Experimentation,User Performance,Technique,5
+Human Experimentation,User Experience,Application,6
+Human Experimentation,User Experience,Evaluation,11
+Human Experimentation,User Experience,Technique,5
+Interview,Algorithm Performance,Evaluation,1
+Interview,Algorithm Performance,Technique,2
+Interview,Environment and Practices,Application,2
+Interview,Environment and Practices,Evaluation,19
+Interview,Environment and Practices,System,1
+Interview,Environment and Practices,Technique,1
+Interview,User Performance,Application,1
+Interview,User Performance,Evaluation,5
+Interview,User Experience,Application,1
+Interview,User Experience,Evaluation,6
+Interview,User Experience,Technique,2
+Questionnaire,Algorithm Performance,Application,1
+Questionnaire,Algorithm Performance,Technique,3
+Questionnaire,Environment and Practices,Application,8
+Questionnaire,Environment and Practices,Evaluation,9
+Questionnaire,Environment and Practices,Model,1
+Questionnaire,Environment and Practices,Technique,3
+Questionnaire,User Performance,Application,5
+Questionnaire,User Performance,Evaluation,7
+Questionnaire,User Performance,Technique,2
+Questionnaire,User Experience,Application,5
+Questionnaire,User Experience,Evaluation,7
+Questionnaire,User Experience,Technique,2
+Data Science,Algorithm Performance,Application,2
+Data Science,Algorithm Performance,Evaluation,2
+Data Science,Algorithm Performance,Model,2
+Data Science,Algorithm Performance,Technique,12
+Data Science,User Performance,Application,1
+Data Science,User Performance,Technique,1
+Data Science,User Experience,Application,1
+Data Science,User Experience,Technique,1
+Engineering Research,Algorithm Performance,Evaluation,1
+Engineering Research,Environment and Practices,System,1
+Meta Science,Algorithm Performance,Model,1
+Meta Science,Environment and Practices,Model,1

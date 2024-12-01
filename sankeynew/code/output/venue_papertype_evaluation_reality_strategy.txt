@@ -1,0 +1,77 @@
+CHI [2] Application
+CHI [7] Evaluation
+CHI [1] System
+Other Venues [6] Application
+Other Venues [11] Evaluation
+Other Venues [4] Model
+Other Venues [3] System
+Other Venues [10] Technique
+SP [3] Application
+SP [2] Evaluation
+SP [2] Technique
+TVCG [1] Application
+TVCG [1] Evaluation
+TVCG [3] Technique
+UIST [1] Application
+UIST [2] Evaluation
+UIST [2] Technique
+USS [6] Application
+USS [4] Evaluation
+USS [3] Technique
+VR [2] Application
+VR [3] Evaluation
+VR [8] Technique
+Application [12] Algorithm Performance
+Application [9] Environment and Practices
+Application [6] User Performance
+Application [6] User Experience
+Evaluation [5] Algorithm Performance
+Evaluation [25] Environment and Practices
+Evaluation [9] User Performance
+Evaluation [11] User Experience
+Model [3] Algorithm Performance
+Model [1] Environment and Practices
+System [2] Algorithm Performance
+System [2] Environment and Practices
+Technique [28] Algorithm Performance
+Technique [4] Environment and Practices
+Technique [5] User Performance
+Technique [5] User Experience
+Algorithm Performance [27] Virtual Reality
+Environment and Practices [21] Virtual Reality
+User Performance [13] Virtual Reality
+User Experience [12] Virtual Reality
+Algorithm Performance [23] Augmented Reality
+Environment and Practices [20] Augmented Reality
+User Performance [7] Augmented Reality
+User Experience [11] Augmented Reality
+Algorithm Performance [7] Mixed Reality
+Environment and Practices [6] Mixed Reality
+User Performance [2] Mixed Reality
+User Experience [4] Mixed Reality
+Algorithm Performance [5] Extended Reality
+Environment and Practices [1] Extended Reality
+Virtual Reality [27] Benchmarking
+Augmented Reality [24] Benchmarking
+Mixed Reality [8] Benchmarking
+Extended Reality [5] Benchmarking
+Virtual Reality [26] Human Experimentation
+Augmented Reality [15] Human Experimentation
+Mixed Reality [5] Human Experimentation
+Extended Reality [1] Human Experimentation
+Virtual Reality [13] Interview
+Augmented Reality [9] Interview
+Mixed Reality [2] Interview
+Extended Reality [1] Interview
+Virtual Reality [12] Questionnaire
+Augmented Reality [11] Questionnaire
+Mixed Reality [3] Questionnaire
+Virtual Reality [15] Data Science
+Augmented Reality [6] Data Science
+Mixed Reality [2] Data Science
+Extended Reality [1] Data Science
+Augmented Reality [1] Engineering Research
+Mixed Reality [1] Engineering Research
+Extended Reality [1] Engineering Research
+Virtual Reality [1] Meta Science
+Augmented Reality [1] Meta Science

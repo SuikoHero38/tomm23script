@@ -1,0 +1,56 @@
+Algorithm Performance,VR,Virtual Reality,7
+Algorithm Performance,VR,Augmented Reality,2
+Algorithm Performance,VR,Mixed Reality,2
+Algorithm Performance,CHI,Virtual Reality,1
+Algorithm Performance,UIST,Virtual Reality,1
+Algorithm Performance,UIST,Augmented Reality,1
+Algorithm Performance,TVCG,Virtual Reality,2
+Algorithm Performance,TVCG,Augmented Reality,2
+Algorithm Performance,TVCG,Mixed Reality,1
+Algorithm Performance,Other Venues,Virtual Reality,8
+Algorithm Performance,Other Venues,Augmented Reality,11
+Algorithm Performance,Other Venues,Mixed Reality,2
+Algorithm Performance,Other Venues,Extended Reality,4
+Algorithm Performance,USS,Virtual Reality,6
+Algorithm Performance,USS,Augmented Reality,5
+Algorithm Performance,USS,Mixed Reality,1
+Algorithm Performance,USS,Extended Reality,1
+Algorithm Performance,SP,Virtual Reality,2
+Algorithm Performance,SP,Augmented Reality,2
+Environment and Practices,VR,Virtual Reality,4
+Environment and Practices,VR,Augmented Reality,1
+Environment and Practices,VR,Mixed Reality,1
+Environment and Practices,CHI,Virtual Reality,5
+Environment and Practices,CHI,Augmented Reality,3
+Environment and Practices,CHI,Extended Reality,1
+Environment and Practices,UIST,Augmented Reality,3
+Environment and Practices,TVCG,Virtual Reality,1
+Environment and Practices,Other Venues,Virtual Reality,9
+Environment and Practices,Other Venues,Augmented Reality,9
+Environment and Practices,Other Venues,Mixed Reality,3
+Environment and Practices,USS,Virtual Reality,1
+Environment and Practices,USS,Augmented Reality,1
+Environment and Practices,USS,Mixed Reality,2
+Environment and Practices,SP,Virtual Reality,1
+Environment and Practices,SP,Augmented Reality,3
+User Performance,VR,Virtual Reality,2
+User Performance,CHI,Virtual Reality,3
+User Performance,CHI,Augmented Reality,1
+User Performance,TVCG,Virtual Reality,1
+User Performance,Other Venues,Virtual Reality,5
+User Performance,Other Venues,Augmented Reality,5
+User Performance,Other Venues,Mixed Reality,1
+User Performance,USS,Augmented Reality,1
+User Performance,USS,Mixed Reality,1
+User Performance,SP,Virtual Reality,2
+User Experience,VR,Virtual Reality,3
+User Experience,VR,Augmented Reality,1
+User Experience,VR,Mixed Reality,1
+User Experience,CHI,Virtual Reality,2
+User Experience,CHI,Augmented Reality,1
+User Experience,UIST,Augmented Reality,2
+User Experience,TVCG,Virtual Reality,2
+User Experience,Other Venues,Virtual Reality,5
+User Experience,Other Venues,Augmented Reality,7
+User Experience,Other Venues,Mixed Reality,2
+User Experience,USS,Mixed Reality,1

@@ -1,0 +1,49 @@
+Virtual Reality,VR,Application,2
+Virtual Reality,VR,Evaluation,3
+Virtual Reality,VR,Technique,6
+Virtual Reality,CHI,Application,1
+Virtual Reality,CHI,Evaluation,5
+Virtual Reality,UIST,Technique,1
+Virtual Reality,TVCG,Application,1
+Virtual Reality,TVCG,Technique,2
+Virtual Reality,Other Venues,Application,2
+Virtual Reality,Other Venues,Evaluation,7
+Virtual Reality,Other Venues,Model,1
+Virtual Reality,Other Venues,Technique,6
+Virtual Reality,USS,Application,3
+Virtual Reality,USS,Evaluation,2
+Virtual Reality,USS,Technique,1
+Virtual Reality,SP,Evaluation,1
+Virtual Reality,SP,Technique,2
+Augmented Reality,VR,Technique,2
+Augmented Reality,CHI,Application,1
+Augmented Reality,CHI,Evaluation,1
+Augmented Reality,CHI,System,1
+Augmented Reality,UIST,Application,1
+Augmented Reality,UIST,Evaluation,2
+Augmented Reality,UIST,Technique,1
+Augmented Reality,TVCG,Evaluation,1
+Augmented Reality,TVCG,Technique,1
+Augmented Reality,Other Venues,Application,5
+Augmented Reality,Other Venues,Evaluation,4
+Augmented Reality,Other Venues,Model,2
+Augmented Reality,Other Venues,System,2
+Augmented Reality,Other Venues,Technique,7
+Augmented Reality,USS,Application,3
+Augmented Reality,USS,Evaluation,1
+Augmented Reality,USS,Technique,1
+Augmented Reality,SP,Application,3
+Augmented Reality,SP,Evaluation,2
+Mixed Reality,VR,Technique,2
+Mixed Reality,TVCG,Technique,1
+Mixed Reality,Other Venues,Application,3
+Mixed Reality,Other Venues,Model,1
+Mixed Reality,Other Venues,System,1
+Mixed Reality,USS,Evaluation,1
+Mixed Reality,USS,Technique,1
+Extended Reality,CHI,Evaluation,1
+Extended Reality,Other Venues,Application,1
+Extended Reality,Other Venues,Model,1
+Extended Reality,Other Venues,System,1
+Extended Reality,Other Venues,Technique,1
+Extended Reality,USS,Evaluation,1

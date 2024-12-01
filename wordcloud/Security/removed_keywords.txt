@@ -1,0 +1,28 @@
+Stop words
+virtual reality
+augmented reality
+mixed reality
+extended reality
+application
+user
+device
+data
+system
+virtual
+model
+sensor
+show
+type
+immersive
+study
+experience
+motion
+real
+identify
+information
+platform
+apps
+gesture
+present
+
+user, data, system, device

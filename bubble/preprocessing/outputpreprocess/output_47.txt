@@ -1,0 +1,66 @@
+Virtual World,VR,Application,2
+Virtual World,VR,Evaluation,3
+Virtual World,VR,Technique,6
+Virtual World,CHI,Application,1
+Virtual World,CHI,Evaluation,6
+Virtual World,UIST,Technique,1
+Virtual World,TVCG,Application,1
+Virtual World,TVCG,Technique,2
+Virtual World,Other Venues,Application,3
+Virtual World,Other Venues,Evaluation,7
+Virtual World,Other Venues,Model,2
+Virtual World,Other Venues,System,1
+Virtual World,Other Venues,Technique,7
+Virtual World,USS,Application,3
+Virtual World,USS,Evaluation,3
+Virtual World,USS,Technique,1
+Virtual World,SP,Evaluation,1
+Virtual World,SP,Technique,2
+Lifelogging,VR,Application,1
+Lifelogging,VR,Evaluation,1
+Lifelogging,VR,Technique,7
+Lifelogging,CHI,Application,1
+Lifelogging,CHI,Evaluation,4
+Lifelogging,UIST,Evaluation,2
+Lifelogging,UIST,Technique,1
+Lifelogging,TVCG,Technique,3
+Lifelogging,Other Venues,Application,4
+Lifelogging,Other Venues,Evaluation,1
+Lifelogging,Other Venues,Model,2
+Lifelogging,Other Venues,System,2
+Lifelogging,Other Venues,Technique,9
+Lifelogging,USS,Application,1
+Lifelogging,USS,Evaluation,3
+Lifelogging,USS,Technique,3
+Lifelogging,SP,Application,1
+Lifelogging,SP,Technique,1
+Augmented Reality,VR,Technique,2
+Augmented Reality,CHI,Application,1
+Augmented Reality,CHI,Evaluation,1
+Augmented Reality,CHI,System,1
+Augmented Reality,UIST,Application,1
+Augmented Reality,UIST,Evaluation,2
+Augmented Reality,UIST,Technique,1
+Augmented Reality,TVCG,Evaluation,1
+Augmented Reality,TVCG,Technique,1
+Augmented Reality,Other Venues,Application,5
+Augmented Reality,Other Venues,Evaluation,4
+Augmented Reality,Other Venues,Model,2
+Augmented Reality,Other Venues,System,2
+Augmented Reality,Other Venues,Technique,7
+Augmented Reality,USS,Application,3
+Augmented Reality,USS,Evaluation,1
+Augmented Reality,USS,Technique,1
+Augmented Reality,SP,Application,3
+Augmented Reality,SP,Evaluation,2
+Mirror World,VR,Technique,2
+Mirror World,CHI,Evaluation,1
+Mirror World,TVCG,Technique,1
+Mirror World,Other Venues,Application,3
+Mirror World,Other Venues,Model,2
+Mirror World,Other Venues,System,2
+Mirror World,Other Venues,Technique,5
+Mirror World,USS,Application,1
+Mirror World,USS,Evaluation,3
+Mirror World,USS,Technique,1
+Mirror World,SP,Evaluation,1

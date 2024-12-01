@@ -1,0 +1,79 @@
+Benchmarking,Algorithm Performance,Virtual World,32
+Benchmarking,Algorithm Performance,Lifelogging,37
+Benchmarking,Algorithm Performance,Augmented Reality,23
+Benchmarking,Algorithm Performance,Mirror World,16
+Benchmarking,Environment and Practices,Virtual World,3
+Benchmarking,Environment and Practices,Lifelogging,5
+Benchmarking,Environment and Practices,Augmented Reality,4
+Benchmarking,Environment and Practices,Mirror World,4
+Benchmarking,User Performance,Virtual World,4
+Benchmarking,User Performance,Lifelogging,5
+Benchmarking,User Performance,Augmented Reality,3
+Benchmarking,User Performance,Mirror World,1
+Benchmarking,User Experience,Virtual World,3
+Benchmarking,User Experience,Lifelogging,5
+Benchmarking,User Experience,Augmented Reality,2
+Benchmarking,User Experience,Mirror World,3
+Human Experimentation,Algorithm Performance,Virtual World,9
+Human Experimentation,Algorithm Performance,Lifelogging,11
+Human Experimentation,Algorithm Performance,Augmented Reality,4
+Human Experimentation,Algorithm Performance,Mirror World,3
+Human Experimentation,Environment and Practices,Virtual World,20
+Human Experimentation,Environment and Practices,Lifelogging,14
+Human Experimentation,Environment and Practices,Augmented Reality,13
+Human Experimentation,Environment and Practices,Mirror World,7
+Human Experimentation,User Performance,Virtual World,13
+Human Experimentation,User Performance,Lifelogging,9
+Human Experimentation,User Performance,Augmented Reality,7
+Human Experimentation,User Performance,Mirror World,3
+Human Experimentation,User Experience,Virtual World,12
+Human Experimentation,User Experience,Lifelogging,10
+Human Experimentation,User Experience,Augmented Reality,11
+Human Experimentation,User Experience,Mirror World,5
+Interview,Algorithm Performance,Virtual World,2
+Interview,Algorithm Performance,Lifelogging,3
+Interview,Algorithm Performance,Mirror World,1
+Interview,Environment and Practices,Virtual World,13
+Interview,Environment and Practices,Lifelogging,8
+Interview,Environment and Practices,Augmented Reality,9
+Interview,Environment and Practices,Mirror World,4
+Interview,User Performance,Virtual World,4
+Interview,User Performance,Lifelogging,1
+Interview,User Performance,Augmented Reality,1
+Interview,User Performance,Mirror World,1
+Interview,User Experience,Virtual World,5
+Interview,User Experience,Lifelogging,5
+Interview,User Experience,Augmented Reality,3
+Interview,User Experience,Mirror World,1
+Questionnaire,Algorithm Performance,Virtual World,2
+Questionnaire,Algorithm Performance,Lifelogging,3
+Questionnaire,Algorithm Performance,Augmented Reality,3
+Questionnaire,Algorithm Performance,Mirror World,2
+Questionnaire,Environment and Practices,Virtual World,12
+Questionnaire,Environment and Practices,Lifelogging,8
+Questionnaire,Environment and Practices,Augmented Reality,11
+Questionnaire,Environment and Practices,Mirror World,4
+Questionnaire,User Performance,Virtual World,9
+Questionnaire,User Performance,Lifelogging,6
+Questionnaire,User Performance,Augmented Reality,6
+Questionnaire,User Performance,Mirror World,2
+Questionnaire,User Experience,Virtual World,8
+Questionnaire,User Experience,Lifelogging,5
+Questionnaire,User Experience,Augmented Reality,8
+Questionnaire,User Experience,Mirror World,4
+Data Science,Algorithm Performance,Virtual World,16
+Data Science,Algorithm Performance,Lifelogging,17
+Data Science,Algorithm Performance,Augmented Reality,5
+Data Science,Algorithm Performance,Mirror World,6
+Data Science,User Performance,Virtual World,2
+Data Science,User Performance,Lifelogging,2
+Data Science,User Experience,Virtual World,1
+Data Science,User Experience,Lifelogging,1
+Data Science,User Experience,Augmented Reality,1
+Engineering Research,Algorithm Performance,Virtual World,1
+Engineering Research,Algorithm Performance,Lifelogging,1
+Engineering Research,Algorithm Performance,Mirror World,1
+Engineering Research,Environment and Practices,Augmented Reality,1
+Engineering Research,Environment and Practices,Mirror World,1
+Meta Science,Algorithm Performance,Virtual World,1
+Meta Science,Environment and Practices,Augmented Reality,1

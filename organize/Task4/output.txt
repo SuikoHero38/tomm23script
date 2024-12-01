@@ -1,0 +1,98 @@
+Strategy Counts Per Year:
+Year 2023:
+	Benchmarking: 9
+	Experiment with Human participants: 14
+	Qualitative Survey (Interviews): 7
+	Questionnaire Surveys: 3
+	Data Science: 9
+	Engineering Research: 1
+	Meta Science: 1
+Year 2022:
+	Benchmarking: 5
+	Experiment with Human participants: 7
+	Qualitative Survey (Interviews): 3
+	Questionnaire Surveys: 3
+	Meta Science: 1
+	Engineering Research: 1
+	Data Science: 2
+Year 2021:
+	Experiment with Human participants: 11
+	Questionnaire Surveys: 3
+	Benchmarking: 3
+	Qualitative Survey (Interviews): 1
+	Data Science: 3
+Year 2020:
+	Benchmarking: 2
+	Data Science: 1
+	Experiment with Human participants: 3
+Year 2019:
+	Benchmarking: 1
+	Experiment with Human participants: 7
+	Questionnaire Surveys: 3
+	Data Science: 2
+	Qualitative Survey (Interviews): 1
+Year 2017:
+	Benchmarking: 1
+	Experiment with Human participants: 2
+	Questionnaire Surveys: 1
+Year 2016:
+	Benchmarking: 2
+	Experiment with Human participants: 2
+	Qualitative Survey (Interviews): 1
+	Questionnaire Surveys: 1
+Year 2015:
+	Experiment with Human participants: 4
+	Questionnaire Surveys: 3
+	Qualitative Survey (Interviews): 2
+	Benchmarking: 1
+Year 2018:
+	Qualitative Survey (Interviews): 1
+	Data Science: 1
+	Experiment with Human participants: 1
+Year 2014:
+	Qualitative Survey (Interviews): 1
+	Benchmarking: 1
+
+Topic Counts Per Year:
+Year 2023:
+	New Attacks: 7
+	Awareness: 9
+	Authentication: 5
+	Lesson Learned: 7
+	Challenges: 2
+Year 2022:
+	Awareness: 5
+	Authentication: 2
+	Lesson Learned: 5
+	Challenges: 1
+	New Attacks: 2
+Year 2021:
+	Challenges: 1
+	Lesson Learned: 5
+	Authentication: 2
+	Awareness: 3
+	New Attacks: 4
+Year 2020:
+	New Attacks: 1
+	Awareness: 1
+	Challenges: 1
+Year 2019:
+	Challenges: 1
+	Authentication: 2
+	Lesson Learned: 6
+Year 2017:
+	Awareness: 3
+Year 2016:
+	Authentication: 1
+	Lesson Learned: 1
+	Awareness: 1
+Year 2015:
+	Lesson Learned: 3
+	Authentication: 1
+	Awareness: 2
+Year 2018:
+	Lesson Learned: 1
+	New Attacks: 1
+Year 2014:
+	Lesson Learned: 1
+	Awareness: 1

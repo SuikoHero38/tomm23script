@@ -1,0 +1,76 @@
+VR,Algorithm Performance,Virtual World,7
+VR,Algorithm Performance,Lifelogging,8
+VR,Algorithm Performance,Augmented Reality,2
+VR,Algorithm Performance,Mirror World,2
+VR,Environment and Practices,Virtual World,4
+VR,Environment and Practices,Lifelogging,2
+VR,Environment and Practices,Augmented Reality,1
+VR,Environment and Practices,Mirror World,1
+VR,User Performance,Virtual World,2
+VR,User Experience,Virtual World,3
+VR,User Experience,Lifelogging,1
+VR,User Experience,Augmented Reality,1
+VR,User Experience,Mirror World,1
+CHI,Algorithm Performance,Virtual World,1
+CHI,Algorithm Performance,Lifelogging,1
+CHI,Environment and Practices,Virtual World,6
+CHI,Environment and Practices,Lifelogging,5
+CHI,Environment and Practices,Augmented Reality,3
+CHI,Environment and Practices,Mirror World,1
+CHI,User Performance,Virtual World,3
+CHI,User Performance,Lifelogging,2
+CHI,User Performance,Augmented Reality,1
+CHI,User Experience,Virtual World,2
+CHI,User Experience,Augmented Reality,1
+UIST,Algorithm Performance,Virtual World,1
+UIST,Algorithm Performance,Lifelogging,1
+UIST,Algorithm Performance,Augmented Reality,1
+UIST,Environment and Practices,Lifelogging,2
+UIST,Environment and Practices,Augmented Reality,3
+UIST,User Experience,Lifelogging,2
+UIST,User Experience,Augmented Reality,2
+TVCG,Algorithm Performance,Virtual World,2
+TVCG,Algorithm Performance,Lifelogging,3
+TVCG,Algorithm Performance,Augmented Reality,2
+TVCG,Algorithm Performance,Mirror World,1
+TVCG,Environment and Practices,Virtual World,1
+TVCG,User Performance,Virtual World,1
+TVCG,User Experience,Virtual World,2
+TVCG,User Experience,Lifelogging,1
+Other Venues,Algorithm Performance,Virtual World,12
+Other Venues,Algorithm Performance,Lifelogging,15
+Other Venues,Algorithm Performance,Augmented Reality,11
+Other Venues,Algorithm Performance,Mirror World,9
+Other Venues,Environment and Practices,Virtual World,9
+Other Venues,Environment and Practices,Lifelogging,4
+Other Venues,Environment and Practices,Augmented Reality,9
+Other Venues,Environment and Practices,Mirror World,4
+Other Venues,User Performance,Virtual World,5
+Other Venues,User Performance,Lifelogging,5
+Other Venues,User Performance,Augmented Reality,5
+Other Venues,User Performance,Mirror World,2
+Other Venues,User Experience,Virtual World,5
+Other Venues,User Experience,Lifelogging,5
+Other Venues,User Experience,Augmented Reality,7
+Other Venues,User Experience,Mirror World,3
+USS,Algorithm Performance,Virtual World,7
+USS,Algorithm Performance,Lifelogging,7
+USS,Algorithm Performance,Augmented Reality,5
+USS,Algorithm Performance,Mirror World,4
+USS,Environment and Practices,Virtual World,1
+USS,Environment and Practices,Lifelogging,2
+USS,Environment and Practices,Augmented Reality,1
+USS,Environment and Practices,Mirror World,2
+USS,User Performance,Lifelogging,1
+USS,User Performance,Augmented Reality,1
+USS,User Performance,Mirror World,1
+USS,User Experience,Lifelogging,1
+USS,User Experience,Mirror World,1
+SP,Algorithm Performance,Virtual World,2
+SP,Algorithm Performance,Lifelogging,2
+SP,Algorithm Performance,Augmented Reality,2
+SP,Environment and Practices,Virtual World,1
+SP,Environment and Practices,Augmented Reality,3
+SP,Environment and Practices,Mirror World,1
+SP,User Performance,Virtual World,2
+SP,User Performance,Lifelogging,1

@@ -1,0 +1,132 @@
+Associations between Evaluation and Paper Type:
+AP [12] Application
+AP [25] Technique
+AP [6] Evaluation
+AP [3] Model
+AP [2] System
+UE [17] Evaluation
+UE [6] Application
+UE [4] Technique
+UE [1] Model
+UP [1] Technique
+UP [4] Evaluation
+UP [2] Application
+UWP [1] Technique
+UWP [2] System
+UWP [7] Evaluation
+UWP [3] Application
+
+Associations between Paper Type and Venue:
+Application [3] SP
+Application [1] NDSS
+Application [5] USS
+Application [2] CHI
+Application [2] VR
+Application [1] ISMAR
+Application [1] UIST
+Application [1] ACSAC
+Application [1] TOPS
+Application [1] TrustCom
+Application [1] TVCG
+Evaluation [1] SP
+Evaluation [3] USS
+Evaluation [6] CHI
+Evaluation [2] VR
+Evaluation [2] UIST
+Evaluation [1] FC
+Evaluation [1] TODSC
+Evaluation [1] ACSAC
+Evaluation [2] PETS
+Evaluation [1] TVCG
+Evaluation [4] SOUPS
+Evaluation [1] CS
+Evaluation [1] PACIFICVIS
+Technique [2] SP
+Technique [1] NDSS
+Technique [3] USS
+Technique [1] CCS
+Technique [8] VR
+Technique [2] UIST
+Technique [1] TODSC
+Technique [2] TOIFS
+Technique [3] TVCG
+Technique [1] WiSec
+Technique [1] FC
+System [1] CHI
+System [1] ISMAR
+System [1] ARES
+System [1] CCS
+Model [1] ESORICS
+Model [1] PETS
+Model [1] ARES
+Model [1] CS
+
+Associations between Venue and Topic:
+SP [2] Authentication
+SP [1] Awareness
+SP [2] Lesson Learned
+SP [1] New Attacks
+NDSS [1] New Attacks
+NDSS [1] Authentication
+USS [3] Awareness
+USS [5] New Attacks
+USS [1] Challenges
+USS [1] Authentication
+USS [1] Lesson Learned
+CCS [1] New Attacks
+CCS [1] Awareness
+CHI [1] Awareness
+CHI [7] Lesson Learned
+CHI [1] Challenges
+VR [2] Authentication
+VR [1] Awareness
+VR [5] New Attacks
+VR [4] Lesson Learned
+ISMAR [2] Awareness
+UIST [2] Awareness
+UIST [1] New Attacks
+UIST [2] Lesson Learned
+ACSAC [2] Awareness
+ESORICS [1] Authentication
+FC [1] Authentication
+FC [1] Lesson Learned
+TODSC [1] Lesson Learned
+TODSC [1] Awareness
+TOIFS [1] Authentication
+TOIFS [1] Lesson Learned
+TOPS [1] Authentication
+PETS [2] Lesson Learned
+PETS [1] Challenges
+TVCG [4] Awareness
+TVCG [1] Lesson Learned
+ARES [2] Awareness
+SOUPS [2] Awareness
+SOUPS [2] Lesson Learned
+WiSec [1] Authentication
+TrustCom [1] Awareness
+CS [1] Challenges
+CS [1] Awareness
+PACIFICVIS [1] Lesson Learned
+
+Associations between Topic and Metaverse:
+Authentication [8] MW
+Authentication [3] AR
+Authentication [2] LL
+Authentication [4] VW
+Awareness [7] VW
+Awareness [13] MW
+Awareness [15] AR
+Awareness [5] LL
+Lesson Learned [11] AR
+Lesson Learned [10] VW
+Lesson Learned [10] MW
+Lesson Learned [3] LL
+New Attacks [8] MW
+New Attacks [4] VW
+New Attacks [6] LL
+New Attacks [8] AR
+Challenges [3] MW
+Challenges [2] AR
+Challenges [2] LL
+Challenges [1] VW
+

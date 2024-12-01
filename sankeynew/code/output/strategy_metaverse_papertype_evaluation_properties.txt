@@ -1,0 +1,102 @@
+Benchmarking [32] Virtual World
+Human Experimentation [27] Virtual World
+Interview [14] Virtual World
+Questionnaire [12] Virtual World
+Data Science [16] Virtual World
+Engineering Research [1] Virtual World
+Meta Science [1] Virtual World
+Benchmarking [37] Lifelogging
+Human Experimentation [20] Lifelogging
+Interview [9] Lifelogging
+Questionnaire [8] Lifelogging
+Data Science [17] Lifelogging
+Engineering Research [1] Lifelogging
+Benchmarking [24] Augmented Reality
+Human Experimentation [15] Augmented Reality
+Interview [9] Augmented Reality
+Questionnaire [11] Augmented Reality
+Data Science [6] Augmented Reality
+Engineering Research [1] Augmented Reality
+Meta Science [1] Augmented Reality
+Benchmarking [18] Mirror World
+Human Experimentation [7] Mirror World
+Interview [4] Mirror World
+Questionnaire [4] Mirror World
+Data Science [6] Mirror World
+Engineering Research [2] Mirror World
+Virtual World [10] Application
+Lifelogging [8] Application
+Augmented Reality [13] Application
+Mirror World [5] Application
+Virtual World [20] Evaluation
+Lifelogging [11] Evaluation
+Augmented Reality [11] Evaluation
+Mirror World [5] Evaluation
+Virtual World [2] Model
+Lifelogging [2] Model
+Augmented Reality [2] Model
+Mirror World [2] Model
+Virtual World [1] System
+Lifelogging [2] System
+Augmented Reality [3] System
+Mirror World [2] System
+Virtual World [19] Technique
+Lifelogging [24] Technique
+Augmented Reality [12] Technique
+Mirror World [9] Technique
+Application [12] Algorithm Performance
+Application [9] Environment and Practices
+Application [6] User Performance
+Application [6] User Experience
+Evaluation [5] Algorithm Performance
+Evaluation [25] Environment and Practices
+Evaluation [9] User Performance
+Evaluation [11] User Experience
+Model [3] Algorithm Performance
+Model [1] Environment and Practices
+System [2] Algorithm Performance
+System [2] Environment and Practices
+Technique [28] Algorithm Performance
+Technique [4] Environment and Practices
+Technique [5] User Performance
+Technique [5] User Experience
+Algorithm Performance [8] Authentication
+Environment and Practices [7] Authentication
+User Performance [5] Authentication
+User Experience [5] Authentication
+Algorithm Performance [5] Confidentiality
+Environment and Practices [6] Confidentiality
+User Performance [2] Confidentiality
+User Experience [3] Confidentiality
+Algorithm Performance [4] Authorization
+Environment and Practices [4] Authorization
+User Performance [1] Authorization
+User Experience [1] Authorization
+Algorithm Performance [5] Integrity
+Environment and Practices [4] Integrity
+User Performance [3] Integrity
+User Experience [2] Integrity
+Algorithm Performance [4] Identification
+Environment and Practices [4] Identification
+User Performance [2] Identification
+User Experience [1] Identification
+Algorithm Performance [2] Availability
+Algorithm Performance [1] Non-repudiation
+User Experience [1] Non-repudiation
+Algorithm Performance [9] Unobservability
+Environment and Practices [3] Unobservability
+User Experience [4] Unobservability
+Environment and Practices [9] Awareness
+User Performance [3] Awareness
+User Experience [4] Awareness
+Algorithm Performance [6] Anonymity
+User Performance [1] Anonymity
+Algorithm Performance [2] Policy
+Environment and Practices [2] Policy
+User Performance [2] Policy
+User Experience [1] Policy
+Algorithm Performance [3] Unlinkability
+Environment and Practices [1] Unlinkability
+Algorithm Performance [1] Deniability
+Environment and Practices [1] Deniability
+User Performance [1] Deniability

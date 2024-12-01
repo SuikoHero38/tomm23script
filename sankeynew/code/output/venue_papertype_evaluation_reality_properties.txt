@@ -1,0 +1,91 @@
+CHI [2] Application
+CHI [7] Evaluation
+CHI [1] System
+Other Venues [6] Application
+Other Venues [11] Evaluation
+Other Venues [4] Model
+Other Venues [3] System
+Other Venues [10] Technique
+SP [3] Application
+SP [2] Evaluation
+SP [2] Technique
+TVCG [1] Application
+TVCG [1] Evaluation
+TVCG [3] Technique
+UIST [1] Application
+UIST [2] Evaluation
+UIST [2] Technique
+USS [6] Application
+USS [4] Evaluation
+USS [3] Technique
+VR [2] Application
+VR [3] Evaluation
+VR [8] Technique
+Application [12] Algorithm Performance
+Application [9] Environment and Practices
+Application [6] User Performance
+Application [6] User Experience
+Evaluation [5] Algorithm Performance
+Evaluation [25] Environment and Practices
+Evaluation [9] User Performance
+Evaluation [11] User Experience
+Model [3] Algorithm Performance
+Model [1] Environment and Practices
+System [2] Algorithm Performance
+System [2] Environment and Practices
+Technique [28] Algorithm Performance
+Technique [4] Environment and Practices
+Technique [5] User Performance
+Technique [5] User Experience
+Algorithm Performance [27] Virtual Reality
+Environment and Practices [21] Virtual Reality
+User Performance [13] Virtual Reality
+User Experience [12] Virtual Reality
+Algorithm Performance [23] Augmented Reality
+Environment and Practices [20] Augmented Reality
+User Performance [7] Augmented Reality
+User Experience [11] Augmented Reality
+Algorithm Performance [7] Mixed Reality
+Environment and Practices [6] Mixed Reality
+User Performance [2] Mixed Reality
+User Experience [4] Mixed Reality
+Algorithm Performance [5] Extended Reality
+Environment and Practices [1] Extended Reality
+Virtual Reality [12] Authentication
+Augmented Reality [5] Authentication
+Extended Reality [1] Authentication
+Virtual Reality [3] Confidentiality
+Augmented Reality [8] Confidentiality
+Mixed Reality [2] Confidentiality
+Virtual Reality [1] Authorization
+Augmented Reality [6] Authorization
+Mixed Reality [2] Authorization
+Virtual Reality [7] Integrity
+Augmented Reality [1] Integrity
+Virtual Reality [4] Identification
+Augmented Reality [2] Identification
+Extended Reality [1] Identification
+Augmented Reality [2] Availability
+Mixed Reality [1] Availability
+Extended Reality [1] Availability
+Virtual Reality [1] Non-repudiation
+Augmented Reality [2] Non-repudiation
+Virtual Reality [7] Unobservability
+Augmented Reality [2] Unobservability
+Mixed Reality [3] Unobservability
+Extended Reality [1] Unobservability
+Virtual Reality [3] Awareness
+Augmented Reality [5] Awareness
+Extended Reality [1] Awareness
+Virtual Reality [4] Anonymity
+Augmented Reality [3] Anonymity
+Mixed Reality [1] Anonymity
+Virtual Reality [1] Policy
+Augmented Reality [2] Policy
+Mixed Reality [1] Policy
+Virtual Reality [2] Unlinkability
+Augmented Reality [2] Unlinkability
+Extended Reality [1] Unlinkability
+Virtual Reality [1] Deniability
+Augmented Reality [1] Deniability
+Mixed Reality [1] Deniability

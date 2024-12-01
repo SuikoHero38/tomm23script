@@ -1,0 +1,58 @@
+Algorithm Performance,Virtual World,Application,6
+Algorithm Performance,Virtual World,Evaluation,4
+Algorithm Performance,Virtual World,Model,2
+Algorithm Performance,Virtual World,System,1
+Algorithm Performance,Virtual World,Technique,19
+Algorithm Performance,Lifelogging,Application,5
+Algorithm Performance,Lifelogging,Evaluation,4
+Algorithm Performance,Lifelogging,Model,2
+Algorithm Performance,Lifelogging,System,2
+Algorithm Performance,Lifelogging,Technique,24
+Algorithm Performance,Augmented Reality,Application,7
+Algorithm Performance,Augmented Reality,Evaluation,2
+Algorithm Performance,Augmented Reality,Model,1
+Algorithm Performance,Augmented Reality,System,1
+Algorithm Performance,Augmented Reality,Technique,12
+Algorithm Performance,Mirror World,Application,2
+Algorithm Performance,Mirror World,Evaluation,2
+Algorithm Performance,Mirror World,Model,2
+Algorithm Performance,Mirror World,System,1
+Algorithm Performance,Mirror World,Technique,9
+Environment and Practices,Virtual World,Application,5
+Environment and Practices,Virtual World,Evaluation,16
+Environment and Practices,Virtual World,Technique,1
+Environment and Practices,Lifelogging,Application,3
+Environment and Practices,Lifelogging,Evaluation,8
+Environment and Practices,Lifelogging,Technique,4
+Environment and Practices,Augmented Reality,Application,5
+Environment and Practices,Augmented Reality,Evaluation,9
+Environment and Practices,Augmented Reality,Model,1
+Environment and Practices,Augmented Reality,System,2
+Environment and Practices,Augmented Reality,Technique,3
+Environment and Practices,Mirror World,Application,2
+Environment and Practices,Mirror World,Evaluation,3
+Environment and Practices,Mirror World,System,1
+Environment and Practices,Mirror World,Technique,3
+User Performance,Virtual World,Application,4
+User Performance,Virtual World,Evaluation,6
+User Performance,Virtual World,Technique,3
+User Performance,Lifelogging,Application,3
+User Performance,Lifelogging,Evaluation,2
+User Performance,Lifelogging,Technique,4
+User Performance,Augmented Reality,Application,2
+User Performance,Augmented Reality,Evaluation,2
+User Performance,Augmented Reality,Technique,3
+User Performance,Mirror World,Application,1
+User Performance,Mirror World,Evaluation,1
+User Performance,Mirror World,Technique,1
+User Experience,Virtual World,Application,3
+User Experience,Virtual World,Evaluation,6
+User Experience,Virtual World,Technique,3
+User Experience,Lifelogging,Application,2
+User Experience,Lifelogging,Evaluation,3
+User Experience,Lifelogging,Technique,5
+User Experience,Augmented Reality,Application,4
+User Experience,Augmented Reality,Evaluation,5
+User Experience,Augmented Reality,Technique,2
+User Experience,Mirror World,Application,2
+User Experience,Mirror World,Technique,3

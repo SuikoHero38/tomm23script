@@ -1,0 +1,96 @@
+CHI [7] Virtual World
+CHI [5] Lifelogging
+CHI [3] Augmented Reality
+CHI [1] Mirror World
+Other Venues [20] Virtual World
+Other Venues [18] Lifelogging
+Other Venues [20] Augmented Reality
+Other Venues [12] Mirror World
+SP [3] Virtual World
+SP [2] Lifelogging
+SP [5] Augmented Reality
+SP [1] Mirror World
+TVCG [3] Virtual World
+TVCG [3] Lifelogging
+TVCG [2] Augmented Reality
+TVCG [1] Mirror World
+UIST [1] Virtual World
+UIST [3] Lifelogging
+UIST [4] Augmented Reality
+USS [7] Virtual World
+USS [7] Lifelogging
+USS [5] Augmented Reality
+USS [6] Mirror World
+VR [11] Virtual World
+VR [9] Lifelogging
+VR [2] Augmented Reality
+VR [2] Mirror World
+Virtual World [32] Algorithm Performance
+Lifelogging [37] Algorithm Performance
+Augmented Reality [23] Algorithm Performance
+Mirror World [17] Algorithm Performance
+Virtual World [22] Environment and Practices
+Lifelogging [15] Environment and Practices
+Augmented Reality [20] Environment and Practices
+Mirror World [9] Environment and Practices
+Virtual World [13] User Performance
+Lifelogging [9] User Performance
+Augmented Reality [7] User Performance
+Mirror World [3] User Performance
+Virtual World [12] User Experience
+Lifelogging [10] User Experience
+Augmented Reality [11] User Experience
+Mirror World [5] User Experience
+Algorithm Performance [12] Application
+Environment and Practices [9] Application
+User Performance [6] Application
+User Experience [6] Application
+Algorithm Performance [5] Evaluation
+Environment and Practices [25] Evaluation
+User Performance [9] Evaluation
+User Experience [11] Evaluation
+Algorithm Performance [3] Model
+Environment and Practices [1] Model
+Algorithm Performance [2] System
+Environment and Practices [2] System
+Algorithm Performance [28] Technique
+Environment and Practices [4] Technique
+User Performance [5] Technique
+User Experience [5] Technique
+Application [2] Authentication
+Evaluation [5] Authentication
+Model [1] Authentication
+Technique [7] Authentication
+Application [3] Confidentiality
+Evaluation [4] Confidentiality
+System [1] Confidentiality
+Technique [2] Confidentiality
+Application [3] Authorization
+Evaluation [2] Authorization
+System [2] Authorization
+Technique [1] Authorization
+Application [3] Integrity
+Evaluation [1] Integrity
+Model [1] Integrity
+Technique [2] Integrity
+Evaluation [4] Identification
+Model [1] Identification
+Technique [2] Identification
+Application [1] Availability
+Technique [1] Availability
+Application [2] Non-repudiation
+Evaluation [4] Unobservability
+Model [1] Unobservability
+Technique [6] Unobservability
+Application [2] Awareness
+Evaluation [7] Awareness
+Application [1] Anonymity
+Technique [5] Anonymity
+Application [2] Policy
+Evaluation [2] Policy
+Application [1] Unlinkability
+Evaluation [1] Unlinkability
+System [1] Unlinkability
+Technique [1] Unlinkability
+Application [1] Deniability
+Technique [1] Deniability

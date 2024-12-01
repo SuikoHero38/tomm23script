@@ -1,0 +1,107 @@
+evaluation > papertype > metaverse > size
+Algorithm Performance,Application,Virtual World,6
+Algorithm Performance,Application,Lifelogging,5
+Algorithm Performance,Application,Augmented Reality,7
+Algorithm Performance,Application,Mirror World,3
+Algorithm Performance,Evaluation,Virtual World,4
+Algorithm Performance,Evaluation,Lifelogging,4
+Algorithm Performance,Evaluation,Augmented Reality,2
+Algorithm Performance,Evaluation,Mirror World,2
+Algorithm Performance,Model,Virtual World,2
+Algorithm Performance,Model,Lifelogging,2
+Algorithm Performance,Model,Augmented Reality,1
+Algorithm Performance,Model,Mirror World,2
+Algorithm Performance,System,Virtual World,1
+Algorithm Performance,System,Lifelogging,2
+Algorithm Performance,System,Augmented Reality,1
+Algorithm Performance,System,Mirror World,1
+Algorithm Performance,Technique,Virtual World,19
+Algorithm Performance,Technique,Lifelogging,24
+Algorithm Performance,Technique,Augmented Reality,12
+Algorithm Performance,Technique,Mirror World,9
+Environment and Practices,Application,Virtual World,5
+Environment and Practices,Application,Lifelogging,3
+Environment and Practices,Application,Augmented Reality,5
+Environment and Practices,Application,Mirror World,2
+Environment and Practices,Evaluation,Virtual World,16
+Environment and Practices,Evaluation,Lifelogging,8
+Environment and Practices,Evaluation,Augmented Reality,9
+Environment and Practices,Evaluation,Mirror World,3
+Environment and Practices,Model,Augmented Reality,1
+Environment and Practices,System,Augmented Reality,2
+Environment and Practices,System,Mirror World,1
+Environment and Practices,Technique,Virtual World,1
+Environment and Practices,Technique,Lifelogging,4
+Environment and Practices,Technique,Augmented Reality,3
+Environment and Practices,Technique,Mirror World,3
+User Performance,Application,Virtual World,4
+User Performance,Application,Lifelogging,3
+User Performance,Application,Augmented Reality,2
+User Performance,Application,Mirror World,1
+User Performance,Evaluation,Virtual World,6
+User Performance,Evaluation,Lifelogging,2
+User Performance,Evaluation,Augmented Reality,2
+User Performance,Evaluation,Mirror World,1
+User Performance,Technique,Virtual World,3
+User Performance,Technique,Lifelogging,4
+User Performance,Technique,Augmented Reality,3
+User Performance,Technique,Mirror World,1
+User Experience,Application,Virtual World,3
+User Experience,Application,Lifelogging,2
+User Experience,Application,Augmented Reality,4
+User Experience,Application,Mirror World,2
+User Experience,Evaluation,Virtual World,6
+User Experience,Evaluation,Lifelogging,3
+User Experience,Evaluation,Augmented Reality,5
+User Experience,Technique,Virtual World,3
+User Experience,Technique,Lifelogging,5
+User Experience,Technique,Augmented Reality,2
+User Experience,Technique,Mirror World,3
+
+evaluation > papertype > reality > size
+Algorithm Performance,Application,Virtual Reality,5
+Algorithm Performance,Application,Augmented Reality,7
+Algorithm Performance,Application,Mixed Reality,2
+Algorithm Performance,Application,Extended Reality,1
+Algorithm Performance,Evaluation,Virtual Reality,3
+Algorithm Performance,Evaluation,Augmented Reality,2
+Algorithm Performance,Evaluation,Extended Reality,1
+Algorithm Performance,Model,Virtual Reality,1
+Algorithm Performance,Model,Augmented Reality,1
+Algorithm Performance,Model,Mixed Reality,1
+Algorithm Performance,Model,Extended Reality,1
+Algorithm Performance,System,Augmented Reality,1
+Algorithm Performance,System,Extended Reality,1
+Algorithm Performance,Technique,Virtual Reality,18
+Algorithm Performance,Technique,Augmented Reality,12
+Algorithm Performance,Technique,Mixed Reality,4
+Algorithm Performance,Technique,Extended Reality,1
+Environment and Practices,Application,Virtual Reality,5
+Environment and Practices,Application,Augmented Reality,5
+Environment and Practices,Application,Mixed Reality,2
+Environment and Practices,Evaluation,Virtual Reality,15
+Environment and Practices,Evaluation,Augmented Reality,9
+Environment and Practices,Evaluation,Mixed Reality,1
+Environment and Practices,Evaluation,Extended Reality,1
+Environment and Practices,Model,Augmented Reality,1
+Environment and Practices,System,Augmented Reality,2
+Environment and Practices,System,Mixed Reality,1
+Environment and Practices,Technique,Virtual Reality,1
+Environment and Practices,Technique,Augmented Reality,3
+Environment and Practices,Technique,Mixed Reality,2
+User Performance,Application,Virtual Reality,4
+User Performance,Application,Augmented Reality,2
+User Performance,Application,Mixed Reality,1
+User Performance,Evaluation,Virtual Reality,6
+User Performance,Evaluation,Augmented Reality,2
+User Performance,Evaluation,Mixed Reality,1
+User Performance,Technique,Virtual Reality,3
+User Performance,Technique,Augmented Reality,3
+User Experience,Application,Virtual Reality,3
+User Experience,Application,Augmented Reality,4
+User Experience,Application,Mixed Reality,2
+User Experience,Evaluation,Virtual Reality,6
+User Experience,Evaluation,Augmented Reality,5
+User Experience,Technique,Virtual Reality,3
+User Experience,Technique,Augmented Reality,2
+User Experience,Technique,Mixed Reality,2

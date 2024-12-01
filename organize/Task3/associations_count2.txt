@@ -1,0 +1,106 @@
+Associations between Evaluation and Metaverse:
+AP [28] MW
+AP [23] AR
+AP [16] VW
+AP [14] LL
+UE [15] AR
+UE [8] VW
+UE [7] LL
+UE [12] MW
+UP [6] MW
+UP [1] LL
+UP [3] VW
+UP [2] AR
+UWP [6] VW
+UWP [9] MW
+UWP [7] AR
+UWP [2] LL
+
+Associations between Metaverse and Topic:
+MW [8] Authentication
+MW [13] Awareness
+MW [8] New Attacks
+MW [3] Challenges
+MW [10] Lesson Learned
+AR [3] Authentication
+AR [15] Awareness
+AR [11] Lesson Learned
+AR [8] New Attacks
+AR [2] Challenges
+VW [7] Awareness
+VW [4] New Attacks
+VW [4] Authentication
+VW [10] Lesson Learned
+VW [1] Challenges
+LL [2] Authentication
+LL [6] New Attacks
+LL [2] Challenges
+LL [5] Awareness
+LL [3] Lesson Learned
+
+Associations between Topic and Paper Type:
+Authentication [3] Application
+Authentication [5] Technique
+Authentication [2] Evaluation
+Authentication [1] Model
+Awareness [8] Application
+Awareness [6] Technique
+Awareness [4] System
+Awareness [5] Evaluation
+Awareness [1] Model
+Lesson Learned [17] Evaluation
+Lesson Learned [3] Application
+Lesson Learned [4] Technique
+Lesson Learned [1] Model
+New Attacks [10] Technique
+New Attacks [3] Application
+New Attacks [1] Evaluation
+Challenges [2] Application
+Challenges [1] Evaluation
+Challenges [1] Model
+
+Associations between Paper Type and Venue:
+Application [3] SP
+Application [1] NDSS
+Application [5] USS
+Application [2] CHI
+Application [2] VR
+Application [1] ISMAR
+Application [1] UIST
+Application [1] ACSAC
+Application [1] TOPS
+Application [1] TrustCom
+Application [1] TVCG
+Evaluation [1] SP
+Evaluation [3] USS
+Evaluation [6] CHI
+Evaluation [2] VR
+Evaluation [2] UIST
+Evaluation [1] FC
+Evaluation [1] TODSC
+Evaluation [1] ACSAC
+Evaluation [2] PETS
+Evaluation [1] TVCG
+Evaluation [4] SOUPS
+Evaluation [1] CS
+Evaluation [1] PACIFICVIS
+Technique [2] SP
+Technique [1] NDSS
+Technique [3] USS
+Technique [1] CCS
+Technique [8] VR
+Technique [2] UIST
+Technique [1] TODSC
+Technique [2] TOIFS
+Technique [3] TVCG
+Technique [1] WiSec
+Technique [1] FC
+System [1] CHI
+System [1] ISMAR
+System [1] ARES
+System [1] CCS
+Model [1] ESORICS
+Model [1] PETS
+Model [1] ARES
+Model [1] CS
+

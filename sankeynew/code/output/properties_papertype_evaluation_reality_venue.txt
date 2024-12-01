@@ -1,0 +1,88 @@
+Authentication [2] Application
+Confidentiality [3] Application
+Authorization [3] Application
+Integrity [3] Application
+Availability [1] Application
+Non-repudiation [2] Application
+Awareness [2] Application
+Anonymity [1] Application
+Policy [2] Application
+Unlinkability [1] Application
+Deniability [1] Application
+Authentication [5] Evaluation
+Confidentiality [4] Evaluation
+Authorization [2] Evaluation
+Integrity [1] Evaluation
+Identification [4] Evaluation
+Unobservability [4] Evaluation
+Awareness [7] Evaluation
+Policy [2] Evaluation
+Unlinkability [1] Evaluation
+Authentication [1] Model
+Integrity [1] Model
+Identification [1] Model
+Unobservability [1] Model
+Confidentiality [1] System
+Authorization [2] System
+Unlinkability [1] System
+Authentication [7] Technique
+Confidentiality [2] Technique
+Authorization [1] Technique
+Integrity [2] Technique
+Identification [2] Technique
+Availability [1] Technique
+Unobservability [6] Technique
+Anonymity [5] Technique
+Unlinkability [1] Technique
+Deniability [1] Technique
+Application [12] Algorithm Performance
+Application [9] Environment and Practices
+Application [6] User Performance
+Application [6] User Experience
+Evaluation [5] Algorithm Performance
+Evaluation [25] Environment and Practices
+Evaluation [9] User Performance
+Evaluation [11] User Experience
+Model [3] Algorithm Performance
+Model [1] Environment and Practices
+System [2] Algorithm Performance
+System [2] Environment and Practices
+Technique [28] Algorithm Performance
+Technique [4] Environment and Practices
+Technique [5] User Performance
+Technique [5] User Experience
+Algorithm Performance [27] Virtual Reality
+Environment and Practices [21] Virtual Reality
+User Performance [13] Virtual Reality
+User Experience [12] Virtual Reality
+Algorithm Performance [23] Augmented Reality
+Environment and Practices [20] Augmented Reality
+User Performance [7] Augmented Reality
+User Experience [11] Augmented Reality
+Algorithm Performance [7] Mixed Reality
+Environment and Practices [6] Mixed Reality
+User Performance [2] Mixed Reality
+User Experience [4] Mixed Reality
+Algorithm Performance [5] Extended Reality
+Environment and Practices [1] Extended Reality
+Virtual Reality [6] CHI
+Augmented Reality [3] CHI
+Extended Reality [1] CHI
+Virtual Reality [16] Other Venues
+Augmented Reality [20] Other Venues
+Mixed Reality [5] Other Venues
+Extended Reality [4] Other Venues
+Virtual Reality [3] SP
+Augmented Reality [5] SP
+Virtual Reality [3] TVCG
+Augmented Reality [2] TVCG
+Mixed Reality [1] TVCG
+Virtual Reality [1] UIST
+Augmented Reality [4] UIST
+Virtual Reality [6] USS
+Augmented Reality [5] USS
+Mixed Reality [3] USS
+Extended Reality [1] USS
+Virtual Reality [11] VR
+Augmented Reality [2] VR
+Mixed Reality [2] VR

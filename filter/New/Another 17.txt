@@ -1,0 +1,17 @@
+Virtually secure: A taxonomic assessment of cybersecurity challenges in virtual reality environments
+Modeling and Defense of Social Virtual Reality Attacks Inducing Cybersickness
+World-Driven Access Control for Continuous Sensing
+MagLoc-AR: Magnetic-Based Localization for Visual-Free Augmented Reality in Large-Scale Indoor Environments
+Visual Indicators Representing Avatars' Authenticity in Social Virtual Reality and Their Impacts on Perceived Trustworthiness
+Understanding Context to Capture when Reconstructing Meaningful Spaces for Remote Instruction and Connecting in XR (Sampai sini sudah di copy hingga Abstract dan Keyword)
+Visual Cryptography and Obfuscation: A Use-Case for Decrypting and Deobfuscating Information Using Augmented Reality
+The Dark Side of Perceptual Manipulations in Virtual Reality
+SurroundWeb: Mitigating Privacy Concerns in a 3D Web Browser
+Data Mining on Smartphones: An Introduction and Survey
+Tracking-Tolerant Visual Cryptography
+Designing Leakage-Resilient Password Entry on Head-Mounted Smart Wearable Glass Devices
+The Security-Utility Trade-off for Iris Authentication and Eye Animation for Social Virtual Avatars
+[Poster] Using augmented reality to support information exchange of teams in the security domain
+Arya: Operating System Support for Securely Augmenting Reality
+A systematic threat analysis and defense strategies for the metaverse and extended reality systems
+Cliffhanger-VR

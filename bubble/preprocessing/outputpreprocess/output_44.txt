@@ -1,0 +1,80 @@
+Benchmarking,Virtual Reality,Virtual World,27
+Benchmarking,Virtual Reality,Lifelogging,22
+Benchmarking,Virtual Reality,Augmented Reality,6
+Benchmarking,Virtual Reality,Mirror World,7
+Benchmarking,Augmented Reality,Virtual World,7
+Benchmarking,Augmented Reality,Lifelogging,16
+Benchmarking,Augmented Reality,Augmented Reality,24
+Benchmarking,Augmented Reality,Mirror World,11
+Benchmarking,Mixed Reality,Virtual World,2
+Benchmarking,Mixed Reality,Lifelogging,5
+Benchmarking,Mixed Reality,Augmented Reality,5
+Benchmarking,Mixed Reality,Mirror World,7
+Benchmarking,Extended Reality,Virtual World,5
+Benchmarking,Extended Reality,Lifelogging,5
+Benchmarking,Extended Reality,Augmented Reality,1
+Benchmarking,Extended Reality,Mirror World,5
+Human Experimentation,Virtual Reality,Virtual World,26
+Human Experimentation,Virtual Reality,Lifelogging,11
+Human Experimentation,Virtual Reality,Augmented Reality,2
+Human Experimentation,Virtual Reality,Mirror World,2
+Human Experimentation,Augmented Reality,Virtual World,2
+Human Experimentation,Augmented Reality,Lifelogging,9
+Human Experimentation,Augmented Reality,Augmented Reality,15
+Human Experimentation,Augmented Reality,Mirror World,4
+Human Experimentation,Mixed Reality,Virtual World,1
+Human Experimentation,Mixed Reality,Lifelogging,4
+Human Experimentation,Mixed Reality,Augmented Reality,3
+Human Experimentation,Mixed Reality,Mirror World,5
+Human Experimentation,Extended Reality,Virtual World,1
+Human Experimentation,Extended Reality,Lifelogging,1
+Human Experimentation,Extended Reality,Mirror World,1
+Interview,Virtual Reality,Virtual World,13
+Interview,Virtual Reality,Lifelogging,3
+Interview,Virtual Reality,Augmented Reality,1
+Interview,Virtual Reality,Mirror World,1
+Interview,Augmented Reality,Virtual World,1
+Interview,Augmented Reality,Lifelogging,4
+Interview,Augmented Reality,Augmented Reality,9
+Interview,Augmented Reality,Mirror World,1
+Interview,Mixed Reality,Lifelogging,1
+Interview,Mixed Reality,Mirror World,2
+Interview,Extended Reality,Virtual World,1
+Interview,Extended Reality,Lifelogging,1
+Interview,Extended Reality,Mirror World,1
+Questionnaire,Virtual Reality,Virtual World,12
+Questionnaire,Virtual Reality,Lifelogging,4
+Questionnaire,Virtual Reality,Augmented Reality,2
+Questionnaire,Virtual Reality,Mirror World,2
+Questionnaire,Augmented Reality,Virtual World,2
+Questionnaire,Augmented Reality,Lifelogging,6
+Questionnaire,Augmented Reality,Augmented Reality,11
+Questionnaire,Augmented Reality,Mirror World,4
+Questionnaire,Mixed Reality,Virtual World,1
+Questionnaire,Mixed Reality,Lifelogging,3
+Questionnaire,Mixed Reality,Augmented Reality,3
+Questionnaire,Mixed Reality,Mirror World,3
+Data Science,Virtual Reality,Virtual World,15
+Data Science,Virtual Reality,Lifelogging,14
+Data Science,Virtual Reality,Augmented Reality,3
+Data Science,Virtual Reality,Mirror World,4
+Data Science,Augmented Reality,Virtual World,3
+Data Science,Augmented Reality,Lifelogging,5
+Data Science,Augmented Reality,Augmented Reality,6
+Data Science,Augmented Reality,Mirror World,4
+Data Science,Mixed Reality,Virtual World,1
+Data Science,Mixed Reality,Lifelogging,2
+Data Science,Mixed Reality,Augmented Reality,1
+Data Science,Mixed Reality,Mirror World,2
+Data Science,Extended Reality,Virtual World,1
+Data Science,Extended Reality,Lifelogging,1
+Data Science,Extended Reality,Mirror World,1
+Engineering Research,Augmented Reality,Augmented Reality,1
+Engineering Research,Augmented Reality,Mirror World,1
+Engineering Research,Mixed Reality,Augmented Reality,1
+Engineering Research,Mixed Reality,Mirror World,1
+Engineering Research,Extended Reality,Virtual World,1
+Engineering Research,Extended Reality,Lifelogging,1
+Engineering Research,Extended Reality,Mirror World,1
+Meta Science,Virtual Reality,Virtual World,1
+Meta Science,Augmented Reality,Augmented Reality,1

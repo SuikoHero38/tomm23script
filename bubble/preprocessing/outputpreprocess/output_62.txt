@@ -1,0 +1,61 @@
+Virtual Reality,Virtual World,Application,9
+Virtual Reality,Virtual World,Evaluation,18
+Virtual Reality,Virtual World,Model,1
+Virtual Reality,Virtual World,Technique,18
+Virtual Reality,Lifelogging,Application,5
+Virtual Reality,Lifelogging,Evaluation,5
+Virtual Reality,Lifelogging,Technique,16
+Virtual Reality,Augmented Reality,Application,2
+Virtual Reality,Augmented Reality,Evaluation,2
+Virtual Reality,Augmented Reality,Technique,4
+Virtual Reality,Mirror World,Application,2
+Virtual Reality,Mirror World,Evaluation,2
+Virtual Reality,Mirror World,Technique,5
+Augmented Reality,Virtual World,Application,3
+Augmented Reality,Virtual World,Evaluation,2
+Augmented Reality,Virtual World,Technique,4
+Augmented Reality,Lifelogging,Application,5
+Augmented Reality,Lifelogging,Evaluation,5
+Augmented Reality,Lifelogging,Model,1
+Augmented Reality,Lifelogging,System,1
+Augmented Reality,Lifelogging,Technique,10
+Augmented Reality,Augmented Reality,Application,13
+Augmented Reality,Augmented Reality,Evaluation,11
+Augmented Reality,Augmented Reality,Model,2
+Augmented Reality,Augmented Reality,System,3
+Augmented Reality,Augmented Reality,Technique,12
+Augmented Reality,Mirror World,Application,4
+Augmented Reality,Mirror World,Evaluation,2
+Augmented Reality,Mirror World,Model,1
+Augmented Reality,Mirror World,System,1
+Augmented Reality,Mirror World,Technique,6
+Mixed Reality,Virtual World,Application,2
+Mixed Reality,Virtual World,Technique,1
+Mixed Reality,Lifelogging,Application,3
+Mixed Reality,Lifelogging,Model,1
+Mixed Reality,Lifelogging,Technique,3
+Mixed Reality,Augmented Reality,Application,3
+Mixed Reality,Augmented Reality,Model,1
+Mixed Reality,Augmented Reality,System,1
+Mixed Reality,Augmented Reality,Technique,2
+Mixed Reality,Mirror World,Application,3
+Mixed Reality,Mirror World,Evaluation,1
+Mixed Reality,Mirror World,Model,1
+Mixed Reality,Mirror World,System,1
+Mixed Reality,Mirror World,Technique,4
+Extended Reality,Virtual World,Application,1
+Extended Reality,Virtual World,Evaluation,2
+Extended Reality,Virtual World,Model,1
+Extended Reality,Virtual World,System,1
+Extended Reality,Virtual World,Technique,1
+Extended Reality,Lifelogging,Application,1
+Extended Reality,Lifelogging,Evaluation,2
+Extended Reality,Lifelogging,Model,1
+Extended Reality,Lifelogging,System,1
+Extended Reality,Lifelogging,Technique,1
+Extended Reality,Augmented Reality,Application,1
+Extended Reality,Mirror World,Application,1
+Extended Reality,Mirror World,Evaluation,2
+Extended Reality,Mirror World,Model,1
+Extended Reality,Mirror World,System,1
+Extended Reality,Mirror World,Technique,1

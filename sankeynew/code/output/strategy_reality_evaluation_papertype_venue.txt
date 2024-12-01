@@ -1,0 +1,77 @@
+Benchmarking [27] Virtual Reality
+Human Experimentation [26] Virtual Reality
+Interview [13] Virtual Reality
+Questionnaire [12] Virtual Reality
+Data Science [15] Virtual Reality
+Meta Science [1] Virtual Reality
+Benchmarking [24] Augmented Reality
+Human Experimentation [15] Augmented Reality
+Interview [9] Augmented Reality
+Questionnaire [11] Augmented Reality
+Data Science [6] Augmented Reality
+Engineering Research [1] Augmented Reality
+Meta Science [1] Augmented Reality
+Benchmarking [8] Mixed Reality
+Human Experimentation [5] Mixed Reality
+Interview [2] Mixed Reality
+Questionnaire [3] Mixed Reality
+Data Science [2] Mixed Reality
+Engineering Research [1] Mixed Reality
+Benchmarking [5] Extended Reality
+Human Experimentation [1] Extended Reality
+Interview [1] Extended Reality
+Data Science [1] Extended Reality
+Engineering Research [1] Extended Reality
+Virtual Reality [27] Algorithm Performance
+Augmented Reality [23] Algorithm Performance
+Mixed Reality [7] Algorithm Performance
+Extended Reality [5] Algorithm Performance
+Virtual Reality [21] Environment and Practices
+Augmented Reality [20] Environment and Practices
+Mixed Reality [6] Environment and Practices
+Extended Reality [1] Environment and Practices
+Virtual Reality [13] User Performance
+Augmented Reality [7] User Performance
+Mixed Reality [2] User Performance
+Virtual Reality [12] User Experience
+Augmented Reality [11] User Experience
+Mixed Reality [4] User Experience
+Algorithm Performance [12] Application
+Environment and Practices [9] Application
+User Performance [6] Application
+User Experience [6] Application
+Algorithm Performance [5] Evaluation
+Environment and Practices [25] Evaluation
+User Performance [9] Evaluation
+User Experience [11] Evaluation
+Algorithm Performance [3] Model
+Environment and Practices [1] Model
+Algorithm Performance [2] System
+Environment and Practices [2] System
+Algorithm Performance [28] Technique
+Environment and Practices [4] Technique
+User Performance [5] Technique
+User Experience [5] Technique
+Application [2] CHI
+Evaluation [7] CHI
+System [1] CHI
+Application [6] Other Venues
+Evaluation [11] Other Venues
+Model [4] Other Venues
+System [3] Other Venues
+Technique [10] Other Venues
+Application [3] SP
+Evaluation [2] SP
+Technique [2] SP
+Application [1] TVCG
+Evaluation [1] TVCG
+Technique [3] TVCG
+Application [1] UIST
+Evaluation [2] UIST
+Technique [2] UIST
+Application [6] USS
+Evaluation [4] USS
+Technique [3] USS
+Application [2] VR
+Evaluation [3] VR
+Technique [8] VR

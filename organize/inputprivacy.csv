@@ -1,0 +1,37 @@
+﻿Item Type,Venue Long,Venue2,Venue,Year,Rank,Domain,Paper Type,Topic,Topic2,Metaverse,Strategy,Evaluation,Reality
+conferencePaper,UIST - Symposium on User Interface Software and Technology,UIST,UIST,2023,A*,HCI,Application,Unlinkability,Privacy,AR,"Experiment with Human participants,Qualitative Survey (Interviews)",UE,AR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2022,A*,S&P,Application,Policy,Privacy,VW,Benchmarking,AP,VR
+journalPaper,TOPS - Transactions on Privacy and Security,TOPS,Other Venues,2022,A,S&P,Application,Policy,Privacy,AR,Benchmarking,AP,AR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2021,A*,HCI,Application,Deniability,Privacy,"VW,LL","Experiment with Human participants,Questionnaire Surveys",AP,VR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2021,A*,HCI,Application,Awareness,Privacy,AR,"Experiment with Human participants,Questionnaire Surveys",UE,AR
+conferencePaper,SP - IEEE Symposium on Security and Privacy,SP,SP,2016,A*,S&P,Application,Anonymity,Privacy,"AR,LL",Benchmarking,AP,AR
+conferencePaper,SP - IEEE Symposium on Security and Privacy,SP,SP,2015,A*,S&P,Application,Awareness,Privacy,AR,"Experiment with Human participants,Questionnaire Surveys",AP,AR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2023,A*,S&P,Evaluation,Unobservability,Privacy,"VW,LL",Data Science,AP,VR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2023,A*,S&P,Evaluation,Unobservability,Privacy,"VW,MW,LL",Engineering Research,AP,XR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2023,A*,S&P,Evaluation,Unlinkability,Privacy,"VW,MW,AR,LL",Data Science,AP,"AR,VR"
+conferencePaper,PETS - International Symposium on Privacy Enhancing Technologies,PETS,Other Venues,2023,A,S&P,Evaluation,Unobservability,Privacy,VW,Experiment with Human participants,AP,VR
+conferencePaper,PETS - International Symposium on Privacy Enhancing Technologies,PETS,Other Venues,2023,A,S&P,Evaluation,Awareness,Privacy,AR,Qualitative Survey (Interviews),UE,AR
+conferencePaper,SOUPS - Symposium On Usable Privacy and Security,SOUPS,Other Venues,2023,B,S&P,Evaluation,Awareness,Privacy,VW,Experiment with Human participants,"UP,UE,UWP",VR
+conferencePaper,SOUPS - Symposium On Usable Privacy and Security,SOUPS,Other Venues,2023,B,S&P,Evaluation,Awareness,Privacy,VW,Qualitative Survey (Interviews),UE,VR
+journalPaper,CS - Computers and Security,CS,Other Venues,2023,B,S&P,Evaluation,Awareness,Privacy,VW,"Experiment with Human participants,Questionnaire Surveys","UP,UE",VR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2023,A*,HCI,Evaluation,Awareness,Privacy,"VW,MW,LL","Experiment with Human participants,Qualitative Survey (Interviews)",UE,XR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2023,A*,S&P,Evaluation,Policy,Privacy,MW,"Experiment with Human participants,Qualitative Survey (Interviews)",UP,MR
+conferencePaper,CHI - Human Factors in Computing Systems,CHI,CHI,2022,A*,HCI,Evaluation,Unobservability,Privacy,VW,Experiment with Human participants,UWP,VR
+conferencePaper,UIST - Symposium on User Interface Software and Technology,UIST,UIST,2019,A*,HCI,Evaluation,Awareness,Privacy,"AR,LL","Experiment with Human participants,Qualitative Survey (Interviews)",UE,AR
+conferencePaper,UIST - Symposium on User Interface Software and Technology,UIST,UIST,2015,A*,HCI,Evaluation,Awareness,Privacy,"AR,LL","Experiment with Human participants,Qualitative Survey (Interviews)","UE,UWP",AR
+conferencePaper,SOUPS - Symposium On Usable Privacy and Security,SOUPS,Other Venues,2015,B,S&P,Evaluation,Policy,Privacy,AR,"Experiment with Human participants,Questionnaire Surveys",UE,AR
+conferencePaper,ESORICS - European Symposium on Research in Computer Security,ESORICS,Other Venues,2019,A,S&P,Model,Unobservability,Privacy,"MW,AR,LL",Data Science,AP,"MR,AR"
+conferencePaper,"ARES - International Conference on Availability,Reliability and Security",ARES,Other Venues,2023,B,S&P,System,Unlinkability,Privacy,"VW,MW,LL",Benchmarking,AP,XR
+conferencePaper,SP - IEEE Symposium on Security and Privacy,SP,SP,2023,A*,S&P,Technique,Anonymity,Privacy,VW,"Benchmarking,Experiment with Human participants",AP,VR
+journalPaper,TVCG - Transactions on Visualization and Computer Graphics,TVCG,TVCG,2023,A,HCI,Technique,Anonymity,Privacy,"AR,LL",Benchmarking,AP,AR
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2022,A*,HCI,Technique,Unobservability,Privacy,"VW,LL","Benchmarking,Data Science",AP,VR
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2022,A*,HCI,Technique,Unobservability,Privacy,"MW,AR,LL","Experiment with Human participants,Questionnaire Surveys","AP,UE","MR,AR"
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2022,A*,HCI,Technique,Deniability,Privacy,"MW,AR",Benchmarking,AP,"MR,AR"
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2022,A*,HCI,Technique,Unlinkability,Privacy,"VW,LL","Data Science,Experiment with Human participants",AP,VR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2021,A*,S&P,Technique,Unobservability,Privacy,"MW,LL",Experiment with Human participants,AP,MR
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2021,A*,HCI,Technique,Unobservability,Privacy,"VW,LL",Experiment with Human participants,AP,VR
+journalPaper,TVCG - Transactions on Visualization and Computer Graphics,TVCG,TVCG,2021,A,HCI,Technique,Anonymity,Privacy,"VW,MW,LL",Data Science,AP,"MR,VR"
+journalPaper,TVCG - Transactions on Visualization and Computer Graphics,TVCG,TVCG,2020,A,HCI,Technique,Unobservability,Privacy,"VW,LL",Experiment with Human participants,"AP,UE",VR
+journalPaper,TODSC -Transactions on Dependable and Secure Computing,TODSC,Other Venues,2019,A,S&P,Technique,Anonymity,Privacy,"VW,MW,AR,LL",Experiment with Human participants,AP,"AR,VR"
+conferencePaper,VR - International Symposium Virtual Reality,VR,VR,2018,A*,HCI,Technique,Anonymity,Privacy,"VW,LL","Data Science,Experiment with Human participants",AP,VR
+conferencePaper,USS - Usenix Security Symposium,USS,USS,2016,A*,S&P,Technique,Unobservability,Privacy,"VW,LL","Benchmarking,Experiment with Human participants",AP,VR

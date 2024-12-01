@@ -1,0 +1,130 @@
+//Associations between Paper Type and Topic:
+Application [3] Authorization
+Application [3] Confidentiality
+Application [2] Non-repudiation
+Application [1] Unlinkability
+Application [3] Integrity
+Application [2] Policy
+Application [1] Deniability
+Application [2] Awareness
+Application [1] Availability
+Application [2] Authentication
+Application [1] Anonymity
+Evaluation [4] Unobservability
+Evaluation [1] Unlinkability
+Evaluation [4] Identification
+Evaluation [7] Awareness
+Evaluation [2] Policy
+Evaluation [4] Confidentiality
+Evaluation [5] Authentication
+Evaluation [1] Integrity
+Evaluation [2] Authorization
+Model [1] Identification
+Model [1] Integrity
+Model [1] Authentication
+Model [1] Unobservability
+System [2] Authorization
+System [1] Unlinkability
+System [1] Confidentiality
+Technique [5] Anonymity
+Technique [7] Authentication
+Technique [2] Confidentiality
+Technique [2] Integrity
+Technique [6] Unobservability
+Technique [1] Deniability
+Technique [2] Identification
+Technique [1] Unlinkability
+Technique [1] Availability
+Technique [1] Authorization
+
+//Associations between Paper Type and Strategy:
+Application [10] Benchmarking
+Application [13] Experiment with Human participants
+Application [2] Qualitative Survey (Interviews)
+Application [6] Questionnaire Surveys
+Application [2] Data Science
+Evaluation [2] Data Science
+Evaluation [1] Engineering Research
+Evaluation [21] Experiment with Human participants
+Evaluation [15] Qualitative Survey (Interviews)
+Evaluation [9] Questionnaire Surveys
+Model [2] Data Science
+Model [2] Meta Science
+System [1] Experiment with Human participants
+System [1] Questionnaire Surveys
+System [2] Benchmarking
+System [1] Engineering Research
+Technique [13] Benchmarking
+Technique [15] Experiment with Human participants
+Technique [12] Data Science
+Technique [1] Questionnaire Surveys
+
+//Associations between Paper Type and Metaverse:
+Application [5] MW
+Application [13] AR
+Application [10] VW
+Application [8] LL
+
+Evaluation [20] VW
+Evaluation [11] LL
+Evaluation [5] MW
+Evaluation [11] AR
+
+Model [2] VW
+Model [2] MW
+Model [2] LL
+Model [2] AR
+
+System [3] AR
+System [1] VW
+System [2] MW
+System [2] LL
+
+Technique [19] VW
+Technique [24] LL
+Technique [12] AR
+Technique [9] MW
+
+//Associations between Paper Type and Reality:
+Application [4] MR
+Application [13] AR
+Application [9] VR
+Application [1] XR
+
+Evaluation [18] VR
+Evaluation [2] XR
+Evaluation [11] AR
+Evaluation [1] MR
+
+Model [1] XR
+Model [1] VR
+Model [2] AR
+Model [1] MR
+
+System [3] AR
+System [1] XR
+System [1] MR
+
+Technique [18] VR
+Technique [12] AR
+Technique [1] XR
+Technique [4] MR
+
+//Associations between Paper Type and Evaluation:
+Application [14] AP
+Application [6] UE
+Application [2] UP
+Application [3] UWP
+Evaluation [6] AP
+Evaluation [19] UE
+Evaluation [6] UP
+Evaluation [8] UWP
+Model [3] AP
+Model [1] UE
+System [2] UWP
+System [2] AP
+Technique [28] AP
+Technique [1] UP
+Technique [4] UE
+Technique [1] UWP
+

@@ -1,0 +1,82 @@
+Benchmarking [12] Application
+Human Experimentation [12] Application
+Interview [2] Application
+Questionnaire [8] Application
+Data Science [3] Application
+Benchmarking [5] Evaluation
+Human Experimentation [21] Evaluation
+Interview [19] Evaluation
+Questionnaire [9] Evaluation
+Data Science [2] Evaluation
+Engineering Research [1] Evaluation
+Benchmarking [3] Model
+Questionnaire [1] Model
+Data Science [2] Model
+Meta Science [2] Model
+Benchmarking [3] System
+Interview [1] System
+Engineering Research [1] System
+Benchmarking [28] Technique
+Human Experimentation [9] Technique
+Interview [2] Technique
+Questionnaire [3] Technique
+Data Science [12] Technique
+Application [12] Algorithm Performance
+Application [9] Environment and Practices
+Application [6] User Performance
+Application [6] User Experience
+Evaluation [5] Algorithm Performance
+Evaluation [25] Environment and Practices
+Evaluation [9] User Performance
+Evaluation [11] User Experience
+Model [3] Algorithm Performance
+Model [1] Environment and Practices
+System [2] Algorithm Performance
+System [2] Environment and Practices
+Technique [28] Algorithm Performance
+Technique [4] Environment and Practices
+Technique [5] User Performance
+Technique [5] User Experience
+Algorithm Performance [32] Virtual World
+Environment and Practices [22] Virtual World
+User Performance [13] Virtual World
+User Experience [12] Virtual World
+Algorithm Performance [37] Lifelogging
+Environment and Practices [15] Lifelogging
+User Performance [9] Lifelogging
+User Experience [10] Lifelogging
+Algorithm Performance [23] Augmented Reality
+Environment and Practices [20] Augmented Reality
+User Performance [7] Augmented Reality
+User Experience [11] Augmented Reality
+Algorithm Performance [17] Mirror World
+Environment and Practices [9] Mirror World
+User Performance [3] Mirror World
+User Experience [5] Mirror World
+Virtual World [7] CHI
+Lifelogging [5] CHI
+Augmented Reality [3] CHI
+Mirror World [1] CHI
+Virtual World [20] Other Venues
+Lifelogging [18] Other Venues
+Augmented Reality [20] Other Venues
+Mirror World [12] Other Venues
+Virtual World [3] SP
+Lifelogging [2] SP
+Augmented Reality [5] SP
+Mirror World [1] SP
+Virtual World [3] TVCG
+Lifelogging [3] TVCG
+Augmented Reality [2] TVCG
+Mirror World [1] TVCG
+Virtual World [1] UIST
+Lifelogging [3] UIST
+Augmented Reality [4] UIST
+Virtual World [7] USS
+Lifelogging [7] USS
+Augmented Reality [5] USS
+Mirror World [6] USS
+Virtual World [11] VR
+Lifelogging [9] VR
+Augmented Reality [2] VR
+Mirror World [2] VR

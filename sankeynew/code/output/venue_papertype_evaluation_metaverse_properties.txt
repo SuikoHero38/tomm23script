@@ -1,0 +1,106 @@
+CHI [2] Application
+CHI [7] Evaluation
+CHI [1] System
+Other Venues [6] Application
+Other Venues [11] Evaluation
+Other Venues [4] Model
+Other Venues [3] System
+Other Venues [10] Technique
+SP [3] Application
+SP [2] Evaluation
+SP [2] Technique
+TVCG [1] Application
+TVCG [1] Evaluation
+TVCG [3] Technique
+UIST [1] Application
+UIST [2] Evaluation
+UIST [2] Technique
+USS [6] Application
+USS [4] Evaluation
+USS [3] Technique
+VR [2] Application
+VR [3] Evaluation
+VR [8] Technique
+Application [12] Algorithm Performance
+Application [9] Environment and Practices
+Application [6] User Performance
+Application [6] User Experience
+Evaluation [5] Algorithm Performance
+Evaluation [25] Environment and Practices
+Evaluation [9] User Performance
+Evaluation [11] User Experience
+Model [3] Algorithm Performance
+Model [1] Environment and Practices
+System [2] Algorithm Performance
+System [2] Environment and Practices
+Technique [28] Algorithm Performance
+Technique [4] Environment and Practices
+Technique [5] User Performance
+Technique [5] User Experience
+Algorithm Performance [32] Virtual World
+Environment and Practices [22] Virtual World
+User Performance [13] Virtual World
+User Experience [12] Virtual World
+Algorithm Performance [37] Lifelogging
+Environment and Practices [15] Lifelogging
+User Performance [9] Lifelogging
+User Experience [10] Lifelogging
+Algorithm Performance [23] Augmented Reality
+Environment and Practices [20] Augmented Reality
+User Performance [7] Augmented Reality
+User Experience [11] Augmented Reality
+Algorithm Performance [17] Mirror World
+Environment and Practices [9] Mirror World
+User Performance [3] Mirror World
+User Experience [5] Mirror World
+Virtual World [13] Authentication
+Lifelogging [9] Authentication
+Augmented Reality [5] Authentication
+Mirror World [4] Authentication
+Virtual World [3] Confidentiality
+Lifelogging [6] Confidentiality
+Augmented Reality [8] Confidentiality
+Mirror World [2] Confidentiality
+Virtual World [1] Authorization
+Lifelogging [2] Authorization
+Augmented Reality [6] Authorization
+Mirror World [2] Authorization
+Virtual World [7] Integrity
+Lifelogging [2] Integrity
+Augmented Reality [1] Integrity
+Mirror World [1] Integrity
+Virtual World [5] Identification
+Lifelogging [5] Identification
+Augmented Reality [2] Identification
+Mirror World [1] Identification
+Virtual World [1] Availability
+Lifelogging [1] Availability
+Augmented Reality [2] Availability
+Mirror World [1] Availability
+Virtual World [1] Non-repudiation
+Lifelogging [1] Non-repudiation
+Augmented Reality [2] Non-repudiation
+Mirror World [1] Non-repudiation
+Virtual World [8] Unobservability
+Lifelogging [9] Unobservability
+Augmented Reality [2] Unobservability
+Mirror World [4] Unobservability
+Virtual World [4] Awareness
+Lifelogging [3] Awareness
+Augmented Reality [5] Awareness
+Mirror World [1] Awareness
+Virtual World [4] Anonymity
+Lifelogging [5] Anonymity
+Augmented Reality [3] Anonymity
+Mirror World [2] Anonymity
+Virtual World [1] Policy
+Augmented Reality [2] Policy
+Mirror World [1] Policy
+Virtual World [3] Unlinkability
+Lifelogging [3] Unlinkability
+Augmented Reality [2] Unlinkability
+Mirror World [2] Unlinkability
+Virtual World [1] Deniability
+Lifelogging [1] Deniability
+Augmented Reality [1] Deniability
+Mirror World [1] Deniability
