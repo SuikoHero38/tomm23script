@@ -1,48 +1,71 @@
-﻿Paper Title,Reference Id,Ref,Paper Type,Topic,Topic2,Participant Number,Male Participant Number,Female Participant Number,Question Available
-Reframe: An Augmented Reality Storyboarding Tool for Character-Driven Analysis of Security &amp; Privacy Concerns,metaversepaper088,,Application,Unlinkability,Privacy,12,6,6,No
-Visual Indicators Representing Avatars' Authenticity in Social Virtual Reality and Their Impacts on Perceived Trustworthiness,metaversepaper097,,Application,Integrity,Security,60,25,35,Yes
-NailRing: An Intelligent Ring for Recognizing Micro-gestures in Mixed Reality,metaversepaper084,,Application,Confidentiality,Security,10,6,4,No
-Covert Embodied Choice: Decision-Making and the Limits of Privacy Under Biometric Surveillance,metaversepaper067,,Application,Plausible Deniability,Privacy,55,21,34,No
-Crowdsourcing Design Guidance for Contextual Adaptation of Text Content in Augmented Reality,metaversepaper068,,Application,Content Awareness,Privacy,200,113,84,No
-OcuLock: Exploring Human Visual System for Authentication in Virtual Reality Head-mounted Display,metaversepaper009,,Application,Authentication,Security,70,43,27,No
-Investigating the Third Dimension for Authentication in Immersive Virtual Reality and in the Real World,metaversepaper078,,Application,Authentication,Security,126,78,48,No
-HoloPair: Securing Shared Augmented Reality Using Microsoft HoloLens,metaversepaper027,,Application,Confidentiality,Security,22,18,14,Yes
-Exploring the Privacy Risks of Adversarial VR Game Design,metaversepaper042,,Evaluation,Unobservability & Undetectability,Privacy,50,26,24,Yes
-Speculative Privacy Concerns About AR Glasses Data Collection,metaversepaper043,,Evaluation,Content Awareness,Privacy,21,10,7,Yes
-Investigating Security Indicators for Hyperlinking Within the Metaverse,metaversepaper049,,Evaluation,Content Awareness,Privacy,25,11,14,No
-"An Investigation of Teenager Experiences in Social Virtual Reality from Teenagers', Parents', and Bystanders' Perspectives",metaversepaper050,,Evaluation,Content Awareness,Privacy,24,15,8,Yes
-Understanding Context to Capture when Reconstructing Meaningful Spaces for Remote Instruction and Connecting in XR,metaversepaper098,,Evaluation,Content Awareness,Privacy,18,3,15,No
-"Something Personal from the Metaverse: Goals, Topics, and Contextual Factors of Self-Disclosure in Commercial Social VR",metaversepaper063,,Evaluation,Confidentiality,Security,126,77,14,No
-The Dark Side of Perceptual Manipulations in Virtual Reality,metaversepaper099,,Evaluation,Unobservability & Undetectability,Privacy,8,4,4,No
-Understanding User Identification in Virtual Reality Through Behavioral Biometrics and the Effect of Body Normalization,metaversepaper065,,Evaluation,Identification,Security,16,14,2,No
-RepliCueAuth: Validating the Use of a Lab-Based Virtual Reality Setup for Evaluating Authentication Systems,metaversepaper066,,Evaluation,Authentication,Security,42,24,18,Yes
-Influence of Interactivity and Social Environments on User Experience and Social Acceptability in Virtual Reality,metaversepaper077,,Evaluation,Confidentiality,Security,28,21,7,Yes
-Designing AR Visualizations to Facilitate Stair Navigation for People with Low Vision,metaversepaper089,,Evaluation,Content Awareness,Privacy,12,6,6,No
-Towards Security and Privacy for Multi-user Augmented Reality: Foundations with End Users,metaversepaper005,,Evaluation,Identification,Security,22,15,7,Yes
-Efficient verification of holograms using mobile augmented reality,metaversepaper094,,Evaluation,Confidentiality,Security,24,22,2,No
-Candid Interaction: Revealing Hidden Mobile and Wearable Computing Activities,metaversepaper090,,Evaluation,Content Awareness,Privacy,100,46,54,No
-Design and Analysis of Shoulder Surfing Resistant PIN Based Authentication Mechanisms on Google Glass,metaversepaper031,,Evaluation,Authentication,Security,30,19,11,No
-Ethics emerging: The story of privacy and security perceptions in virtual reality,metaversepaper047,,Evaluation,Authorization,Security,20,68,30,Yes
-Evaluating and redefining smartphone permissions with contextualized justifications for mobile augmented reality apps,metaversepaper048,,Evaluation,Policy & Consent Compliance,Privacy,289,113,165,Yes
-In situ with bystanders of augmented reality glasses: perspectives on recording and privacy-mediating technologies,metaversepaper069,,Evaluation,Confidentiality,Security,31,18,13,Yes
-Virtual Reality Observations: Using Virtual Reality to Augment Lab-Based Shoulder Surfing Research,metaversepaper106,,Evaluation,Authentication,Security,18,5,13,Yes
-Can I Borrow Your ATM? Using Virtual Reality for (Simulated) In Situ Authentication Research,metaversepaper107,,Evaluation,Authentication,Security,20,13,7,Yes
-Behavioural Biometrics in VR: Identifying People from Body Motion and Relations in Virtual Reality,metaversepaper104,,Evaluation,Identification,Security,22,18,4,No
-Understanding Person Identification Through Gait,metaversepaper041,,Model,Identification,Security,22,13,9,No
-Privacy Leakage via Unrestricted Motion-Position Sensors in the Age of Virtual Reality: A Study of Snooping Typed Input on Virtual Keyboards,metaversepaper007,,Technique,Anonymity & Pseudonymity,Privacy,14,11,3,No
-Low-effort VR Headset User Authentication Using Head-reverberated Sounds with Replay Resistance,metaversepaper008,,Technique,Authentication,Security,30,23,7,No
-"Hidden Reality: Caution, Your Hand Gesture Inputs in the Immersive Virtual World are Visible to All!",metaversepaper020,,Technique,Confidentiality,Security,42,23,18,Yes
-FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors,metaversepaper059,,Technique,Authentication,Security,34,24,10,No
-SmartPoser: Arm Pose Estimation with a Smartphone and Smartwatch Using UWB and IMU Data,metaversepaper087,,Technique,Confidentiality,Security,10,7,3,No
-HoloLogger: Keystroke Inference on Mixed Reality Head Mounted Displays,metaversepaper071,,Technique,Unobservability & Undetectability,Privacy,25,16,9,Yes
-A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments,metaversepaper074,,Technique,Unlinkability,Privacy,5,4,1,No
-Designing Leakage-Resilient Password Entry on Head-Mounted Smart Wearable Glass Devices,metaversepaper036,,Technique,Integrity,Security,57,29,28,No
-The Security-Utility Trade-off for Iris Authentication and Eye Animation for Social Virtual Avatars,metaversepaper102,,Technique,Unobservability & Undetectability,Privacy,20,11,8,No
-GaitLock: Protect Virtual and Augmented Reality Headsets Using Gait,metaversepaper032,,Technique,Anonymity & Pseudonymity,Privacy,20,12,8,No
-Virtual U: Defeating Face Liveness Detection by Building Virtual Models From Your Public Photos,metaversepaper016,,Technique,Unobservability & Undetectability,Privacy,20,14,6,No
-,,,,,,,,,
-,,,,,,,Average,43.90243902,19.19512195
-,,,,,,,Std Dev S,54.8196155,28.53350619
-,,,,,,,Std Dev P,54.14695671,28.18338856
-,,,,,,,Median,24,9
-,,,,,,,Mode,20,7
+﻿Paper Title,Reference Id,Ref,Paper Type,Topic,Topic2,Participant Number,Male Participant Number,Female Participant Number,Question Available,Female Percentage
+Reframe: An Augmented Reality Storyboarding Tool for Character-Driven Analysis of Security &amp; Privacy Concerns,metaversepaper088,,Application,Unlinkability,Privacy,12,6,6,No,50%
+Visual Indicators Representing Avatars' Authenticity in Social Virtual Reality and Their Impacts on Perceived Trustworthiness,metaversepaper097,,Application,Integrity,Security,60,25,35,Yes,58%
+NailRing: An Intelligent Ring for Recognizing Micro-gestures in Mixed Reality,metaversepaper084,,Application,Confidentiality,Security,10,6,4,No,40%
+Covert Embodied Choice: Decision-Making and the Limits of Privacy Under Biometric Surveillance,metaversepaper067,,Application,Plausible Deniability,Privacy,55,21,34,No,62%
+Crowdsourcing Design Guidance for Contextual Adaptation of Text Content in Augmented Reality,metaversepaper068,,Application,Content Awareness,Privacy,200,113,84,No,42%
+OcuLock: Exploring Human Visual System for Authentication in Virtual Reality Head-mounted Display,metaversepaper009,,Application,Authentication,Security,70,43,27,No,39%
+Investigating the Third Dimension for Authentication in Immersive Virtual Reality and in the Real World,metaversepaper078,,Application,Authentication,Security,126,78,48,No,38%
+HoloPair: Securing Shared Augmented Reality Using Microsoft HoloLens,metaversepaper027,,Application,Confidentiality,Security,22,18,14,Yes,64%
+Exploring the Privacy Risks of Adversarial VR Game Design,metaversepaper042,,Evaluation,Unobservability & Undetectability,Privacy,50,26,24,Yes,48%
+Speculative Privacy Concerns About AR Glasses Data Collection,metaversepaper043,,Evaluation,Content Awareness,Privacy,21,10,7,Yes,33%
+Investigating Security Indicators for Hyperlinking Within the Metaverse,metaversepaper049,,Evaluation,Content Awareness,Privacy,25,11,14,No,56%
+"An Investigation of Teenager Experiences in Social Virtual Reality from Teenagers', Parents', and Bystanders' Perspectives",metaversepaper050,,Evaluation,Content Awareness,Privacy,24,15,8,Yes,33%
+Understanding Context to Capture when Reconstructing Meaningful Spaces for Remote Instruction and Connecting in XR,metaversepaper098,,Evaluation,Content Awareness,Privacy,18,3,15,No,83%
+"Something Personal from the Metaverse: Goals, Topics, and Contextual Factors of Self-Disclosure in Commercial Social VR",metaversepaper063,,Evaluation,Confidentiality,Security,126,77,14,No,11%
+The Dark Side of Perceptual Manipulations in Virtual Reality,metaversepaper099,,Evaluation,Unobservability & Undetectability,Privacy,8,4,4,No,50%
+Understanding User Identification in Virtual Reality Through Behavioral Biometrics and the Effect of Body Normalization,metaversepaper065,,Evaluation,Identification,Security,16,14,2,No,13%
+RepliCueAuth: Validating the Use of a Lab-Based Virtual Reality Setup for Evaluating Authentication Systems,metaversepaper066,,Evaluation,Authentication,Security,42,24,18,Yes,43%
+Influence of Interactivity and Social Environments on User Experience and Social Acceptability in Virtual Reality,metaversepaper077,,Evaluation,Confidentiality,Security,28,21,7,Yes,25%
+Designing AR Visualizations to Facilitate Stair Navigation for People with Low Vision,metaversepaper089,,Evaluation,Content Awareness,Privacy,12,6,6,No,50%
+Towards Security and Privacy for Multi-user Augmented Reality: Foundations with End Users,metaversepaper005,,Evaluation,Identification,Security,22,15,7,Yes,32%
+Efficient verification of holograms using mobile augmented reality,metaversepaper094,,Evaluation,Confidentiality,Security,24,22,2,No,8%
+Candid Interaction: Revealing Hidden Mobile and Wearable Computing Activities,metaversepaper090,,Evaluation,Content Awareness,Privacy,100,46,54,No,54%
+Design and Analysis of Shoulder Surfing Resistant PIN Based Authentication Mechanisms on Google Glass,metaversepaper031,,Evaluation,Authentication,Security,30,19,11,No,37%
+Ethics emerging: The story of privacy and security perceptions in virtual reality,metaversepaper047,,Evaluation,Authorization,Security,20,68,30,Yes,150%
+Evaluating and redefining smartphone permissions with contextualized justifications for mobile augmented reality apps,metaversepaper048,,Evaluation,Policy & Consent Compliance,Privacy,289,113,165,Yes,57%
+In situ with bystanders of augmented reality glasses: perspectives on recording and privacy-mediating technologies,metaversepaper069,,Evaluation,Confidentiality,Security,31,18,13,Yes,42%
+Virtual Reality Observations: Using Virtual Reality to Augment Lab-Based Shoulder Surfing Research,metaversepaper106,,Evaluation,Authentication,Security,18,5,13,Yes,72%
+Can I Borrow Your ATM? Using Virtual Reality for (Simulated) In Situ Authentication Research,metaversepaper107,,Evaluation,Authentication,Security,20,13,7,Yes,35%
+Behavioural Biometrics in VR: Identifying People from Body Motion and Relations in Virtual Reality,metaversepaper104,,Evaluation,Identification,Security,22,18,4,No,18%
+Understanding Person Identification Through Gait,metaversepaper041,,Model,Identification,Security,22,13,9,No,41%
+Privacy Leakage via Unrestricted Motion-Position Sensors in the Age of Virtual Reality: A Study of Snooping Typed Input on Virtual Keyboards,metaversepaper007,,Technique,Anonymity & Pseudonymity,Privacy,14,11,3,No,21%
+Low-effort VR Headset User Authentication Using Head-reverberated Sounds with Replay Resistance,metaversepaper008,,Technique,Authentication,Security,30,23,7,No,23%
+"Hidden Reality: Caution, Your Hand Gesture Inputs in the Immersive Virtual World are Visible to All!",metaversepaper020,,Technique,Confidentiality,Security,42,23,18,Yes,43%
+FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors,metaversepaper059,,Technique,Authentication,Security,34,24,10,No,29%
+SmartPoser: Arm Pose Estimation with a Smartphone and Smartwatch Using UWB and IMU Data,metaversepaper087,,Technique,Confidentiality,Security,10,7,3,No,30%
+HoloLogger: Keystroke Inference on Mixed Reality Head Mounted Displays,metaversepaper071,,Technique,Unobservability & Undetectability,Privacy,25,16,9,Yes,36%
+A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments,metaversepaper074,,Technique,Unlinkability,Privacy,5,4,1,No,20%
+Designing Leakage-Resilient Password Entry on Head-Mounted Smart Wearable Glass Devices,metaversepaper036,,Technique,Integrity,Security,57,29,28,No,49%
+The Security-Utility Trade-off for Iris Authentication and Eye Animation for Social Virtual Avatars,metaversepaper102,,Technique,Unobservability & Undetectability,Privacy,20,11,8,No,40%
+GaitLock: Protect Virtual and Augmented Reality Headsets Using Gait,metaversepaper032,,Technique,Anonymity & Pseudonymity,Privacy,20,12,8,No,40%
+Virtual U: Defeating Face Liveness Detection by Building Virtual Models From Your Public Photos,metaversepaper016,,Technique,Unobservability & Undetectability,Privacy,20,14,6,No,30%
+Privacy-Preserving Gaze Data Streaming in Immersive Interactive Virtual Reality: Robustness and User Experience,metaversepaper139,,Technique,Authentication,Security,44,,15,,34%
+Motion Passwords,metaversepaper130,,Technique,Authentication,Security,48,,39,,81%
+Eavesdropping on Controller Acoustic Emanation for Keystroke Inference Attack in Virtual Reality,metaversepaper114,,Technique,Authentication,Security,30,,12,,40%
+Time to Think the Security of WiFi-Based Behavior Recognition Systems,metaversepaper136,,Technique,Authentication,Security,25,,7,,28%
+Usable Authentication in Virtual Reality: Exploring the Usability of PINs and Gestures,metaversepaper142,,Evaluation,Authentication,Security,40,,13,,33%
+Analysis and Design of Efficient Authentication Techniques for Password Entry with the Qwerty Keyboard for VR Environments,metaversepaper141,,Evaluation,Authentication,Security,40,,20,,50%
+Dangers Behind Charging VR Devices: Hidden Side Channel Attacks via Charging Cables,metaversepaper137,,Technique,Confidentiality,Security,10,,5,,50%
+Kinetic Signatures: A Systematic Investigation of Movement-Based User Identification in Virtual Reality,metaversepaper123,,Application,Identification,Security,24,,7,,29%
+"Berkeley Open Extended Reality Recordings 2023 (BOXRR-23): 4.7 Million Motion Capture Recordings from 105,000 XR Users",metaversepaper140,,Application,Identification,Security,830,,74,,9%
+EgoTouch: On-Body Touch Input Using AR/VR Headset Cameras,metaversepaper129,,Technique,Unobservability & Undetectability,Privacy,15,,6,,40%
+Penetration Vision through Virtual Reality Headsets: Identifying 360-degree Videos from Head Movements,metaversepaper116,,Technique,Unobservability & Undetectability,Privacy,31,,16,,52%
+EITPose: Wearable and Practical Electrical Impedance Tomography for Continuous Hand Pose Estimation,metaversepaper120,,Application,Unobservability & Undetectability,Privacy,22,,11,,50%
+Assessing User Apprehensions About Mixed Reality Artifacts and Applications: The Mixed Reality Concerns (MRC) Questionnaire,metaversepaper121,,Evaluation,Content Awareness,Privacy,200,,100,,50%
+Exploring the Design Space of Optical See-through AR Head-Mounted Displays to Support First Responders in the Field,metaversepaper119,,Evaluation,Content Awareness,Privacy,26,,5,,19%
+Understanding Parentsâ€™ Perceptions and Practices Toward Childrenâ€™s Security and Privacy in Virtual Reality,metaversepaper113,,Evaluation,Content Awareness,Privacy,20,,6,,30%
+"Privacy in Immersive Extended Reality: Exploring User Perceptions, Concerns, and Coping Strategies",metaversepaper124,,Evaluation,Anonymity & Pseudonymity,Privacy,464,,222,,48%
+De-anonymizing VR Avatars using Non-VR Motion Side-channels,metaversepaper146,,Evaluation,Anonymity & Pseudonymity,Privacy,35,,14,,40%
+What You Experience is What We Collect: User Experience Based Fine-Grained Permissions for Everyday Augmented Reality,metaversepaper122,,Evaluation,Policy & Consent Compliance,Privacy,20,,9,,45%
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+An Anti-Disguise Authentication System Using the First Impression of Avatar in Metaverse,metaversepaper138,,Model,Authentication,Security,4,,No info on gender,,
+Can Virtual Reality Protect Users from Keystroke Inference Attacks?,metaversepaper117,,Evaluation,Confidentiality,Security,15,,No info on gender,,

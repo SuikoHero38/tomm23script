@@ -56,7 +56,7 @@ keywords_group2 = []
 #keywords_group2 = ["security", "privacy","authentication","attack","access control"]
 input_files = [f'input{i}new.csv' for i in range(1, 2)]  # Adjust range for the number of files
 #input_files = [f'records_with_keywords{i}.csv' for i in range(12, 12)]  # Adjust range for the number of files
-output_file = 'records_one2.csv'
+output_file = 'records_one3.csv'
 
 # Analyze files and save results
 none_records_examples = analyze_and_save_files(input_files, output_file, keywords_group1, keywords_group2)

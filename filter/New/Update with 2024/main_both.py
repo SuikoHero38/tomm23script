@@ -51,7 +51,7 @@ keywords_group1 = ["metaverse", "extended reality", "mixed reality", "augmented 
 #keywords_group2 = ["security", "privacy","authentication","attack","access","control","threat"]
 keywords_group2 = ["security", "privacy","authentication","attack","access control"]
 input_files = [f'input{i}new.csv' for i in range(1, 2)]  # Adjust range for the number of files
-output_file = 'records_both2.csv'
+output_file = 'records_both3.csv'
 
 # Analyze files and save results
 none_records_examples = analyze_and_save_files(input_files, output_file, keywords_group1, keywords_group2)

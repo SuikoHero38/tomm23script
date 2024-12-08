@@ -59,5 +59,5 @@ def plot_gender_distribution(df, gender, output_filename):
 
 # Example usage
 df = pd.read_csv('dataset2.csv')  # Make sure to have your dataset ready
-plot_gender_distribution(df, 'Male', 'male_participant_distribution')
-plot_gender_distribution(df, 'Female', 'female_participant_distribution')
+#plot_gender_distribution(df, 'Male', 'male_participant_distribution')
+plot_gender_distribution(df, 'Female', 'female_participant_distribution_2024')
