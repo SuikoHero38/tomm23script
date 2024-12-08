@@ -1,0 +1,128 @@
+Application [2] Authentication
+Evaluation [7] Authentication
+Model [2] Authentication
+Technique [11] Authentication
+Application [3] Confidentiality
+Evaluation [5] Confidentiality
+System [1] Confidentiality
+Technique [3] Confidentiality
+Application [4] Authorization
+Evaluation [3] Authorization
+System [2] Authorization
+Technique [1] Authorization
+Application [3] Integrity
+Evaluation [1] Integrity
+Model [1] Integrity
+Technique [5] Integrity
+Application [2] Identification
+Evaluation [4] Identification
+Model [1] Identification
+Technique [2] Identification
+Application [1] Availability
+Technique [2] Availability
+Application [2] Non-repudiation
+Application [1] Unobservability
+Evaluation [4] Unobservability
+Model [1] Unobservability
+Technique [8] Unobservability
+Application [2] Awareness
+Evaluation [10] Awareness
+Application [1] Anonymity
+Evaluation [2] Anonymity
+Technique [5] Anonymity
+Application [3] Policy
+Evaluation [3] Policy
+Application [1] Unlinkability
+Evaluation [1] Unlinkability
+System [1] Unlinkability
+Technique [1] Unlinkability
+Application [1] Deniability
+Technique [1] Deniability
+
+Authentication [13] Benchmarking
+Confidentiality [6] Benchmarking
+Authorization [6] Benchmarking
+Integrity [8] Benchmarking
+Identification [5] Benchmarking
+Availability [3] Benchmarking
+Non-repudiation [1] Benchmarking
+Unobservability [11] Benchmarking
+Anonymity [6] Benchmarking
+Policy [2] Benchmarking
+Unlinkability [3] Benchmarking
+Deniability [1] Benchmarking
+Authentication [14] Human Experimentation
+Confidentiality [7] Human Experimentation
+Authorization [1] Human Experimentation
+Integrity [5] Human Experimentation
+Identification [5] Human Experimentation
+Non-repudiation [1] Human Experimentation
+Unobservability [8] Human Experimentation
+Awareness [9] Human Experimentation
+Anonymity [2] Human Experimentation
+Policy [3] Human Experimentation
+Unlinkability [1] Human Experimentation
+Deniability [1] Human Experimentation
+Authentication [5] Interview
+Confidentiality [2] Interview
+Authorization [3] Interview
+Integrity [1] Interview
+Identification [3] Interview
+Unobservability [3] Interview
+Awareness [9] Interview
+Anonymity [1] Interview
+Policy [2] Interview
+Unlinkability [1] Interview
+Authentication [7] Questionnaire
+Confidentiality [5] Questionnaire
+Authorization [1] Questionnaire
+Integrity [4] Questionnaire
+Identification [2] Questionnaire
+Unobservability [1] Questionnaire
+Awareness [5] Questionnaire
+Anonymity [1] Questionnaire
+Policy [2] Questionnaire
+Deniability [1] Questionnaire
+Authentication [8] Data Science
+Confidentiality [2] Data Science
+Integrity [4] Data Science
+Identification [2] Data Science
+Non-repudiation [1] Data Science
+Unobservability [4] Data Science
+Anonymity [3] Data Science
+Unlinkability [2] Data Science
+Authentication [1] Engineering Research
+Authorization [3] Engineering Research
+Identification [1] Engineering Research
+Unobservability [3] Engineering Research
+Policy [1] Engineering Research
+Authentication [1] Meta Science
+Integrity [1] Meta Science
+Awareness [1] Meta Science
+
+Benchmarking [64] Algorithm Performance
+Human Experimentation [23] Algorithm Performance
+Interview [4] Algorithm Performance
+Questionnaire [6] Algorithm Performance
+Data Science [24] Algorithm Performance
+Engineering Research [6] Algorithm Performance
+Meta Science [1] Algorithm Performance
+Benchmarking [8] Environment and Practices
+Human Experimentation [37] Environment and Practices
+Interview [29] Environment and Practices
+Questionnaire [26] Environment and Practices
+Data Science [1] Environment and Practices
+Engineering Research [3] Environment and Practices
+Meta Science [2] Environment and Practices
+Benchmarking [9] User Performance
+Human Experimentation [28] User Performance
+Interview [7] User Performance
+Questionnaire [17] User Performance
+Data Science [5] User Performance
+Engineering Research [1] User Performance
+Benchmarking [6] User Experience
+Human Experimentation [27] User Experience
+Interview [12] User Experience
+Questionnaire [19] User Experience
+Data Science [3] User Experience
+Meta Science [1] User Experience
